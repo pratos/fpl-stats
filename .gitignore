@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Custom ignored
-gpt3_config.yml
+.vscode
 
 .tool-versions
 db/results.db
