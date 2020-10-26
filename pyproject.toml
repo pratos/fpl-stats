@@ -10,10 +10,18 @@ click = "^7.1.2"
 streamlit = "^0.69.2"
 loguru = "^0.5.3"
 pandas = "^1.1.3"
+install = "^1.3.4"
+jsonschema = "3.0.2"
+lxml = "^4.6.1"
+beautifulsoup4 = "^4.9.3"
+coconut = "^1.4.3"
+pipetools = "^0.3.6"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
 jupyter = "^1.0.0"
+yapf = "^0.30.0"
+jupyter_nbextensions_configurator = "^0.4.1"
 
 [build-system]
 requires = ["poetry>=0.12"]
