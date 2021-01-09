@@ -5,6 +5,8 @@ from pathlib import Path
 import click
 from loguru import logger
 
+from run import run_fbref
+
 THIS_DIRECTORY = Path(__file__).parent
 
 
@@ -12,7 +14,13 @@ THIS_DIRECTORY = Path(__file__).parent
 def st_server():
     logger.info("Starting server...")
     subprocess.run(
-        ["poetry", "run", "streamlit", "run", str(THIS_DIRECTORY / "src/app/home.py"),],
+        [
+            "poetry",
+            "run",
+            "streamlit",
+            "run",
+            str(THIS_DIRECTORY / "src/app/home.py"),
+        ],
         check=True,
         universal_newlines=True,
     )
@@ -28,6 +36,12 @@ def migrations():
         universal_newlines=True,
     )
     logger.info("Completed succeessfully")
+
+
+@click.command()
+def fbref_scraper():
+    logger.info("Starting scraping for Fbref...")
+    run_fbref(debug=True)
 
 
 @click.command()
