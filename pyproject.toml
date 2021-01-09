@@ -5,7 +5,7 @@ description = ""
 authors = ["Prathamesh Sarang <prthamesh@hey.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8.2"
+python = "^3.8.6"
 click = "^7.1.2"
 streamlit = "^0.69.2"
 loguru = "^0.5.3"
