@@ -21,7 +21,7 @@ from src.fbref.utilities import get_proxy_format
 load_dotenv()
 
 
-def run_fbref(via_proxy: bool = True, debug: bool = False) -> None:
+def run_fbref(via_proxy: bool = True, debug: bool = False):
     proxies = fetch_proxies(debug=debug)
     try:
         for team in TEAM_URLS.items():
@@ -65,6 +65,18 @@ def run_fbref(via_proxy: bool = True, debug: bool = False) -> None:
 
             misc_stats = extract_misc_stats(response=response)
             logger.info(f"[TEAM:{team[0].upper()}] Example Misc stats: {misc_stats[0]}")
+
+            return {
+                "team": team,
+                "shooting_stats": shooting_stats,
+                "passing_stats": passing_stats,
+                "extra_passing_stats": extra_passing_stats,
+                "gca_stats": gca_stats,
+                "defensive_action_stats": defensive_action_stats,
+                "possession_stats": posession_stats,
+                "playing_time_stats": playing_time_stats,
+                "misc_stats": misc_stats,
+            }
     except Exception as err:
         logger.exception(err)
 
