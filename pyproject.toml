@@ -2,7 +2,7 @@
 name = "fpl-stats-streamlit"
 version = "0.1.0"
 description = ""
-authors = ["Prathamesh Sarang <prthamesh@hey.com>"]
+authors = ["Prathamesh Sarang <prathamesh.b.sarang@gmail.com>"]
 
 [tool.poetry.scripts]
 "fbref_scraper" = "scripts:fbref_scraper"
