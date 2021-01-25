@@ -3,7 +3,7 @@ from fastcore.basics import typed
 from loguru import logger
 from requests.models import Response
 
-from fbref.constants import (
+from src.constants import (
     FBREF_DEF_ACTIONS,
     FBREF_GCA,
     FBREF_MISC,
@@ -23,7 +23,7 @@ from src.fbref.collections import (
     PossessionStats,
     ShootingStats,
 )
-from src.fbref.utilities import format_age, to_float
+from src.utilities import format_age, to_float
 
 
 @typed
