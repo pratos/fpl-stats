@@ -1,6 +1,8 @@
 import os
 import re
 from datetime import date
+from io import StringIO
+from logging import debug
 
 import pandas as pd
 import requests
@@ -9,7 +11,7 @@ from fastcore.foundation import L as flist
 from loguru import logger
 from requests.models import Response
 
-from src.fbref.constants import FBREF_DATA, FPL_URL_STATIC, STATS_AVAILABLE, TEAM_URLS
+from src.fbref.constants import FPL_URL_STATIC, STATS_AVAILABLE, TEAM_URLS
 from src.fbref.scraper import (
     extract_defensive_actions,
     extract_extra_passing_stats,
@@ -23,6 +25,21 @@ from src.fbref.scraper import (
 from src.fbref.utilities import get_proxy_format
 
 load_dotenv()
+
+import boto3
+
+if debug:
+    logger.info(f"KEY: {os.getenv('DO_SPACES_KEY')}")
+    logger.info(f"SECRET: {os.getenv('DO_SPACES_SECRET')}")
+
+session = boto3.session.Session()
+client = session.client(
+    "s3",
+    region_name="fra1",
+    endpoint_url=os.getenv("DO_ENDPOINT"),
+    aws_access_key_id=os.getenv("DO_SPACES_KEY"),
+    aws_secret_access_key=os.getenv("DO_SPACES_SECRET"),
+)
 
 
 def run_fbref(via_proxy: bool = False, debug: bool = False) -> None:
@@ -72,11 +89,19 @@ def run_fbref(via_proxy: bool = False, debug: bool = False) -> None:
                 }
             )
         formatted_dataframe = generate_csv(stats=team_details)
-        t_now = re.sub(r"\D", "", str(date.today()))
-        gameweek = check_live_gw()
-        formatted_dataframe.to_csv(FBREF_DATA / f"{t_now}_GW{gameweek}_fbref.csv", index=False)
+        load_file_to_do_spaces(dataframe=formatted_dataframe)
     except Exception as err:
         logger.exception(err)
+
+
+def load_file_to_do_spaces(dataframe: pd.DataFrame):
+    t_now = re.sub(r"\D", "", str(date.today()))
+    gameweek = check_live_gw()
+    csv_buffer = StringIO()
+    dataframe.to_csv(csv_buffer)
+    client.put_object(
+        Bucket=os.getenv("DO_BUCKET"), Key=f"{t_now}_GW{gameweek}_fbref.csv", Body=csv_buffer.getvalue(), ACL="private"
+    )
 
 
 def check_live_gw():
