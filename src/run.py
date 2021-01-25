@@ -39,7 +39,7 @@ def run_fpl_official(via_proxy: bool = False, debug: bool = False) -> None:
             [extract_player_fpl_stats(player=player, fpl_team_mapper=fpl_team_mapper) for player in fpl_players]
         )
         fpl_player_stats_df = pd.DataFrame.from_dict(fpl_player_stats)
-        load_file_to_do_spaces(dataframe=fpl_player_stats_df)
+        load_file_to_do_spaces(dataframe=fpl_player_stats_df, source="fpl_official")
     except Exception as err:
         logger.exception(err)
 
@@ -91,6 +91,6 @@ def run_fbref(via_proxy: bool = False, debug: bool = False) -> None:
                 }
             )
         formatted_dataframe = generate_csv(stats=team_details)
-        load_file_to_do_spaces(dataframe=formatted_dataframe)
+        load_file_to_do_spaces(dataframe=formatted_dataframe, source="fbref")
     except Exception as err:
         logger.exception(err)

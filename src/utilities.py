@@ -44,13 +44,16 @@ def get_proxy_format(proxy_element: str):
     return f"http://{proxy_element['proxy_address']}:{proxy_element['ports']['http']}:{proxy_element['username']}:{proxy_element['password']}"
 
 
-def load_file_to_do_spaces(dataframe: pd.DataFrame):
+def load_file_to_do_spaces(dataframe: pd.DataFrame, source: str = "fbref"):
     t_now = re.sub(r"\D", "", str(date.today()))
     gameweek = check_live_gw()
     csv_buffer = StringIO()
     dataframe.to_csv(csv_buffer)
     build_client().put_object(
-        Bucket=os.getenv("DO_BUCKET"), Key=f"{t_now}_GW{gameweek}_fbref.csv", Body=csv_buffer.getvalue(), ACL="private"
+        Bucket=os.getenv("DO_BUCKET"),
+        Key=f"{source}/{t_now}_GW{gameweek}_{source}.csv",
+        Body=csv_buffer.getvalue(),
+        ACL="private",
     )
 
 
@@ -85,8 +88,6 @@ def generate_csv(stats) -> pd.DataFrame:
 
 def fetch_proxies(debug: bool = False):
     logger.info("Fetching proxies...")
-    if debug:
-        logger.info(f"URL ---> {os.getenv('PROXY_API_URL')}")
 
     proxy_response = requests.get(
         os.getenv("PROXY_API_URL"),
