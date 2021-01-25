@@ -35,13 +35,14 @@ def migrations():
         check=True,
         universal_newlines=True,
     )
-    logger.info("Completed succeessfully")
 
+    logger.info("Completed successfully")
 
 @click.command()
-def fbref_scraper():
+@click.argument("debug", envvar="DEBUG", type=bool)
+def fbref_scraper(debug: bool):
     logger.info("Starting scraping for Fbref...")
-    run_fbref(debug=True)
+    run_fbref(debug=debug)
 
 
 @click.command()
