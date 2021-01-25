@@ -27,7 +27,7 @@ def _call(cmd, options=[]) -> None:
 
 
 def lint() -> None:
-    _call("black --check --diff", files)
+    _call("black --check --diff --color", files)
 
 
 def test() -> None:

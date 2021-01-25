@@ -4,7 +4,13 @@ version = "0.1.0"
 description = ""
 authors = ["Prathamesh Sarang <prathamesh.b.sarang@gmail.com>"]
 
+[tool.black]
+line-length = 120
+target-version = ['py38']
+
 [tool.poetry.scripts]
+lint = "scripts:lint"
+tests = "scripts:test"
 "fbref_scraper" = "scripts:fbref_scraper"
 
 [tool.poetry.dependencies]
@@ -36,6 +42,7 @@ jupyter_nbextensions_configurator = "^0.4.1"
 pre-commit = "^2.9.3"
 isort = "^5.7.0"
 autoflake = "^1.4"
+black = {version = "20.8b0", allow-prereleases = true}
 
 [build-system]
 requires = ["poetry>=0.12"]
