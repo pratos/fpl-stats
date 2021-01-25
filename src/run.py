@@ -1,11 +1,15 @@
 import os
 
 import requests
+from datetime import date
+import re
 from dotenv import load_dotenv
+import pandas as pd
 from loguru import logger
 from requests.models import Response
+from fastcore.foundation import L as flist
 
-from src.fbref.constants import TEAM_URLS
+from src.fbref.constants import FBREF_DATA, FPL_URL_STATIC, STATS_AVAILABLE, TEAM_URLS
 from src.fbref.scraper import (
     extract_defensive_actions,
     extract_extra_passing_stats,
@@ -20,14 +24,14 @@ from src.fbref.utilities import get_proxy_format
 
 load_dotenv()
 
-
-def run_fbref(via_proxy: bool = True, debug: bool = False):
+def run_fbref(via_proxy: bool = False, debug: bool = False) -> None:
     proxies = fetch_proxies(debug=debug)
+    team_details = []
     try:
         for team in TEAM_URLS.items():
             logger.info(f"[TEAM:{team[0].upper()}] Fetching data from Fbref")
             response = request_obj(
-                team_url=team[1], proxies=proxies, via_proxy=via_proxy
+                url=team[1], proxies=proxies, via_proxy=via_proxy
             )
 
             shooting_stats = extract_shooting_stats(response=response)
@@ -66,25 +70,57 @@ def run_fbref(via_proxy: bool = True, debug: bool = False):
             misc_stats = extract_misc_stats(response=response)
             logger.info(f"[TEAM:{team[0].upper()}] Example Misc stats: {misc_stats[0]}")
 
-            return {
-                "team": team,
-                "shooting_stats": shooting_stats,
-                "passing_stats": passing_stats,
-                "extra_passing_stats": extra_passing_stats,
-                "gca_stats": gca_stats,
-                "defensive_action_stats": defensive_action_stats,
-                "possession_stats": posession_stats,
-                "playing_time_stats": playing_time_stats,
-                "misc_stats": misc_stats,
-            }
+            team_details.append(
+                {
+                    "team": team[0].upper(),
+                    "fbref_url": team[1],
+                    "shooting_stats": shooting_stats,
+                    "passing_stats": passing_stats,
+                    "extra_passing_stats": extra_passing_stats,
+                    "gca_stats": gca_stats,
+                    "defensive_action_stats": defensive_action_stats,
+                    "possession_stats": posession_stats,
+                    "playing_time_stats": playing_time_stats,
+                    "misc_stats": misc_stats,
+                }
+            )
+        formatted_dataframe = generate_csv(stats=team_details)
+        t_now = re.sub(r'\D', '', str(date.today()))
+        gameweek = check_live_gw()
+        formatted_dataframe.to_csv(FBREF_DATA / f"{t_now}_GW{gameweek}_fbref.csv", index=False)
     except Exception as err:
         logger.exception(err)
 
 
+def check_live_gw():
+    proxies = fetch_proxies(debug=False)
+    try:
+        all_fpl_data_raw = request_obj(url=FPL_URL_STATIC, proxies=proxies, via_proxy=True)
+        if all_fpl_data_raw.status_code != 200:
+            raise Exception
+        all_fpl_data = all_fpl_data_raw.json()
+        gameweek_list = flist([{"gw": event["name"], "finished": event["finished"]} for event in all_fpl_data["events"]])
+        return gameweek_list.filter(lambda x: not x["finished"])[0]["gw"].split(" ")[1]
+    except Exception as err:
+        logger.exception(err)
+
+def generate_csv(stats) -> pd.DataFrame:
+    fbref_all = pd.DataFrame({})
+    for team_stat in stats:
+        team_lvl = pd.DataFrame({})
+        logger.info(f"Formatting data for {team_stat['team'].title()}")
+        for stats in STATS_AVAILABLE:
+            if team_lvl.size == 0:
+                team_lvl = pd.DataFrame(team_stat[stats])
+            else:
+                team_lvl = pd.merge(team_lvl, pd.DataFrame(team_stat[stats]), on=['name'])
+        fbref_all = pd.concat([fbref_all, team_lvl])
+    return fbref_all
+
 def fetch_proxies(debug: bool = False):
     logger.info("Fetching proxies...")
     proxy_response = requests.get(
-        "https://proxy.webshare.io/api/proxy/list/?page=1",
+        os.getenv("PROXY_API_URL"),
         headers={"Authorization": f"Token {os.getenv('PROXY_API_KEY')}"},
         timeout=120,
     )
@@ -102,7 +138,7 @@ def fetch_proxies(debug: bool = False):
     return proxies
 
 
-def request_obj(team_url: str, proxies: list, via_proxy: bool) -> Response:
+def request_obj(url: str, proxies: list, via_proxy: bool) -> Response:
     if via_proxy:
-        return requests.get(team_url, proxies={"http": proxies}, timeout=120)
-    return requests.get(team_url, timeout=120)
+        return requests.get(url, proxies={"http": proxies}, timeout=120)
+    return requests.get(url, timeout=120)

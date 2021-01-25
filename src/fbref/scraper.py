@@ -28,55 +28,58 @@ from src.fbref.utilities import format_age, to_float
 
 @typed
 def extract_shooting_stats(response: Response) -> list:
-    shooting_stats = []
-    shooting = BeautifulSoup(response.content, features="lxml").find(
-        attrs={"id": FBREF_SHOOTING}
-    )
-    shooting = BeautifulSoup(shooting.contents[5], features="lxml").find_all("tr")[2:-2]
-
-    for stat in shooting:
-        shooting_stats.append(
-            ShootingStats(
-                name=(stat.find("th").text),
-                profile_url=f'https://fbref.com{stat.find("a").attrs["href"]}',
-                nationality=stat.find(attrs={"data-stat": "nationality"}).text.split(
-                    " "
-                ),
-                position=stat.find(attrs={"data-stat": "position"}).text,
-                age=format_age(stat.find(attrs={"data-stat": "age"}).text),
-                minutes_90s=float(stat.find(attrs={"data-stat": "minutes_90s"}).text),
-                goals=int(stat.find(attrs={"data-stat": "goals"}).text),
-                shots_total=int(stat.find(attrs={"data-stat": "shots_total"}).text),
-                shots_on_target=int(
-                    stat.find(attrs={"data-stat": "shots_on_target"}).text
-                ),
-                shots_on_target_pct=to_float(
-                    stat.find(attrs={"data-stat": "shots_on_target_pct"}).text
-                ),
-                shots_total_per90=to_float(
-                    stat.find(attrs={"data-stat": "shots_total_per90"}).text
-                ),
-                goals_per_shot=to_float(
-                    stat.find(attrs={"data-stat": "goals_per_shot"}).text
-                ),
-                goals_per_shot_on_target=to_float(
-                    stat.find(attrs={"data-stat": "goals_per_shot_on_target"}).text
-                ),
-                shots_free_kicks=to_float(
-                    stat.find(attrs={"data-stat": "shots_free_kicks"}).text
-                ),
-                pens_made=int(stat.find(attrs={"data-stat": "pens_made"}).text),
-                pens_att=int(stat.find(attrs={"data-stat": "pens_att"}).text),
-                xg=to_float(stat.find(attrs={"data-stat": "xg"}).text),
-                npxg=to_float(stat.find(attrs={"data-stat": "npxg"}).text),
-                npxg_per_shot=to_float(
-                    stat.find(attrs={"data-stat": "npxg_per_shot"}).text
-                ),
-                xg_net=stat.find(attrs={"data-stat": "xg_net"}).text,
-                npxg_net=stat.find(attrs={"data-stat": "npxg_net"}).text,
-            )
+    try:
+        shooting_stats = []
+        shooting = BeautifulSoup(response.content, features="lxml").find(
+            attrs={"id": FBREF_SHOOTING}
         )
-    return shooting_stats
+        shooting = BeautifulSoup(shooting.contents[4], features="lxml").find_all("tr")[2:-2]
+
+        for stat in shooting:
+            shooting_stats.append(
+                ShootingStats(
+                    name=(stat.find("th").text),
+                    profile_url=f'https://fbref.com{stat.find("a").attrs["href"]}',
+                    nationality=stat.find(attrs={"data-stat": "nationality"}).text.split(
+                        " "
+                    ),
+                    position=stat.find(attrs={"data-stat": "position"}).text,
+                    age=format_age(stat.find(attrs={"data-stat": "age"}).text),
+                    minutes_90s=float(stat.find(attrs={"data-stat": "minutes_90s"}).text),
+                    goals=int(stat.find(attrs={"data-stat": "goals"}).text),
+                    shots_total=int(stat.find(attrs={"data-stat": "shots_total"}).text),
+                    shots_on_target=int(
+                        stat.find(attrs={"data-stat": "shots_on_target"}).text
+                    ),
+                    shots_on_target_pct=to_float(
+                        stat.find(attrs={"data-stat": "shots_on_target_pct"}).text
+                    ),
+                    shots_total_per90=to_float(
+                        stat.find(attrs={"data-stat": "shots_total_per90"}).text
+                    ),
+                    goals_per_shot=to_float(
+                        stat.find(attrs={"data-stat": "goals_per_shot"}).text
+                    ),
+                    goals_per_shot_on_target=to_float(
+                        stat.find(attrs={"data-stat": "goals_per_shot_on_target"}).text
+                    ),
+                    shots_free_kicks=to_float(
+                        stat.find(attrs={"data-stat": "shots_free_kicks"}).text
+                    ),
+                    pens_made=int(stat.find(attrs={"data-stat": "pens_made"}).text),
+                    pens_att=int(stat.find(attrs={"data-stat": "pens_att"}).text),
+                    xg=to_float(stat.find(attrs={"data-stat": "xg"}).text),
+                    npxg=to_float(stat.find(attrs={"data-stat": "npxg"}).text),
+                    npxg_per_shot=to_float(
+                        stat.find(attrs={"data-stat": "npxg_per_shot"}).text
+                    ),
+                    xg_net=stat.find(attrs={"data-stat": "xg_net"}).text,
+                    npxg_net=stat.find(attrs={"data-stat": "npxg_net"}).text,
+                )
+            )
+        return shooting_stats
+    except Exception as err:
+        logger.exception(err)
 
 
 @typed
@@ -86,7 +89,7 @@ def extract_passing_stats(response: Response) -> list:
     passing = BeautifulSoup(response.content, features="lxml").find(
         attrs={"id": FBREF_PASSING}
     )
-    passing = BeautifulSoup(passing.contents[5], features="lxml").find_all("tr")[2:-2]
+    passing = BeautifulSoup(passing.contents[4], features="lxml").find_all("tr")[2:-2]
 
     for stat in passing:
         passing_stats.append(
@@ -154,7 +157,7 @@ def extract_extra_passing_stats(response: Response) -> list:
     extra_passing = BeautifulSoup(response.content, features="lxml").find(
         attrs={"id": FBREF_XTRA_PASSING}
     )
-    extra_passing = BeautifulSoup(extra_passing.contents[5], features="lxml").find_all(
+    extra_passing = BeautifulSoup(extra_passing.contents[4], features="lxml").find_all(
         "tr"
     )[2:-2]
 
@@ -221,7 +224,7 @@ def extract_extra_passing_stats(response: Response) -> list:
 def extract_gca_stats(response: Response) -> list:
     gca_stats = []
     gca = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_GCA})
-    gca = BeautifulSoup(gca.contents[5], features="lxml").find_all("tr")[2:-2]
+    gca = BeautifulSoup(gca.contents[4], features="lxml").find_all("tr")[2:-2]
 
     for stat in gca:
         gca_stats.append(
@@ -261,7 +264,7 @@ def extract_defensive_actions(response: Response) -> list:
     defensive = BeautifulSoup(response.content, features="lxml").find(
         attrs={"id": FBREF_DEF_ACTIONS}
     )
-    defensive = BeautifulSoup(defensive.contents[5], features="lxml").find_all("tr")[
+    defensive = BeautifulSoup(defensive.contents[4], features="lxml").find_all("tr")[
         2:-2
     ]
 
@@ -329,7 +332,7 @@ def extract_possession_stats(response: Response) -> list:
     possesion = BeautifulSoup(response.content, features="lxml").find(
         attrs={"id": FBREF_POSSESSION}
     )
-    possesion = BeautifulSoup(possesion.contents[5], features="lxml").find_all("tr")[
+    possesion = BeautifulSoup(possesion.contents[4], features="lxml").find_all("tr")[
         2:-2
     ]
 
@@ -394,7 +397,7 @@ def extract_playing_time_stats(response: Response) -> list:
     playing_time = BeautifulSoup(response.content, features="lxml").find(
         attrs={"id": FBREF_PLAYING_TIME}
     )
-    playing_time = BeautifulSoup(playing_time.contents[5], features="lxml").find_all(
+    playing_time = BeautifulSoup(playing_time.contents[4], features="lxml").find_all(
         "tr"
     )[2:-2]
 
@@ -460,7 +463,7 @@ def extract_misc_stats(response: Response) -> list:
     misc = BeautifulSoup(response.content, features="lxml").find(
         attrs={"id": FBREF_MISC}
     )
-    misc = BeautifulSoup(misc.contents[5], features="lxml").find_all("tr")[2:-2]
+    misc = BeautifulSoup(misc.contents[4], features="lxml").find_all("tr")[2:-2]
 
     for stat in misc:
         misc_stats.append(

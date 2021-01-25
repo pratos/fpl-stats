@@ -1,3 +1,5 @@
+from pathlib import Path
+
 TEAM_URLS = {
     "liverpool": "https://fbref.com/en/squads/822bd0ba/Liverpool-Stats",
     "aston_villa": "https://fbref.com/en/squads/8602292d/Aston-Villa-Stats",
@@ -29,3 +31,10 @@ FBREF_DEF_ACTIONS = "all_stats_defense_10728"
 FBREF_POSSESSION = "all_stats_possession_10728"
 FBREF_PLAYING_TIME = "all_stats_playing_time_10728"
 FBREF_MISC = "all_stats_misc_10728"
+
+STATS_AVAILABLE = ["shooting_stats", "passing_stats", "extra_passing_stats", "gca_stats",
+                   "defensive_action_stats", "possession_stats", "playing_time_stats", "misc_stats"]
+
+ROOT_DIRECTORY = Path(__file__).parents[2]
+FBREF_DATA = Path( ROOT_DIRECTORY / "data/fbref-data")
+FPL_URL_STATIC = "https://fantasy.premierleague.com/api/bootstrap-static/"
