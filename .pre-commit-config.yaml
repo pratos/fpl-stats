@@ -9,27 +9,16 @@ repos:
             args: ['--maxkb=30000']
         -   id: trailing-whitespace
 -   repo: https://github.com/psf/black
-    rev: stable
+    rev: 20.8b0
     hooks:
     - id: black
       language_version: python3.8
+      args: [--line-length=120]
 -   repo: local
     hooks:
-    -   id: autoflake
-        name: autoflake
-        description: remove unused imports
-        entry: autoflake
-        args: [
-            "--in-place",
-            "--remove-unused-variables"
-        ]
-        language: python
-        language_version: python3.8
-        types: [python]
-        require_serial: true
-        additional_dependencies: [autoflake]
     -   id: isort
         name: isort
+        exclude: ^pattern
         description: Automatically sort imports.
         entry: isort
         args: [
@@ -40,3 +29,17 @@ repos:
         types: [python]
         require_serial: true
         additional_dependencies: [isort]
+    -   id: pytest
+        name: Run Pytest
+        description: Run Python unit-tests
+        entry: pytest
+        language: python
+        types: [python]
+        language_version: python3.8
+        require_serial: true
+        stages: [push]
+        additional_dependencies: [
+            pytest,
+            pytest-cov,
+            pytest-mock
+        ]
