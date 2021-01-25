@@ -1,6 +1,7 @@
 # Environment file
 
 .env
+data/fbref-data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
