@@ -1,6 +1,10 @@
+import pandas as pd
 from dotenv import load_dotenv
+from fastcore.foundation import L as flist
 from loguru import logger
 
+from constants import FPL_URL_STATIC
+from fpl.downloader import extract_player_fpl_stats, extract_team_details
 from src.constants import TEAM_URLS
 from src.fbref.scraper import (
     extract_defensive_actions,
@@ -20,6 +24,24 @@ from src.utilities import (
 )
 
 load_dotenv()
+
+
+def run_fpl_official(via_proxy: bool = False, debug: bool = False) -> None:
+    fpl_team_mapper = {}
+    proxies = fetch_proxies(debug=debug)
+    try:
+        fpl_request = request_obj(url=FPL_URL_STATIC, proxies=proxies, via_proxy=via_proxy)
+        all_fpl_data = fpl_request.json()
+        fpl_players = flist(all_fpl_data["elements"])
+        fpl_teams = flist(all_fpl_data["teams"])
+        [fpl_team_mapper.update(extract_team_details(team)) for team in fpl_teams]
+        fpl_player_stats = flist(
+            [extract_player_fpl_stats(player=player, fpl_team_mapper=fpl_team_mapper) for player in fpl_players]
+        )
+        fpl_player_stats_df = pd.DataFrame.from_dict(fpl_player_stats)
+        load_file_to_do_spaces(dataframe=fpl_player_stats_df)
+    except Exception as err:
+        logger.exception(err)
 
 
 def run_fbref(via_proxy: bool = False, debug: bool = False) -> None:

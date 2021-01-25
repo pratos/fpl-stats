@@ -43,6 +43,9 @@ STATS_AVAILABLE = [
     "misc_stats",
 ]
 
+CATEGORY_TYPES = {"1": "GKP", "2": "DEF", "3": "MID", "4": "FWD"}
+
 ROOT_DIRECTORY = Path(__file__).parents[2]
 FBREF_DATA = Path(ROOT_DIRECTORY / "data/fbref-data")
+FPL_DATA = Path(ROOT_DIRECTORY / "data/fpl-data")
 FPL_URL_STATIC = "https://fantasy.premierleague.com/api/bootstrap-static/"
