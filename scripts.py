@@ -11,7 +11,7 @@ from run import run_fbref
 
 THIS_DIRECTORY = Path(__file__).parent
 
-files = ["tests/", "invideoapp/", "scripts.py"]
+files = ["tests/", "src/", "scripts.py"]
 
 
 def _call(cmd, options=[]) -> None:
