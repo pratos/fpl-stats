@@ -32,9 +32,17 @@ FBREF_POSSESSION = "all_stats_possession_10728"
 FBREF_PLAYING_TIME = "all_stats_playing_time_10728"
 FBREF_MISC = "all_stats_misc_10728"
 
-STATS_AVAILABLE = ["shooting_stats", "passing_stats", "extra_passing_stats", "gca_stats",
-                   "defensive_action_stats", "possession_stats", "playing_time_stats", "misc_stats"]
+STATS_AVAILABLE = [
+    "shooting_stats",
+    "passing_stats",
+    "extra_passing_stats",
+    "gca_stats",
+    "defensive_action_stats",
+    "possession_stats",
+    "playing_time_stats",
+    "misc_stats",
+]
 
 ROOT_DIRECTORY = Path(__file__).parents[2]
-FBREF_DATA = Path( ROOT_DIRECTORY / "data/fbref-data")
+FBREF_DATA = Path(ROOT_DIRECTORY / "data/fbref-data")
 FPL_URL_STATIC = "https://fantasy.premierleague.com/api/bootstrap-static/"
