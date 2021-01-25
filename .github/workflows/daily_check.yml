@@ -47,6 +47,10 @@ jobs:
       env:
         PROXY_API_URL: ${{ secrets.PROXY_API_URL }}
         PROXY_API_KEY: ${{ secrets.PROXY_API_KEY }}
+        DO_BUCKET: ${{ secrets.DO_BUCKET }}
+        DO_ENDPOINT: ${{ secrets.DO_ENDPOINT }}
+        DO_SPACES_KEY: ${{ secrets.DO_SPACES_KEY }}
+        DO_SPACES_SECRET: ${{ secrets.DO_SPACES_SECRET }}
       run: |
         source $HOME/.poetry/env
         DEBUG=true poetry run fbref_scraper
