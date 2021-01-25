@@ -1705,14 +1705,6 @@ python-versions = ">=3.5"
 dev = ["pytest (>=4.6.2)", "black (>=19.3b0)"]
 
 [[package]]
-name = "yapf"
-version = "0.30.0"
-description = "A formatter for Python code."
-category = "dev"
-optional = false
-python-versions = "*"
-
-[[package]]
 name = "yarl"
 version = "1.6.3"
 description = "Yet another URL library"
@@ -1727,7 +1719,7 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8.6"
-content-hash = "7f340056f008919d9ab39ef71446fddfad8b353884a3aad479813aacb219084c"
+content-hash = "111bb7e08825729b1c1323449636c54925c1fa2b2d1158e71a0a9a03cf74d640"
 
 [metadata.files]
 aiohttp = [
@@ -2911,10 +2903,6 @@ widgetsnbextension = [
 win32-setctime = [
     {file = "win32_setctime-1.0.3-py3-none-any.whl", hash = "sha256:dc925662de0a6eb987f0b01f599c01a8236cb8c62831c22d9cada09ad958243e"},
     {file = "win32_setctime-1.0.3.tar.gz", hash = "sha256:4e88556c32fdf47f64165a2180ba4552f8bb32c1103a2fafd05723a0bd42bd4b"},
-]
-yapf = [
-    {file = "yapf-0.30.0-py2.py3-none-any.whl", hash = "sha256:3abf61ba67cf603069710d30acbc88cfe565d907e16ad81429ae90ce9651e0c9"},
-    {file = "yapf-0.30.0.tar.gz", hash = "sha256:3000abee4c28daebad55da6c85f3cd07b8062ce48e2e9943c8da1b9667d48427"},
 ]
 yarl = [
     {file = "yarl-1.6.3-cp36-cp36m-macosx_10_14_x86_64.whl", hash = "sha256:0355a701b3998dcd832d0dc47cc5dedf3874f966ac7f870e0f3a6788d802d434"},
