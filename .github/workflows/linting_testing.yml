@@ -1,0 +1,53 @@
+name: Run linting and testing
+
+on:
+  push:
+  pull_request:
+    types: [opened, ready_for_review, edited]
+
+jobs:
+  run-test-lint:
+
+    strategy:
+      matrix:
+        python-version: [3.8.6]
+        os: [ubuntu-20.04]
+
+    runs-on: ${{ matrix.os }}
+    steps:
+    - uses: actions/checkout@v2
+    - name: Update archives
+      run: sudo apt-get update
+    - name: Install lxml related tools
+      run: sudo apt-get install -y python3-lxml libxml2-dev libxslt1-dev python-dev
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Upgrade setuptools and pip
+      run: pip install -U pip setuptools
+    - name: Cache poetry install
+      uses: actions/cache@v2
+      with:
+        path: .venv
+        key: venv-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}
+    - name: Install poetry
+      run: |
+        curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py -o get-poetry.py
+        python3 get-poetry.py --version 1.1.4
+        source $HOME/.poetry/env
+        poetry --version
+    - name: Install dependencies
+      run: |
+        source $HOME/.poetry/env
+        poetry config virtualenvs.in-project true --local
+        poetry install
+      if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
+    - name: Lint with with black
+      run: |
+        source $HOME/.poetry/env
+        poetry run lint
+    - name: Test with pytest
+      run: |
+        source $HOME/.poetry/env
+        poetry run tests

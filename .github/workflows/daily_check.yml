@@ -1,9 +1,9 @@
-name: Run CI
+name: Run daily check on scrapers
 
 on:
   push:
-  pull_request:
-    types: [opened, ready_for_review, edited]
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   run-test-lint:
@@ -43,11 +43,7 @@ jobs:
         poetry config virtualenvs.in-project true --local
         poetry install
       if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
-    - name: Lint with with black
+    - name: Run Fbref scraper
       run: |
         source $HOME/.poetry/env
-        poetry run lint
-    - name: Test with pytest
-      run: |
-        source $HOME/.poetry/env
-        poetry run test
+        DEBUG=true poetry run fbref_scraper
