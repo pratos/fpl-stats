@@ -110,6 +110,9 @@ def generate_csv(stats) -> pd.DataFrame:
 
 def fetch_proxies(debug: bool = False):
     logger.info("Fetching proxies...")
+    if debug:
+        logger.info(f"URL ---> {os.getenv('PROXY_API_URL')}")
+
     proxy_response = requests.get(
         os.getenv("PROXY_API_URL"),
         headers={"Authorization": f"Token {os.getenv('PROXY_API_KEY')}"},
