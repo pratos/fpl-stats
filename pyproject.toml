@@ -33,6 +33,7 @@ understat = "^0.1.3"
 idna_ssl = "^1.1.0"
 python-dotenv = "^0.15.0"
 fuzzywuzzy = "^0.18.0"
+boto3 = "^1.16.59"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
