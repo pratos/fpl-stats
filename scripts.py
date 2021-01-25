@@ -7,7 +7,7 @@ from subprocess import CalledProcessError, check_call
 import click
 from loguru import logger
 
-from run import run_fbref
+from run import run_fbref, run_fpl_official
 
 THIS_DIRECTORY = Path(__file__).parent
 
@@ -68,6 +68,13 @@ def migrations():
 def fbref_scraper(debug: bool):
     logger.info("Starting scraping for Fbref...")
     run_fbref(debug=debug)
+
+
+@click.command()
+@click.argument("debug", envvar="DEBUG", type=bool)
+def fpl_data_fetcher(debug: bool):
+    logger.info("Starting scraping for FPL Official Data...")
+    run_fpl_official(debug=debug)
 
 
 @click.command()

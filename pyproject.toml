@@ -12,6 +12,7 @@ target-version = ['py38']
 lint = "scripts:lint"
 tests = "scripts:test"
 "fbref_scraper" = "scripts:fbref_scraper"
+"fpl_data_fetcher" = "scripts:fpl_data_fetcher"
 
 [tool.poetry.dependencies]
 python = "^3.8.6"
