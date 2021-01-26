@@ -13,6 +13,7 @@ lint = "scripts:lint"
 tests = "scripts:test"
 "fbref_scraper" = "scripts:fbref_scraper"
 "fpl_data_fetcher" = "scripts:fpl_data_fetcher"
+"stats_combiner" = "scripts:run_stats_combiner"
 
 [tool.poetry.dependencies]
 python = "^3.8.6"
@@ -34,9 +35,10 @@ understat = "^0.1.3"
 idna_ssl = "^1.1.0"
 python-dotenv = "^0.15.0"
 fuzzywuzzy = "^0.18.0"
-boto3 = "^1.16.59"
+boto3 = "1.16.25"
 python-Levenshtein = "^0.12.1"
 p-tqdm = "^1.3.3"
+s3fs = "^0.5.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

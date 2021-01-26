@@ -7,7 +7,7 @@ from subprocess import CalledProcessError, check_call
 import click
 from loguru import logger
 
-from run import run_fbref, run_fpl_official
+from run import run_fbref, run_fpl_official, run_stats_combiner
 
 THIS_DIRECTORY = Path(__file__).parent
 
@@ -75,6 +75,12 @@ def fbref_scraper(debug: bool):
 def fpl_data_fetcher(debug: bool):
     logger.info("Starting scraping for FPL Official Data...")
     run_fpl_official(debug=debug)
+
+
+@click.command()
+def stats_combiner():
+    logger.info("Starting data processing and combining Fbref and official FPL stats...")
+    run_stats_combiner()
 
 
 @click.command()
