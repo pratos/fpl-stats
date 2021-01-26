@@ -1,3 +1,6 @@
+import re
+from datetime import date
+
 import pandas as pd
 from dotenv import load_dotenv
 from fastcore.foundation import L as flist
@@ -17,6 +20,8 @@ from src.fbref.scraper import (
     extract_shooting_stats,
 )
 from src.utilities import (
+    check_live_gw,
+    fetch_file_url_from_do_spaces,
     fetch_proxies,
     generate_csv,
     load_file_to_do_spaces,
@@ -24,6 +29,38 @@ from src.utilities import (
 )
 
 load_dotenv()
+
+
+def run_stats_combiner() -> None:
+    t_now = re.sub(r"\D", "", str(date.today()))
+    gameweek = check_live_gw()
+
+    try:
+        logger.info("Fetching presigned urls!!!")
+        presigned_fbref_url = fetch_file_url_from_do_spaces(do_filepath=f"fbref/{t_now}_GW{gameweek}_fbref.csv")
+        presigned_fpl_url = fetch_file_url_from_do_spaces(
+            do_filepath=f"fpl_official/{t_now}_GW{gameweek}_fpl_official.csv"
+        )
+        presigned_mapper_url = fetch_file_url_from_do_spaces(do_filepath=f"mappers/off_fpl_fbref_player_mapping.csv")
+
+        logger.info("Downloading all the data and mappers from Spaces...")
+        fbref_data = pd.read_csv(presigned_fbref_url)
+        fbref_data["fbref_id"] = fbref_data.profile_url.apply(lambda val: val.split("/")[5])
+        fpl_data = pd.read_csv(presigned_fpl_url)
+        mappers = pd.read_csv(presigned_mapper_url)
+
+        logger.info("Merging all the data...")
+        combined_one_df = pd.merge(fbref_data, mappers, on="fbref_id")
+        combined_two_df = pd.merge(fpl_data, mappers, on="player_id")
+        combined_stats = pd.merge(
+            combined_two_df, combined_one_df, how="left", on="player_id", suffixes=("_fpl", "_fbref")
+        )
+
+        logger.info("Loading the merged data from DO Spaces...")
+        load_file_to_do_spaces(dataframe=combined_stats, source="combined_stats")
+        logger.info("Finshed! Check DO Spaces for the final output!")
+    except Exception as err:
+        logger.exception(err)
 
 
 def run_fpl_official(via_proxy: bool = False, debug: bool = False) -> None:

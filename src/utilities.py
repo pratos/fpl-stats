@@ -6,6 +6,7 @@ from io import StringIO
 import boto3
 import pandas as pd
 import requests
+from fastcore.basics import typed
 from fastcore.foundation import L as flist
 from loguru import logger
 from pipetools import pipe
@@ -44,6 +45,17 @@ def get_proxy_format(proxy_element: str):
     return f"http://{proxy_element['proxy_address']}:{proxy_element['ports']['http']}:{proxy_element['username']}:{proxy_element['password']}"
 
 
+def fetch_file_url_from_do_spaces(do_filepath: str):
+    return build_client().generate_presigned_url(
+        ClientMethod="get_object",
+        Params={
+            "Bucket": os.getenv("DO_BUCKET"),
+            "Key": do_filepath,
+        },
+        ExpiresIn=300,
+    )
+
+
 def load_file_to_do_spaces(dataframe: pd.DataFrame, source: str = "fbref"):
     t_now = re.sub(r"\D", "", str(date.today()))
     gameweek = check_live_gw()
@@ -57,7 +69,8 @@ def load_file_to_do_spaces(dataframe: pd.DataFrame, source: str = "fbref"):
     )
 
 
-def check_live_gw():
+@typed
+def check_live_gw() -> str:
     proxies = fetch_proxies(debug=False)
     try:
         all_fpl_data_raw = request_obj(url=FPL_URL_STATIC, proxies=proxies, via_proxy=True)
