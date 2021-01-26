@@ -43,7 +43,7 @@ jobs:
         poetry config virtualenvs.in-project true --local
         poetry install
       if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
-    - name: Run Fbref scraper
+    - name: Run Fbref scraper + Upload to DO Spaces
       env:
         PROXY_API_URL: ${{ secrets.PROXY_API_URL }}
         PROXY_API_KEY: ${{ secrets.PROXY_API_KEY }}
@@ -54,3 +54,25 @@ jobs:
       run: |
         source $HOME/.poetry/env
         DEBUG=true poetry run fbref_scraper
+    - name: Fetch data from Official FPL + Upload to DO Spaces
+      env:
+        PROXY_API_URL: ${{ secrets.PROXY_API_URL }}
+        PROXY_API_KEY: ${{ secrets.PROXY_API_KEY }}
+        DO_BUCKET: ${{ secrets.DO_BUCKET }}
+        DO_ENDPOINT: ${{ secrets.DO_ENDPOINT }}
+        DO_SPACES_KEY: ${{ secrets.DO_SPACES_KEY }}
+        DO_SPACES_SECRET: ${{ secrets.DO_SPACES_SECRET }}
+      run: |
+        source $HOME/.poetry/env
+        DEBUG=true poetry run fpl_data_fetcher
+    - name: Merge FPL & Fbref data + Upload to DO Spaces
+      env:
+        PROXY_API_URL: ${{ secrets.PROXY_API_URL }}
+        PROXY_API_KEY: ${{ secrets.PROXY_API_KEY }}
+        DO_BUCKET: ${{ secrets.DO_BUCKET }}
+        DO_ENDPOINT: ${{ secrets.DO_ENDPOINT }}
+        DO_SPACES_KEY: ${{ secrets.DO_SPACES_KEY }}
+        DO_SPACES_SECRET: ${{ secrets.DO_SPACES_SECRET }}
+      run: |
+        source $HOME/.poetry/env
+        poetry run stats_combiner
