@@ -35,6 +35,8 @@ idna_ssl = "^1.1.0"
 python-dotenv = "^0.15.0"
 fuzzywuzzy = "^0.18.0"
 boto3 = "^1.16.59"
+python-Levenshtein = "^0.12.1"
+p-tqdm = "^1.3.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
