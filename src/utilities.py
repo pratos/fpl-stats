@@ -112,9 +112,6 @@ def fetch_proxies(debug: bool = False):
         proxies = [get_proxy_format(proxy_element=elem) for elem in proxy_response.json()["results"]]
     else:
         logger.error("[ERROR] Proxies couldn't be fetched")
-
-    if debug:
-        logger.debug(f"[FETCH] Proxies are:\n{proxies}")
     return proxies
 
 
