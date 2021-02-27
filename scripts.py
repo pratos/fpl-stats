@@ -7,7 +7,7 @@ from subprocess import CalledProcessError, check_call
 import click
 from loguru import logger
 
-from run import run_fbref, run_fpl_official, run_stats_combiner
+from run_scripts import run_fbref, run_fpl_official, run_stats_combiner
 
 THIS_DIRECTORY = Path(__file__).parent
 
@@ -32,22 +32,6 @@ def lint() -> None:
 
 def test() -> None:
     _call("pytest --disable-pytest-warnings -v -s")
-
-
-@click.command()
-def st_server():
-    logger.info("Starting server...")
-    subprocess.run(
-        [
-            "poetry",
-            "run",
-            "streamlit",
-            "run",
-            str(THIS_DIRECTORY / "src/app/home.py"),
-        ],
-        check=True,
-        universal_newlines=True,
-    )
 
 
 @click.command()
