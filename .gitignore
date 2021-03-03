@@ -1,6 +1,7 @@
 # Environment file
 
 .env
+.envrc
 data/fbref-data
 
 # Byte-compiled / optimized / DLL files
