@@ -2,13 +2,10 @@ import re
 from datetime import date
 
 import pandas as pd
-from dotenv import load_dotenv
 from fastcore.foundation import L as flist
 from loguru import logger
 
-from constants import FPL_URL_STATIC
-from fpl.downloader import extract_player_fpl_stats, extract_team_details
-from src.constants import TEAM_URLS
+from src.constants import FPL_URL_STATIC, TEAM_URLS
 from src.fbref.scraper import (
     extract_defensive_actions,
     extract_extra_passing_stats,
@@ -19,6 +16,7 @@ from src.fbref.scraper import (
     extract_possession_stats,
     extract_shooting_stats,
 )
+from src.fpl.downloader import extract_player_fpl_stats, extract_team_details
 from src.utilities import (
     check_live_gw,
     fetch_file_url_from_do_spaces,
@@ -28,7 +26,7 @@ from src.utilities import (
     request_obj,
 )
 
-load_dotenv()
+# load_dotenv()
 
 
 def run_stats_combiner() -> None:

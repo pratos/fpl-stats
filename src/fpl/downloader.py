@@ -1,6 +1,6 @@
 from fastcore.basics import typed
 
-from constants import CATEGORY_TYPES
+from src.constants import CATEGORY_TYPES
 from src.utilities import to_float
 
 
