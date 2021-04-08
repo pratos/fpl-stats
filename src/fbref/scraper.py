@@ -27,11 +27,20 @@ from src.utilities import format_age, to_float
 
 
 @typed
-def extract_shooting_stats(response: Response) -> list:
+def extract_shooting_stats(response: Response, debug: bool = False) -> list:
     try:
         shooting_stats = []
         shooting = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_SHOOTING})
-        shooting = BeautifulSoup(shooting.contents[4], features="lxml").find_all("tr")[2:-2]
+        if debug:
+            logger.info(f"[Shooting Stats]: {len(shooting.find_all('tr'))}")
+            logger.info(f"[Shooting Stats]: {shooting.find_all('tr')[1]}")
+            logger.info(f"[Shooting Stats]: {shooting.find_all('tr')[2]}")
+            logger.info(f"[Shooting Stats]: {shooting.find_all('tr')[3]}")
+            logger.info(f"[Shooting Stats]: {shooting.find_all('tr')[-1]}")
+            logger.info(f"[Shooting Stats]: {shooting.find_all('tr')[-2]}")
+            logger.info(f"[Shooting Stats]:{shooting.contents}")
+            logger.info(f"[Shooting Stats]:{len(shooting.contents)}")
+        shooting = shooting.find_all("tr")[2:-2]
 
         for stat in shooting:
             shooting_stats.append(
@@ -69,7 +78,7 @@ def extract_passing_stats(response: Response) -> list:
     passing_stats = []
 
     passing = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_PASSING})
-    passing = BeautifulSoup(passing.contents[4], features="lxml").find_all("tr")[2:-2]
+    passing = passing.find_all("tr")[2:-2]
 
     for stat in passing:
         passing_stats.append(
@@ -109,7 +118,7 @@ def extract_extra_passing_stats(response: Response) -> list:
     extra_passing_stats = []
 
     extra_passing = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_XTRA_PASSING})
-    extra_passing = BeautifulSoup(extra_passing.contents[4], features="lxml").find_all("tr")[2:-2]
+    extra_passing = extra_passing.find_all("tr")[2:-2]
 
     for stat in extra_passing:
         extra_passing_stats.append(
@@ -148,7 +157,7 @@ def extract_extra_passing_stats(response: Response) -> list:
 def extract_gca_stats(response: Response) -> list:
     gca_stats = []
     gca = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_GCA})
-    gca = BeautifulSoup(gca.contents[4], features="lxml").find_all("tr")[2:-2]
+    gca = gca.find_all("tr")[2:-2]
 
     for stat in gca:
         gca_stats.append(
@@ -178,7 +187,7 @@ def extract_gca_stats(response: Response) -> list:
 def extract_defensive_actions(response: Response) -> list:
     defensive_actions = []
     defensive = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_DEF_ACTIONS})
-    defensive = BeautifulSoup(defensive.contents[4], features="lxml").find_all("tr")[2:-2]
+    defensive = defensive.find_all("tr")[2:-2]
 
     for stat in defensive:
         defensive_actions.append(
@@ -216,7 +225,7 @@ def extract_defensive_actions(response: Response) -> list:
 def extract_possession_stats(response: Response) -> list:
     possesion_stats = []
     possesion = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_POSSESSION})
-    possesion = BeautifulSoup(possesion.contents[4], features="lxml").find_all("tr")[2:-2]
+    possesion = possesion.find_all("tr")[2:-2]
 
     for stat in possesion:
         possesion_stats.append(
@@ -251,7 +260,7 @@ def extract_possession_stats(response: Response) -> list:
 def extract_playing_time_stats(response: Response) -> list:
     playing_time_stats = []
     playing_time = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_PLAYING_TIME})
-    playing_time = BeautifulSoup(playing_time.contents[4], features="lxml").find_all("tr")[2:-2]
+    playing_time = playing_time.find_all("tr")[2:-2]
 
     for stat in playing_time:
         playing_time_stats.append(
@@ -287,7 +296,7 @@ def extract_playing_time_stats(response: Response) -> list:
 def extract_misc_stats(response: Response) -> list:
     misc_stats = []
     misc = BeautifulSoup(response.content, features="lxml").find(attrs={"id": FBREF_MISC})
-    misc = BeautifulSoup(misc.contents[4], features="lxml").find_all("tr")[2:-2]
+    misc = misc.find_all("tr")[2:-2]
 
     for stat in misc:
         misc_stats.append(

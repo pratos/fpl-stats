@@ -87,7 +87,7 @@ def run_fbref(via_proxy: bool = False, debug: bool = False) -> None:
             logger.info(f"[TEAM:{team[0].upper()}] Fetching data from Fbref")
             response = request_obj(url=team[1], proxies=proxies, via_proxy=via_proxy)
 
-            shooting_stats = extract_shooting_stats(response=response)
+            shooting_stats = extract_shooting_stats(response=response, debug=debug)
             logger.info(f"[TEAM:{team[0].upper()}] Example Shooting stats: {shooting_stats[0]}")
 
             passing_stats = extract_passing_stats(response=response)

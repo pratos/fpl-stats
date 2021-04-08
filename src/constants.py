@@ -23,14 +23,14 @@ TEAM_URLS = {
     "arsenal": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats",
 }
 
-FBREF_SHOOTING = "all_stats_shooting_10728"
-FBREF_PASSING = "all_stats_passing_10728"
-FBREF_XTRA_PASSING = "all_stats_passing_types_10728"
-FBREF_GCA = "all_stats_gca_10728"
-FBREF_DEF_ACTIONS = "all_stats_defense_10728"
-FBREF_POSSESSION = "all_stats_possession_10728"
-FBREF_PLAYING_TIME = "all_stats_playing_time_10728"
-FBREF_MISC = "all_stats_misc_10728"
+FBREF_SHOOTING = "stats_shooting_10728"
+FBREF_PASSING = "stats_passing_10728"
+FBREF_XTRA_PASSING = "stats_passing_types_10728"
+FBREF_GCA = "stats_gca_10728"
+FBREF_DEF_ACTIONS = "stats_defense_10728"
+FBREF_POSSESSION = "stats_possession_10728"
+FBREF_PLAYING_TIME = "stats_playing_time_10728"
+FBREF_MISC = "stats_misc_10728"
 
 STATS_AVAILABLE = [
     "shooting_stats",
