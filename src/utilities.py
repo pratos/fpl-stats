@@ -65,7 +65,7 @@ def load_file_to_do_spaces(dataframe: pd.DataFrame, source: str = "fbref"):
         Bucket=os.getenv("DO_BUCKET"),
         Key=f"{source}/{t_now}_GW{gameweek}_{source}.csv",
         Body=csv_buffer.getvalue(),
-        ACL="private",
+        ACL="public-read",
     )
 
 
