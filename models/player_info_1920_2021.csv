@@ -1,0 +1,1386 @@
+first_name,second_name,position,team_name,element,full_name,season,unique_id
+Aaron,Cresswell,DEF,West Ham,376,Aaron_Cresswell,1920,1920_376_West Ham
+Aaron,Lennon,MID,Burnley,430,Aaron_Lennon,1920,1920_430_Burnley
+Aaron,Mooy,MID,Brighton,516,Aaron_Mooy,1920,1920_516_Brighton
+Aaron,Ramsdale,GKP,Bournemouth,494,Aaron_Ramsdale,1920,1920_494_Bournemouth
+Aaron,Wan-Bissaka,DEF,Man Utd,122,Aaron_Wan-Bissaka,1920,1920_122_Man Utd
+Abdoulaye,Doucouré,MID,Watford,368,Abdoulaye_Doucouré,1920,1920_368_Watford
+Adama,Traoré,MID,Wolves,417,Adama_Traoré,1920,1920_417_Wolves
+Adam,Lallana,MID,Liverpool,195,Adam_Lallana,1920,1920_195_Liverpool
+Adam,Masina,DEF,Watford,355,Adam_Masina,1920,1920_355_Watford
+Adam,Smith,DEF,Bournemouth,63,Adam_Smith,1920,1920_63_Bournemouth
+Adam,Webster,DEF,Brighton,493,Adam_Webster,1920,1920_493_Brighton
+Ademola,Lookman,MID,Everton,155,Ademola_Lookman,1920,1920_155_Everton
+Adrian,Mariappa,DEF,Watford,356,Adrian_Mariappa,1920,1920_356_Watford
+Adrián,San Miguel del Castillo,GKP,Liverpool,526,Adrián_San Miguel del Castillo,1920,1920_526_Liverpool
+Ahmed,El Mohamady,DEF,Aston Villa,22,Ahmed_El Mohamady,1920,1920_22_Aston Villa
+Ainsley,Maitland-Niles,DEF,Arsenal,4,Ainsley_Maitland-Niles,1920,1920_4_Arsenal
+Albian,Ajeti,FWD,West Ham,514,Albian_Ajeti,1920,1920_514_West Ham
+Alexander,Tettey,MID,Norwich,289,Alexander_Tettey,1920,1920_289_Norwich
+Alexandre Nascimento,Costa Silva,FWD,West Ham,387,Alexandre Nascimento_Costa Silva,1920,1920_387_West Ham
+Alexandre,Lacazette,FWD,Arsenal,12,Alexandre_Lacazette,1920,1920_12_Arsenal
+Alexis,Sánchez,MID,Man Utd,240,Alexis_Sánchez,1920,1920_240_Man Utd
+Alex,Iwobi,MID,Everton,17,Alex_Iwobi,1920,1920_17_Everton
+Alex,McCarthy,GKP,Southampton,318,Alex_McCarthy,1920,1920_318_Southampton
+Alex,Oxlade-Chamberlain,MID,Liverpool,193,Alex_Oxlade-Chamberlain,1920,1920_193_Liverpool
+Alireza,Jahanbakhsh,MID,Brighton,50,Alireza_Jahanbakhsh,1920,1920_50_Brighton
+Alisson,Ramses Becker,GKP,Liverpool,189,Alisson_Ramses Becker,1920,1920_189_Liverpool
+Allan,Saint-Maximin,MID,Newcastle,500,Allan_Saint-Maximin,1920,1920_500_Newcastle
+Andreas,Christensen,DEF,Chelsea,108,Andreas_Christensen,1920,1920_108_Chelsea
+Andreas,Pereira,MID,Man Utd,246,Andreas_Pereira,1920,1920_246_Man Utd
+Andrew,Robertson,DEF,Liverpool,181,Andrew_Robertson,1920,1920_181_Liverpool
+Andrew,Surman,MID,Bournemouth,80,Andrew_Surman,1920,1920_80_Bournemouth
+Andre,Gray,FWD,Watford,364,Andre_Gray,1920,1920_364_Watford
+Andre,Green,MID,Aston Villa,32,Andre_Green,1920,1920_32_Aston Villa
+Andriy,Yarmolenko,MID,West Ham,392,Andriy_Yarmolenko,1920,1920_392_West Ham
+Andros,Townsend,MID,Crystal Palace,135,Andros_Townsend,1920,1920_135_Crystal Palace
+André Filipe,Tavares Gomes,MID,Everton,422,André Filipe_Tavares Gomes,1920,1920_422_Everton
+Andy,Carroll,FWD,Newcastle,520,Andy_Carroll,1920,1920_520_Newcastle
+Andy,King,MID,Leicester,480,Andy_King,1920,1920_480_Leicester
+Angelo,Ogbonna,DEF,West Ham,377,Angelo_Ogbonna,1920,1920_377_West Ham
+Angel,Gomes,MID,Man Utd,245,Angel_Gomes,1920,1920_245_Man Utd
+Angus,Gunn,GKP,Southampton,319,Angus_Gunn,1920,1920_319_Southampton
+Anthony,Knockaert,MID,Brighton,52,Anthony_Knockaert,1920,1920_52_Brighton
+Anthony,Martial,MID,Man Utd,239,Anthony_Martial,1920,1920_239_Man Utd
+Antonio,Rüdiger,DEF,Chelsea,104,Antonio_Rüdiger,1920,1920_104_Chelsea
+Anwar,El Ghazi,MID,Aston Villa,30,Anwar_El Ghazi,1920,1920_30_Aston Villa
+Arnaut,Danjuma Groeneveld,MID,Bournemouth,492,Arnaut_Danjuma Groeneveld,1920,1920_492_Bournemouth
+Arthur,Masuaku,DEF,West Ham,378,Arthur_Masuaku,1920,1920_378_West Ham
+Artur,Boruc,GKP,Bournemouth,73,Artur_Boruc,1920,1920_73_Bournemouth
+Ashley,Barnes,FWD,Burnley,90,Ashley_Barnes,1920,1920_90_Burnley
+Ashley,Westwood,MID,Burnley,101,Ashley_Westwood,1920,1920_101_Burnley
+Ashley,Young,DEF,Man Utd,224,Ashley_Young,1920,1920_224_Man Utd
+Asmir,Begovic,GKP,Bournemouth,72,Asmir_Begovic,1920,1920_72_Bournemouth
+Axel,Tuanzebe,DEF,Man Utd,481,Axel_Tuanzebe,1920,1920_481_Man Utd
+Aymeric,Laporte,DEF,Man City,202,Aymeric_Laporte,1920,1920_202_Man City
+Ayoze,Pérez,MID,Leicester,265,Ayoze_Pérez,1920,1920_265_Leicester
+Bailey,Peacock-Farrell,GKP,Burnley,495,Bailey_Peacock-Farrell,1920,1920_495_Burnley
+Bamidele,Alli,MID,Spurs,344,Bamidele_Alli,1920,1920_344_Spurs
+Benjamin,Chilwell,DEF,Leicester,161,Benjamin_Chilwell,1920,1920_161_Leicester
+Benjamin,Mendy,DEF,Man City,204,Benjamin_Mendy,1920,1920_204_Man City
+Ben,Davies,DEF,Spurs,329,Ben_Davies,1920,1920_329_Spurs
+Ben,Foster,GKP,Watford,366,Ben_Foster,1920,1920_366_Watford
+Ben,Gibson,DEF,Burnley,89,Ben_Gibson,1920,1920_89_Burnley
+Ben,Godfrey,DEF,Norwich,273,Ben_Godfrey,1920,1920_273_Norwich
+Ben,Johnson,DEF,West Ham,384,Ben_Johnson,1920,1920_384_West Ham
+Ben,Mee,DEF,Burnley,83,Ben_Mee,1920,1920_83_Burnley
+Ben,Osborn,MID,Sheffield Utd,472,Ben_Osborn,1920,1920_472_Sheffield Utd
+Beram,Kayal,MID,Brighton,56,Beram_Kayal,1920,1920_56_Brighton
+Bernardo Mota,Veiga de Carvalho e Silva,MID,Man City,218,Bernardo Mota_Veiga de Carvalho e Silva,1920,1920_218_Man City
+Bernardo,Fernandes da Silva Junior,DEF,Brighton,39,Bernardo_Fernandes da Silva Junior,1920,1920_39_Brighton
+Bernard,Anício Caldeira Duarte,MID,Everton,152,Bernard_Anício Caldeira Duarte,1920,1920_152_Everton
+Bernd,Leno,GKP,Arsenal,14,Bernd_Leno,1920,1920_14_Arsenal
+Billy,Sharp,FWD,Sheffield Utd,298,Billy_Sharp,1920,1920_298_Sheffield Utd
+Birkir,Bjarnason,MID,Aston Villa,33,Birkir_Bjarnason,1920,1920_33_Aston Villa
+Bjorn,Engels,DEF,Aston Villa,455,Bjorn_Engels,1920,1920_455_Aston Villa
+Callum,Hudson-Odoi,MID,Chelsea,116,Callum_Hudson-Odoi,1920,1920_116_Chelsea
+Callum,Robinson,MID,Sheffield Utd,453,Callum_Robinson,1920,1920_453_Sheffield Utd
+Callum,Slattery,MID,Southampton,327,Callum_Slattery,1920,1920_327_Southampton
+Callum,Wilson,FWD,Bournemouth,67,Callum_Wilson,1920,1920_67_Bournemouth
+Calum,Chambers,DEF,Arsenal,467,Calum_Chambers,1920,1920_467_Arsenal
+Carlos,Sánchez,MID,West Ham,397,Carlos_Sánchez,1920,1920_397_West Ham
+Carl,Jenkinson,DEF,Arsenal,9,Carl_Jenkinson,1920,1920_9_Arsenal
+Cenk,Tosun,FWD,Everton,146,Cenk_Tosun,1920,1920_146_Everton
+Charlie,Austin,FWD,Southampton,312,Charlie_Austin,1920,1920_312_Southampton
+Charlie,Daniels,DEF,Bournemouth,60,Charlie_Daniels,1920,1920_60_Bournemouth
+Charlie,Taylor,DEF,Burnley,87,Charlie_Taylor,1920,1920_87_Burnley
+Cheikhou,Kouyaté,MID,Crystal Palace,139,Cheikhou_Kouyaté,1920,1920_139_Crystal Palace
+Che,Adams,FWD,Southampton,437,Che_Adams,1920,1920_437_Southampton
+Christian,Atsu,MID,Newcastle,267,Christian_Atsu,1920,1920_267_Newcastle
+Christian,Benteke,FWD,Crystal Palace,129,Christian_Benteke,1920,1920_129_Crystal Palace
+Christian,Eriksen,MID,Spurs,343,Christian_Eriksen,1920,1920_343_Spurs
+Christian,Fuchs,DEF,Leicester,163,Christian_Fuchs,1920,1920_163_Leicester
+Christian,Kabasele,DEF,Watford,354,Christian_Kabasele,1920,1920_354_Watford
+Christian,Pulisic,MID,Chelsea,431,Christian_Pulisic,1920,1920_431_Chelsea
+Christoph,Zimmermann,DEF,Norwich,275,Christoph_Zimmermann,1920,1920_275_Norwich
+Chris,Basham,DEF,Sheffield Utd,423,Chris_Basham,1920,1920_423_Sheffield Utd
+Chris,Mepham,DEF,Bournemouth,61,Chris_Mepham,1920,1920_61_Bournemouth
+Chris,Smalling,DEF,Man Utd,223,Chris_Smalling,1920,1920_223_Man Utd
+Chris,Wood,FWD,Burnley,91,Chris_Wood,1920,1920_91_Burnley
+Ciaran,Clark,DEF,Newcastle,259,Ciaran_Clark,1920,1920_259_Newcastle
+Claudio,Bravo,GKP,Man City,213,Claudio_Bravo,1920,1920_213_Man City
+Connor,Wickham,FWD,Crystal Palace,130,Connor_Wickham,1920,1920_130_Crystal Palace
+Conor,Coady,DEF,Wolves,403,Conor_Coady,1920,1920_403_Wolves
+Conor,Hourihane,MID,Aston Villa,28,Conor_Hourihane,1920,1920_28_Aston Villa
+Craig,Cathcart,DEF,Watford,358,Craig_Cathcart,1920,1920_358_Watford
+Craig,Dawson,DEF,Watford,439,Craig_Dawson,1920,1920_439_Watford
+Cédric,Soares,DEF,Arsenal,486,Cédric_Soares,1920,1920_486_Arsenal
+César,Azpilicueta,DEF,Chelsea,105,César_Azpilicueta,1920,1920_105_Chelsea
+Dale,Stephens,MID,Brighton,57,Dale_Stephens,1920,1920_57_Brighton
+Daniel,Amartey,MID,Leicester,178,Daniel_Amartey,1920,1920_178_Leicester
+Daniel,Ceballos Fernández,MID,Arsenal,469,Daniel_Ceballos Fernández,1920,1920_469_Arsenal
+Daniel,Drinkwater,MID,Aston Villa,120,Daniel_Drinkwater,1920,1920_120_Aston Villa
+Daniel,James,MID,Man Utd,243,Daniel_James,1920,1920_243_Man Utd
+Danilo Luiz,da Silva,DEF,Man City,209,Danilo Luiz_da Silva,1920,1920_209_Man City
+Danny,Ings,FWD,Southampton,313,Danny_Ings,1920,1920_313_Southampton
+Danny,Rose,DEF,Newcastle,332,Danny_Rose,1920,1920_332_Newcastle
+Danny,Ward,GKP,Leicester,170,Danny_Ward,1920,1920_170_Leicester
+Danny,Welbeck,FWD,Watford,512,Danny_Welbeck,1920,1920_512_Watford
+Dan,Burn,DEF,Brighton,475,Dan_Burn,1920,1920_475_Brighton
+Dan,Gosling,MID,Bournemouth,81,Dan_Gosling,1920,1920_81_Bournemouth
+Daryl,Janmaat,DEF,Watford,359,Daryl_Janmaat,1920,1920_359_Watford
+Davide,Zappacosta,DEF,Chelsea,109,Davide_Zappacosta,1920,1920_109_Chelsea
+David,Brooks,MID,Bournemouth,76,David_Brooks,1920,1920_76_Bournemouth
+David,Button,GKP,Brighton,48,David_Button,1920,1920_48_Brighton
+David,de Gea,GKP,Man Utd,235,David_de Gea,1920,1920_235_Man Utd
+David,Luiz Moreira Marinho,DEF,Arsenal,106,David_Luiz Moreira Marinho,1920,1920_106_Arsenal
+David,McGoldrick,FWD,Sheffield Utd,303,David_McGoldrick,1920,1920_303_Sheffield Utd
+David,Silva,MID,Man City,219,David_Silva,1920,1920_219_Man City
+Davinson,Sánchez,DEF,Spurs,333,Davinson_Sánchez,1920,1920_333_Spurs
+Davy,Pröpper,MID,Brighton,54,Davy_Pröpper,1920,1920_54_Brighton
+DeAndre,Yedlin,DEF,Newcastle,253,DeAndre_Yedlin,1920,1920_253_Newcastle
+Dean,Henderson,GKP,Sheffield Utd,471,Dean_Henderson,1920,1920_471_Sheffield Utd
+Declan,Rice,MID,West Ham,395,Declan_Rice,1920,1920_395_West Ham
+Dejan,Lovren,DEF,Liverpool,186,Dejan_Lovren,1920,1920_186_Liverpool
+Demarai,Gray,MID,Leicester,175,Demarai_Gray,1920,1920_175_Leicester
+Dennis,Praet,MID,Leicester,517,Dennis_Praet,1920,1920_517_Leicester
+Dennis,Srbeny,FWD,Norwich,279,Dennis_Srbeny,1920,1920_279_Norwich
+Diego,Rico,DEF,Bournemouth,65,Diego_Rico,1920,1920_65_Bournemouth
+Diogo,Jota,FWD,Wolves,410,Diogo_Jota,1920,1920_410_Wolves
+Divock,Origi,FWD,Liverpool,188,Divock_Origi,1920,1920_188_Liverpool
+Djibril,Sidibé,DEF,Everton,511,Djibril_Sidibé,1920,1920_511_Everton
+Domingos,Quina,MID,Watford,375,Domingos_Quina,1920,1920_375_Watford
+Dominic,Calvert-Lewin,FWD,Everton,147,Dominic_Calvert-Lewin,1920,1920_147_Everton
+Dominic,Solanke,FWD,Bournemouth,69,Dominic_Solanke,1920,1920_69_Bournemouth
+Douglas Luiz,Soares de Paulo,MID,Aston Villa,470,Douglas Luiz_Soares de Paulo,1920,1920_470_Aston Villa
+Dwight,McNeil,MID,Burnley,97,Dwight_McNeil,1920,1920_97_Burnley
+Ederson,Santana de Moraes,GKP,Man City,212,Ederson_Santana de Moraes,1920,1920_212_Man City
+Edward,Nketiah,FWD,Arsenal,13,Edward_Nketiah,1920,1920_13_Arsenal
+Eldin,Jakupovic,GKP,Leicester,169,Eldin_Jakupovic,1920,1920_169_Leicester
+Emerson,Palmieri dos Santos,DEF,Chelsea,107,Emerson_Palmieri dos Santos,1920,1920_107_Chelsea
+Emiliano,Buendía,MID,Norwich,283,Emiliano_Buendía,1920,1920_283_Norwich
+Emiliano,Martínez,GKP,Arsenal,427,Emiliano_Martínez,1920,1920_427_Arsenal
+Emil,Krafth,DEF,Newcastle,519,Emil_Krafth,1920,1920_519_Newcastle
+Enda,Stevens,DEF,Sheffield Utd,291,Enda_Stevens,1920,1920_291_Sheffield Utd
+Eric,Bailly,DEF,Man Utd,228,Eric_Bailly,1920,1920_228_Man Utd
+Eric,Dier,MID,Spurs,350,Eric_Dier,1920,1920_350_Spurs
+Erik,Lamela,MID,Spurs,346,Erik_Lamela,1920,1920_346_Spurs
+Erik,Pieters,DEF,Burnley,447,Erik_Pieters,1920,1920_447_Burnley
+Ethan,Ampadu,MID,Chelsea,121,Ethan_Ampadu,1920,1920_121_Chelsea
+Etienne,Capoue,MID,Watford,373,Etienne_Capoue,1920,1920_373_Watford
+Ezri,Konsa Ngoyo,DEF,Aston Villa,452,Ezri_Konsa Ngoyo,1920,1920_452_Aston Villa
+Fabian,Delph,DEF,Everton,205,Fabian_Delph,1920,1920_205_Everton
+Fabian,Schär,DEF,Newcastle,252,Fabian_Schär,1920,1920_252_Newcastle
+Fabio Henrique,Tavares,MID,Liverpool,197,Fabio Henrique_Tavares,1920,1920_197_Liverpool
+Fabián,Balbuena,DEF,West Ham,382,Fabián_Balbuena,1920,1920_382_West Ham
+Federico,Fernández,DEF,Newcastle,254,Federico_Fernández,1920,1920_254_Newcastle
+Felipe Anderson,Pereira Gomes,MID,West Ham,390,Felipe Anderson_Pereira Gomes,1920,1920_390_West Ham
+Fernando,Luiz Rosa,MID,Man City,221,Fernando_Luiz Rosa,1920,1920_221_Man City
+Fikayo,Tomori,DEF,Chelsea,529,Fikayo_Tomori,1920,1920_529_Chelsea
+Florian,Lejeune,DEF,Newcastle,257,Florian_Lejeune,1920,1920_257_Newcastle
+Florin,Andone,FWD,Brighton,46,Florin_Andone,1920,1920_46_Brighton
+Francisco,Femenía Far,DEF,Watford,357,Francisco_Femenía Far,1920,1920_357_Watford
+Fraser,Forster,GKP,Southampton,317,Fraser_Forster,1920,1920_317_Southampton
+Frederick,Woodman,GKP,Newcastle,264,Frederick_Woodman,1920,1920_264_Newcastle
+Frederico,Rodrigues de Paula Santos,MID,Man Utd,244,Frederico_Rodrigues de Paula Santos,1920,1920_244_Man Utd
+Frédéric,Guilbert,DEF,Aston Villa,458,Frédéric_Guilbert,1920,1920_458_Aston Villa
+Gabriel Fernando,de Jesus,FWD,Man City,211,Gabriel Fernando_de Jesus,1920,1920_211_Man City
+Gabriel Teodoro,Martinelli Silva,FWD,Arsenal,504,Gabriel Teodoro_Martinelli Silva,1920,1920_504_Arsenal
+Gary,Cahill,DEF,Crystal Palace,503,Gary_Cahill,1920,1920_503_Crystal Palace
+Gaëtan,Bong,DEF,Brighton,41,Gaëtan_Bong,1920,1920_41_Brighton
+Georges-Kévin,Nkoudou,MID,Spurs,527,Georges-Kévin_Nkoudou,1920,1920_527_Spurs
+George,Baldock,DEF,Sheffield Utd,294,George_Baldock,1920,1920_294_Sheffield Utd
+Georginio,Wijnaldum,MID,Liverpool,199,Georginio_Wijnaldum,1920,1920_199_Liverpool
+Gerard,Deulofeu,FWD,Watford,363,Gerard_Deulofeu,1920,1920_363_Watford
+Giovani,Lo Celso,MID,Spurs,523,Giovani_Lo Celso,1920,1920_523_Spurs
+Glenn,Murray,FWD,Brighton,44,Glenn_Murray,1920,1920_44_Brighton
+Grady,Diangana,MID,West Ham,398,Grady_Diangana,1920,1920_398_West Ham
+Granit,Xhaka,MID,Arsenal,18,Granit_Xhaka,1920,1920_18_Arsenal
+Grant,Hanley,DEF,Norwich,277,Grant_Hanley,1920,1920_277_Norwich
+Gylfi,Sigurdsson,MID,Everton,151,Gylfi_Sigurdsson,1920,1920_151_Everton
+Hamza,Choudhury,MID,Leicester,180,Hamza_Choudhury,1920,1920_180_Leicester
+Harry,Kane,FWD,Spurs,338,Harry_Kane,1920,1920_338_Spurs
+Harry,Maguire,DEF,Man Utd,160,Harry_Maguire,1920,1920_160_Man Utd
+Harry,Wilson,MID,Bournemouth,505,Harry_Wilson,1920,1920_505_Bournemouth
+Harry,Winks,MID,Spurs,347,Harry_Winks,1920,1920_347_Spurs
+Harvey,Barnes,MID,Leicester,172,Harvey_Barnes,1920,1920_172_Leicester
+Henrikh,Mkhitaryan,MID,Arsenal,16,Henrikh_Mkhitaryan,1920,1920_16_Arsenal
+Henri,Lansbury,MID,Aston Villa,35,Henri_Lansbury,1920,1920_35_Aston Villa
+Heung-Min,Son,MID,Spurs,342,Heung-Min_Son,1920,1920_342_Spurs
+Heurelho da Silva,Gomes,GKP,Watford,513,Heurelho da Silva_Gomes,1920,1920_513_Watford
+Hugo,Lloris,GKP,Spurs,340,Hugo_Lloris,1920,1920_340_Spurs
+Héctor,Bellerín,DEF,Arsenal,2,Héctor_Bellerín,1920,1920_2_Arsenal
+Hélder,Costa,MID,Wolves,418,Hélder_Costa,1920,1920_418_Wolves
+Ibrahim,Amadou,MID,Norwich,507,Ibrahim_Amadou,1920,1920_507_Norwich
+Idrissa,Gueye,MID,Everton,156,Idrissa_Gueye,1920,1920_156_Everton
+Ilkay,Gündogan,MID,Man City,222,Ilkay_Gündogan,1920,1920_222_Man City
+Isaac,Hayden,MID,Newcastle,271,Isaac_Hayden,1920,1920_271_Newcastle
+Isaac,Success Ajayi,FWD,Watford,365,Isaac_Success Ajayi,1920,1920_365_Watford
+Ismaïla,Sarr,MID,Watford,525,Ismaïla_Sarr,1920,1920_525_Watford
+Issa,Diop,DEF,West Ham,381,Issa_Diop,1920,1920_381_West Ham
+Ivan,Cavaleiro,MID,Wolves,419,Ivan_Cavaleiro,1920,1920_419_Wolves
+Jack,Colback,MID,Newcastle,482,Jack_Colback,1920,1920_482_Newcastle
+Jack,Cork,MID,Burnley,102,Jack_Cork,1920,1920_102_Burnley
+Jack,Grealish,MID,Aston Villa,29,Jack_Grealish,1920,1920_29_Aston Villa
+Jack,O'Connell,DEF,Sheffield Utd,293,Jack_O'Connell,1920,1920_293_Sheffield Utd
+Jack,Simpson,DEF,Bournemouth,66,Jack_Simpson,1920,1920_66_Bournemouth
+Jack,Stacey,DEF,Bournemouth,446,Jack_Stacey,1920,1920_446_Bournemouth
+Jack,Stephens,DEF,Southampton,308,Jack_Stephens,1920,1920_308_Southampton
+Jack,Wilshere,MID,West Ham,394,Jack_Wilshere,1920,1920_394_West Ham
+Jacob,Murphy,MID,Newcastle,483,Jacob_Murphy,1920,1920_483_Newcastle
+Jake,Eastwood,GKP,Sheffield Utd,299,Jake_Eastwood,1920,1920_299_Sheffield Utd
+Jamaal,Lascelles,DEF,Newcastle,258,Jamaal_Lascelles,1920,1920_258_Newcastle
+Jamal,Lewis,DEF,Norwich,276,Jamal_Lewis,1920,1920_276_Norwich
+James,Chester,DEF,Aston Villa,23,James_Chester,1920,1920_23_Aston Villa
+James,Garner,MID,Man Utd,250,James_Garner,1920,1920_250_Man Utd
+James,Justin,DEF,Leicester,433,James_Justin,1920,1920_433_Leicester
+James,Maddison,MID,Leicester,171,James_Maddison,1920,1920_171_Leicester
+James,McArthur,MID,Crystal Palace,138,James_McArthur,1920,1920_138_Crystal Palace
+James,McCarthy,MID,Crystal Palace,157,James_McCarthy,1920,1920_157_Crystal Palace
+James,Milner,MID,Liverpool,200,James_Milner,1920,1920_200_Liverpool
+James,Tarkowski,DEF,Burnley,84,James_Tarkowski,1920,1920_84_Burnley
+James,Tomkins,DEF,Crystal Palace,124,James_Tomkins,1920,1920_124_Crystal Palace
+James,Ward-Prowse,MID,Southampton,321,James_Ward-Prowse,1920,1920_321_Southampton
+Jamie,Vardy,FWD,Leicester,166,Jamie_Vardy,1920,1920_166_Leicester
+Jannik,Vestergaard,DEF,Southampton,304,Jannik_Vestergaard,1920,1920_304_Southampton
+Jan,Bednarek,DEF,Southampton,307,Jan_Bednarek,1920,1920_307_Southampton
+Jan,Vertonghen,DEF,Spurs,330,Jan_Vertonghen,1920,1920_330_Spurs
+Javier,Hernández Balcázar,FWD,West Ham,386,Javier_Hernández Balcázar,1920,1920_386_West Ham
+Javier,Manquillo,DEF,Newcastle,256,Javier_Manquillo,1920,1920_256_Newcastle
+Jay,Rodriguez,FWD,Burnley,451,Jay_Rodriguez,1920,1920_451_Burnley
+Jean-Philippe,Gbamin,MID,Everton,497,Jean-Philippe_Gbamin,1920,1920_497_Everton
+Jed,Steer,GKP,Aston Villa,429,Jed_Steer,1920,1920_429_Aston Villa
+Jefferson,Lerma,MID,Bournemouth,82,Jefferson_Lerma,1920,1920_82_Bournemouth
+Jeffrey,Schlupp,MID,Crystal Palace,137,Jeffrey_Schlupp,1920,1920_137_Crystal Palace
+Jeff,Hendrick,MID,Burnley,100,Jeff_Hendrick,1920,1920_100_Burnley
+Jesse,Lingard,MID,Man Utd,241,Jesse_Lingard,1920,1920_241_Man Utd
+Jesús,Vallejo Lázaro,DEF,Wolves,473,Jesús_Vallejo Lázaro,1920,1920_473_Wolves
+Jetro,Willems,DEF,Newcastle,498,Jetro_Willems,1920,1920_498_Newcastle
+Joelinton Cássio,Apolinário de Lira,FWD,Newcastle,466,Joelinton Cássio_Apolinário de Lira,1920,1920_466_Newcastle
+Joel,Matip,DEF,Liverpool,185,Joel_Matip,1920,1920_185_Liverpool
+Joel,Ward,DEF,Crystal Palace,126,Joel_Ward,1920,1920_126_Crystal Palace
+Joe,Hart,GKP,Burnley,95,Joe_Hart,1920,1920_95_Burnley
+Johann Berg,Gudmundsson,MID,Burnley,96,Johann Berg_Gudmundsson,1920,1920_96_Burnley
+John,Egan,DEF,Sheffield Utd,295,John_Egan,1920,1920_295_Sheffield Utd
+John,Fleck,MID,Sheffield Utd,301,John_Fleck,1920,1920_301_Sheffield Utd
+John,Lundstram,DEF,Sheffield Utd,297,John_Lundstram,1920,1920_297_Sheffield Utd
+John,McGinn,MID,Aston Villa,31,John_McGinn,1920,1920_31_Aston Villa
+John,Ruddy,GKP,Wolves,412,John_Ruddy,1920,1920_412_Wolves
+John,Stones,DEF,Man City,207,John_Stones,1920,1920_207_Man City
+Jonas,Lössl,GKP,Everton,479,Jonas_Lössl,1920,1920_479_Everton
+Jonathan,Castro Otto,DEF,Wolves,402,Jonathan_Castro Otto,1920,1920_402_Wolves
+Jonathan,Kodjia,FWD,Aston Villa,26,Jonathan_Kodjia,1920,1920_26_Aston Villa
+Jonjo,Shelvey,MID,Newcastle,269,Jonjo_Shelvey,1920,1920_269_Newcastle
+Jonny,Evans,DEF,Leicester,162,Jonny_Evans,1920,1920_162_Leicester
+Jordan,Ayew,FWD,Crystal Palace,468,Jordan_Ayew,1920,1920_468_Crystal Palace
+Jordan,Henderson,MID,Liverpool,198,Jordan_Henderson,1920,1920_198_Liverpool
+Jordan,Pickford,GKP,Everton,148,Jordan_Pickford,1920,1920_148_Everton
+Jordon,Ibe,MID,Bournemouth,78,Jordon_Ibe,1920,1920_78_Bournemouth
+Jorge Luiz,Frello Filho,MID,Chelsea,118,Jorge Luiz_Frello Filho,1920,1920_118_Chelsea
+Jose Luis,Mato Sanmartín,FWD,Newcastle,261,Jose Luis_Mato Sanmartín,1920,1920_261_Newcastle
+Joseph,Gomez,DEF,Liverpool,184,Joseph_Gomez,1920,1920_184_Liverpool
+Joseph,Willock,MID,Arsenal,490,Joseph_Willock,1920,1920_490_Arsenal
+Joshua,King,FWD,Bournemouth,68,Joshua_King,1920,1920_68_Bournemouth
+Josip,Drmic,FWD,Norwich,434,Josip_Drmic,1920,1920_434_Norwich
+José Diogo,Dalot Teixeira,DEF,Man Utd,229,José Diogo_Dalot Teixeira,1920,1920_229_Man Utd
+José Heriberto,Izquierdo Mena,MID,Brighton,51,José Heriberto_Izquierdo Mena,1920,1920_51_Brighton
+José Ignacio,Peleteiro Romallo,MID,Aston Villa,36,José Ignacio_Peleteiro Romallo,1920,1920_36_Aston Villa
+José Ángel,Esmorís Tasende,DEF,Man City,440,José Ángel_Esmorís Tasende,1920,1920_440_Man City
+José,Holebas,DEF,Watford,353,José_Holebas,1920,1920_353_Watford
+João Filipe Iria,Santos Moutinho,MID,Wolves,415,João Filipe Iria_Santos Moutinho,1920,1920_415_Wolves
+João Pedro Cavaco,Cancelo,DEF,Man City,518,João Pedro Cavaco_Cancelo,1920,1920_518_Man City
+Juan,Foyth,DEF,Spurs,335,Juan_Foyth,1920,1920_335_Spurs
+Juan,Mata,MID,Man Utd,242,Juan_Mata,1920,1920_242_Man Utd
+Junior,Stanislas,MID,Bournemouth,77,Junior_Stanislas,1920,1920_77_Bournemouth
+Jürgen,Locadia,FWD,Brighton,45,Jürgen_Locadia,1920,1920_45_Brighton
+Karl,Darlow,GKP,Newcastle,263,Karl_Darlow,1920,1920_263_Newcastle
+Kasper,Schmeichel,GKP,Leicester,168,Kasper_Schmeichel,1920,1920_168_Leicester
+Kayne,Ramsay,DEF,Southampton,311,Kayne_Ramsay,1920,1920_311_Southampton
+Keinan,Davis,MID,Aston Villa,34,Keinan_Davis,1920,1920_34_Aston Villa
+Kelechi,Iheanacho,FWD,Leicester,167,Kelechi_Iheanacho,1920,1920_167_Leicester
+Kenny,McLean,MID,Norwich,286,Kenny_McLean,1920,1920_286_Norwich
+Ken,Sema,MID,Watford,372,Ken_Sema,1920,1920_372_Watford
+Kepa,Arrizabalaga,GKP,Chelsea,111,Kepa_Arrizabalaga,1920,1920_111_Chelsea
+Kevin,De Bruyne,MID,Man City,215,Kevin_De Bruyne,1920,1920_215_Man City
+Kevin,Long,DEF,Burnley,88,Kevin_Long,1920,1920_88_Burnley
+Kieran,Tierney,DEF,Arsenal,515,Kieran_Tierney,1920,1920_515_Arsenal
+Kieran,Trippier,DEF,Spurs,334,Kieran_Trippier,1920,1920_334_Spurs
+Kieron,Freeman,DEF,Sheffield Utd,292,Kieron_Freeman,1920,1920_292_Sheffield Utd
+Konstantinos,Mavropanos,DEF,Arsenal,8,Konstantinos_Mavropanos,1920,1920_8_Arsenal
+Kortney,Hause,DEF,Aston Villa,25,Kortney_Hause,1920,1920_25_Aston Villa
+Kurt,Zouma,DEF,Chelsea,459,Kurt_Zouma,1920,1920_459_Chelsea
+Kyle,Walker-Peters,DEF,Southampton,337,Kyle_Walker-Peters,1920,1920_337_Southampton
+Kyle,Walker,DEF,Man City,203,Kyle_Walker,1920,1920_203_Man City
+Laurent,Koscielny,DEF,Arsenal,7,Laurent_Koscielny,1920,1920_7_Arsenal
+Leander,Dendoncker,MID,Wolves,420,Leander_Dendoncker,1920,1920_420_Wolves
+Leandro,Trossard,MID,Brighton,421,Leandro_Trossard,1920,1920_421_Brighton
+Lee,Grant,GKP,Man Utd,237,Lee_Grant,1920,1920_237_Man Utd
+Leighton,Baines,DEF,Everton,145,Leighton_Baines,1920,1920_145_Everton
+Leon,Balogun,DEF,Brighton,40,Leon_Balogun,1920,1920_40_Brighton
+Leroy,Sané,MID,Man City,216,Leroy_Sané,1920,1920_216_Man City
+Lewis,Cook,MID,Bournemouth,79,Lewis_Cook,1920,1920_79_Bournemouth
+Lewis,Dunk,DEF,Brighton,42,Lewis_Dunk,1920,1920_42_Brighton
+Lewis,Gibson,DEF,Everton,477,Lewis_Gibson,1920,1920_477_Everton
+Lloyd,Kelly,DEF,Bournemouth,64,Lloyd_Kelly,1920,1920_64_Bournemouth
+Lovre,Kalinic,GKP,Aston Villa,474,Lovre_Kalinic,1920,1920_474_Aston Villa
+Lucas,Digne,DEF,Everton,141,Lucas_Digne,1920,1920_141_Everton
+Lucas,Rodrigues Moura da Silva,MID,Spurs,345,Lucas_Rodrigues Moura da Silva,1920,1920_345_Spurs
+Lucas,Torreira,MID,Arsenal,19,Lucas_Torreira,1920,1920_19_Arsenal
+Lukasz,Fabianski,GKP,West Ham,388,Lukasz_Fabianski,1920,1920_388_West Ham
+Luka,Milivojevic,MID,Crystal Palace,134,Luka_Milivojevic,1920,1920_134_Crystal Palace
+Luke,Amos,MID,Spurs,351,Luke_Amos,1920,1920_351_Spurs
+Luke,Dreher,MID,Crystal Palace,140,Luke_Dreher,1920,1920_140_Crystal Palace
+Luke,Freeman,MID,Sheffield Utd,441,Luke_Freeman,1920,1920_441_Sheffield Utd
+Luke,Shaw,DEF,Man Utd,226,Luke_Shaw,1920,1920_226_Man Utd
+Lys,Mousset,FWD,Sheffield Utd,70,Lys_Mousset,1920,1920_70_Sheffield Utd
+Maarten,Stekelenburg,GKP,Everton,149,Maarten_Stekelenburg,1920,1920_149_Everton
+Mahmoud Ahmed,Ibrahim Hassan,MID,Aston Villa,465,Mahmoud Ahmed_Ibrahim Hassan,1920,1920_465_Aston Villa
+Mamadou,Sakho,DEF,Crystal Palace,125,Mamadou_Sakho,1920,1920_125_Crystal Palace
+Manuel,Lanzini,MID,West Ham,391,Manuel_Lanzini,1920,1920_391_West Ham
+Marcos,Alonso,DEF,Chelsea,103,Marcos_Alonso,1920,1920_103_Chelsea
+Marcos,Rojo,DEF,Man Utd,227,Marcos_Rojo,1920,1920_227_Man Utd
+Marco,Stiepermann,MID,Norwich,285,Marco_Stiepermann,1920,1920_285_Norwich
+Marcus,Rashford,FWD,Man Utd,233,Marcus_Rashford,1920,1920_233_Man Utd
+Marc,Albrighton,MID,Leicester,174,Marc_Albrighton,1920,1920_174_Leicester
+Marc,Navarro,DEF,Watford,360,Marc_Navarro,1920,1920_360_Watford
+Mario,Lemina,MID,Southampton,324,Mario_Lemina,1920,1920_324_Southampton
+Mario,Vrancic,MID,Norwich,282,Mario_Vrancic,1920,1920_282_Norwich
+Marko,Arnautovic,FWD,West Ham,385,Marko_Arnautovic,1920,1920_385_West Ham
+Mark,Duffy,MID,Sheffield Utd,300,Mark_Duffy,1920,1920_300_Sheffield Utd
+Mark,Noble,MID,West Ham,396,Mark_Noble,1920,1920_396_West Ham
+Mark,Travers,GKP,Bournemouth,74,Mark_Travers,1920,1920_74_Bournemouth
+Martin,Dubravka,GKP,Newcastle,262,Martin_Dubravka,1920,1920_262_Newcastle
+Martin,Kelly,DEF,Crystal Palace,128,Martin_Kelly,1920,1920_128_Crystal Palace
+Martín,Montoya,DEF,Brighton,38,Martín_Montoya,1920,1920_38_Brighton
+Marvelous,Nakamba,MID,Aston Villa,491,Marvelous_Nakamba,1920,1920_491_Aston Villa
+Mason,Greenwood,FWD,Man Utd,234,Mason_Greenwood,1920,1920_234_Man Utd
+Mason,Holgate,DEF,Everton,478,Mason_Holgate,1920,1920_478_Everton
+Mason,Mount,MID,Chelsea,463,Mason_Mount,1920,1920_463_Chelsea
+Matej,Vydra,FWD,Burnley,92,Matej_Vydra,1920,1920_92_Burnley
+Mateo,Kovacic,MID,Chelsea,432,Mateo_Kovacic,1920,1920_432_Chelsea
+Mathew,Ryan,GKP,Brighton,47,Mathew_Ryan,1920,1920_47_Brighton
+Matteo,Darmian,DEF,Man Utd,230,Matteo_Darmian,1920,1920_230_Man Utd
+Matteo,Guendouzi,MID,Arsenal,21,Matteo_Guendouzi,1920,1920_21_Arsenal
+Matthew,Clarke,DEF,Brighton,43,Matthew_Clarke,1920,1920_43_Brighton
+Matthew,Lowton,DEF,Burnley,85,Matthew_Lowton,1920,1920_85_Burnley
+Matty,James,MID,Leicester,177,Matty_James,1920,1920_177_Leicester
+Matt,Doherty,DEF,Wolves,401,Matt_Doherty,1920,1920_401_Wolves
+Matt,Ritchie,DEF,Newcastle,251,Matt_Ritchie,1920,1920_251_Newcastle
+Matt,Targett,DEF,Aston Villa,309,Matt_Targett,1920,1920_309_Aston Villa
+Maximillian,Aarons,DEF,Norwich,274,Maximillian_Aarons,1920,1920_274_Norwich
+Max,Kilman,DEF,Wolves,408,Max_Kilman,1920,1920_408_Wolves
+Max,Meyer,MID,Crystal Palace,136,Max_Meyer,1920,1920_136_Crystal Palace
+Maya,Yoshida,DEF,Southampton,310,Maya_Yoshida,1920,1920_310_Southampton
+Mesut,Özil,MID,Arsenal,15,Mesut_Özil,1920,1920_15_Arsenal
+Michael,Keane,DEF,Everton,143,Michael_Keane,1920,1920_143_Everton
+Michael,McGovern,GKP,Norwich,281,Michael_McGovern,1920,1920_281_Norwich
+Michael,Obafemi,FWD,Southampton,314,Michael_Obafemi,1920,1920_314_Southampton
+Michael,Verrips,GKP,Sheffield Utd,521,Michael_Verrips,1920,1920_521_Sheffield Utd
+Michail,Antonio,MID,West Ham,389,Michail_Antonio,1920,1920_389_West Ham
+Michy,Batshuayi,FWD,Chelsea,461,Michy_Batshuayi,1920,1920_461_Chelsea
+Miguel,Almirón,MID,Newcastle,266,Miguel_Almirón,1920,1920_266_Newcastle
+Mohamed,Elneny,MID,Arsenal,20,Mohamed_Elneny,1920,1920_20_Arsenal
+Mohamed,Elyounoussi,MID,Southampton,322,Mohamed_Elyounoussi,1920,1920_322_Southampton
+Mohamed,Salah,MID,Liverpool,191,Mohamed_Salah,1920,1920_191_Liverpool
+Moise,Kean,FWD,Everton,496,Moise_Kean,1920,1920_496_Everton
+Morgan,Gibbs-White,MID,Wolves,416,Morgan_Gibbs-White,1920,1920_416_Wolves
+Morgan,Schneiderlin,MID,Everton,158,Morgan_Schneiderlin,1920,1920_158_Everton
+Moritz,Leitner,MID,Norwich,288,Moritz_Leitner,1920,1920_288_Norwich
+Moussa,Djenepo,MID,Southampton,438,Moussa_Djenepo,1920,1920_438_Southampton
+Moussa,Sissoko,MID,Spurs,349,Moussa_Sissoko,1920,1920_349_Spurs
+Muhamed,Bešić,MID,Sheffield Utd,522,Muhamed_Bešić,1920,1920_522_Sheffield Utd
+N'Golo,Kanté,MID,Chelsea,119,N'Golo_Kanté,1920,1920_119_Chelsea
+Naby,Keita,MID,Liverpool,196,Naby_Keita,1920,1920_196_Liverpool
+Nacho,Monreal,DEF,Arsenal,6,Nacho_Monreal,1920,1920_6_Arsenal
+Nampalys,Mendy,MID,Leicester,179,Nampalys_Mendy,1920,1920_179_Leicester
+Nathaniel,Chalobah,MID,Watford,374,Nathaniel_Chalobah,1920,1920_374_Watford
+Nathan,Aké,DEF,Bournemouth,59,Nathan_Aké,1920,1920_59_Bournemouth
+Nathan,Redmond,MID,Southampton,320,Nathan_Redmond,1920,1920_320_Southampton
+Neal,Maupay,FWD,Brighton,502,Neal_Maupay,1920,1920_502_Brighton
+Neil,Taylor,DEF,Aston Villa,24,Neil_Taylor,1920,1920_24_Aston Villa
+Nemanja,Matic,MID,Man Utd,247,Nemanja_Matic,1920,1920_247_Man Utd
+Nick,Pope,GKP,Burnley,93,Nick_Pope,1920,1920_93_Burnley
+Nicolas,Pépé,MID,Arsenal,488,Nicolas_Pépé,1920,1920_488_Arsenal
+Nicolás,Otamendi,DEF,Man City,208,Nicolás_Otamendi,1920,1920_208_Man City
+Oleksandr,Zinchenko,DEF,Man City,206,Oleksandr_Zinchenko,1920,1920_206_Man City
+Oliver,McBurnie,FWD,Sheffield Utd,501,Oliver_McBurnie,1920,1920_501_Sheffield Utd
+Oliver,Norwood,MID,Sheffield Utd,302,Oliver_Norwood,1920,1920_302_Sheffield Utd
+Oliver,Skipp,MID,Spurs,352,Oliver_Skipp,1920,1920_352_Spurs
+Olivier,Giroud,FWD,Chelsea,110,Olivier_Giroud,1920,1920_110_Chelsea
+Onel,Hernández,MID,Norwich,284,Onel_Hernández,1920,1920_284_Norwich
+Oriol,Romeu Vidal,MID,Southampton,328,Oriol_Romeu Vidal,1920,1920_328_Southampton
+Pablo,Fornals,MID,West Ham,399,Pablo_Fornals,1920,1920_399_West Ham
+Pablo,Zabaleta,DEF,West Ham,379,Pablo_Zabaleta,1920,1920_379_West Ham
+Pascal,Groß,MID,Brighton,49,Pascal_Groß,1920,1920_49_Brighton
+Patrick,Cutrone,FWD,Wolves,487,Patrick_Cutrone,1920,1920_487_Wolves
+Patrick,Roberts,MID,Norwich,435,Patrick_Roberts,1920,1920_435_Norwich
+Patrick,van Aanholt,DEF,Crystal Palace,123,Patrick_van Aanholt,1920,1920_123_Crystal Palace
+Paulo,Gazzaniga,GKP,Spurs,341,Paulo_Gazzaniga,1920,1920_341_Spurs
+Paul,Dummett,DEF,Newcastle,255,Paul_Dummett,1920,1920_255_Newcastle
+Paul,Pogba,MID,Man Utd,238,Paul_Pogba,1920,1920_238_Man Utd
+Pedro,Lomba Neto,MID,Wolves,528,Pedro_Lomba Neto,1920,1920_528_Wolves
+Pedro,Obiang,MID,West Ham,400,Pedro_Obiang,1920,1920_400_West Ham
+Pedro,Rodríguez Ledesma,MID,Chelsea,114,Pedro_Rodríguez Ledesma,1920,1920_114_Chelsea
+Philip,Billing,MID,Bournemouth,476,Philip_Billing,1920,1920_476_Bournemouth
+Philip,Heise,DEF,Norwich,484,Philip_Heise,1920,1920_484_Norwich
+Phil,Bardsley,DEF,Burnley,86,Phil_Bardsley,1920,1920_86_Burnley
+Phil,Foden,MID,Man City,220,Phil_Foden,1920,1920_220_Man City
+Phil,Jagielka,DEF,Sheffield Utd,444,Phil_Jagielka,1920,1920_444_Sheffield Utd
+Phil,Jones,DEF,Man Utd,231,Phil_Jones,1920,1920_231_Man Utd
+Pierre-Emerick,Aubameyang,FWD,Arsenal,11,Pierre-Emerick_Aubameyang,1920,1920_11_Arsenal
+Pierre-Emile,Højbjerg,MID,Southampton,325,Pierre-Emile_Højbjerg,1920,1920_325_Southampton
+Pontus,Dahlberg,GKP,Watford,367,Pontus_Dahlberg,1920,1920_367_Watford
+Rachid,Ghezzal,MID,Leicester,173,Rachid_Ghezzal,1920,1920_173_Leicester
+Rafael,Camacho,MID,Liverpool,201,Rafael_Camacho,1920,1920_201_Liverpool
+Raheem,Sterling,MID,Man City,214,Raheem_Sterling,1920,1920_214_Man City
+Ralf,Fahrmann,GKP,Norwich,449,Ralf_Fahrmann,1920,1920_449_Norwich
+Ravel,Morrison,MID,Sheffield Utd,456,Ravel_Morrison,1920,1920_456_Sheffield Utd
+Raúl,Jiménez,FWD,Wolves,409,Raúl_Jiménez,1920,1920_409_Wolves
+Reece,James,DEF,Chelsea,506,Reece_James,1920,1920_506_Chelsea
+Reiss,Nelson,MID,Arsenal,489,Reiss_Nelson,1920,1920_489_Arsenal
+Rhian,Brewster,FWD,Liverpool,464,Rhian_Brewster,1920,1920_464_Liverpool
+Ricardo Domingos,Barbosa Pereira,DEF,Leicester,159,Ricardo Domingos_Barbosa Pereira,1920,1920_159_Leicester
+Richard,Stearman,DEF,Sheffield Utd,296,Richard_Stearman,1920,1920_296_Sheffield Utd
+Richarlison,de Andrade,MID,Everton,150,Richarlison_de Andrade,1920,1920_150_Everton
+Riyad,Mahrez,MID,Man City,217,Riyad_Mahrez,1920,1920_217_Man City
+Robbie,Brady,MID,Burnley,98,Robbie_Brady,1920,1920_98_Burnley
+Robert Kenedy,Nunes do Nascimento,MID,Chelsea,462,Robert Kenedy_Nunes do Nascimento,1920,1920_462_Chelsea
+Roberto,Firmino,FWD,Liverpool,187,Roberto_Firmino,1920,1920_187_Liverpool
+Roberto,Jimenez Gago,GKP,West Ham,450,Roberto_Jimenez Gago,1920,1920_450_West Ham
+Roberto,Pereyra,MID,Watford,369,Roberto_Pereyra,1920,1920_369_Watford
+Robert,Snodgrass,MID,West Ham,393,Robert_Snodgrass,1920,1920_393_West Ham
+Rob,Holding,DEF,Arsenal,10,Rob_Holding,1920,1920_10_Arsenal
+Rodrigo,Hernandez,MID,Man City,443,Rodrigo_Hernandez,1920,1920_443_Man City
+Rolando,Aarons,MID,Newcastle,499,Rolando_Aarons,1920,1920_499_Newcastle
+Romain,Saïss,DEF,Wolves,407,Romain_Saïss,1920,1920_407_Wolves
+Romelu,Lukaku,FWD,Man Utd,232,Romelu_Lukaku,1920,1920_232_Man Utd
+Ross,Barkley,MID,Chelsea,117,Ross_Barkley,1920,1920_117_Chelsea
+Ruben,Loftus-Cheek,MID,Chelsea,115,Ruben_Loftus-Cheek,1920,1920_115_Chelsea
+Rui Pedro,dos Santos Patrício,GKP,Wolves,411,Rui Pedro_dos Santos Patrício,1920,1920_411_Wolves
+Ryan,Bennett,DEF,Leicester,404,Ryan_Bennett,1920,1920_404_Leicester
+Ryan,Bertrand,DEF,Southampton,305,Ryan_Bertrand,1920,1920_305_Southampton
+Ryan,Fraser,MID,Bournemouth,75,Ryan_Fraser,1920,1920_75_Bournemouth
+Ryan,Fredericks,DEF,West Ham,380,Ryan_Fredericks,1920,1920_380_West Ham
+Ryan,Sessegnon,MID,Spurs,524,Ryan_Sessegnon,1920,1920_524_Spurs
+Rúben Diogo,da Silva Neves,MID,Wolves,414,Rúben Diogo_da Silva Neves,1920,1920_414_Wolves
+Rúben Gonçalo,Silva Nascimento Vinagre,DEF,Wolves,406,Rúben Gonçalo_Silva Nascimento Vinagre,1920,1920_406_Wolves
+Sadio,Mané,MID,Liverpool,192,Sadio_Mané,1920,1920_192_Liverpool
+Sam,Byram,DEF,Norwich,454,Sam_Byram,1920,1920_454_Norwich
+Sam,Gallagher,FWD,Southampton,316,Sam_Gallagher,1920,1920_316_Southampton
+Sam,Surridge,FWD,Bournemouth,71,Sam_Surridge,1920,1920_71_Bournemouth
+Scott,Dann,DEF,Crystal Palace,127,Scott_Dann,1920,1920_127_Crystal Palace
+Scott,McTominay,MID,Man Utd,248,Scott_McTominay,1920,1920_248_Man Utd
+Sead,Kolasinac,DEF,Arsenal,3,Sead_Kolasinac,1920,1920_3_Arsenal
+Seamus,Coleman,DEF,Everton,144,Seamus_Coleman,1920,1920_144_Everton
+Sean,Longstaff,MID,Newcastle,270,Sean_Longstaff,1920,1920_270_Newcastle
+Sebastian,Prödl,DEF,Watford,361,Sebastian_Prödl,1920,1920_361_Watford
+Serge,Aurier,DEF,Spurs,336,Serge_Aurier,1920,1920_336_Spurs
+Sergio,Agüero,FWD,Man City,210,Sergio_Agüero,1920,1920_210_Man City
+Sergio,Romero,GKP,Man Utd,236,Sergio_Romero,1920,1920_236_Man Utd
+Shane,Duffy,DEF,Brighton,37,Shane_Duffy,1920,1920_37_Brighton
+Shane,Long,FWD,Southampton,315,Shane_Long,1920,1920_315_Southampton
+Shkodran,Mustafi,DEF,Arsenal,1,Shkodran_Mustafi,1920,1920_1_Arsenal
+Simon,Francis,DEF,Bournemouth,62,Simon_Francis,1920,1920_62_Bournemouth
+Simon,Mignolet,GKP,Liverpool,190,Simon_Mignolet,1920,1920_190_Liverpool
+Simon,Moore,GKP,Sheffield Utd,436,Simon_Moore,1920,1920_436_Sheffield Utd
+Sofiane,Boufal,MID,Southampton,508,Sofiane_Boufal,1920,1920_508_Southampton
+Sokratis,Papastathopoulos,DEF,Arsenal,5,Sokratis_Papastathopoulos,1920,1920_5_Arsenal
+Solomon,March,MID,Brighton,55,Solomon_March,1920,1920_55_Brighton
+Steven,Defour,MID,Burnley,99,Steven_Defour,1920,1920_99_Burnley
+Steve,Cook,DEF,Bournemouth,58,Steve_Cook,1920,1920_58_Bournemouth
+Stuart,Armstrong,MID,Southampton,323,Stuart_Armstrong,1920,1920_323_Southampton
+Sung-yueng,Ki,MID,Newcastle,268,Sung-yueng_Ki,1920,1920_268_Newcastle
+Sébastien,Haller,FWD,West Ham,457,Sébastien_Haller,1920,1920_457_West Ham
+Tahith,Chong,MID,Man Utd,249,Tahith_Chong,1920,1920_249_Man Utd
+Tammy,Abraham,FWD,Chelsea,460,Tammy_Abraham,1920,1920_460_Chelsea
+Tanguy,Ndombele,MID,Spurs,442,Tanguy_Ndombele,1920,1920_442_Spurs
+Teemu,Pukki,FWD,Norwich,278,Teemu_Pukki,1920,1920_278_Norwich
+Theo,Walcott,MID,Everton,153,Theo_Walcott,1920,1920_153_Everton
+Timm,Klose,DEF,Norwich,272,Timm_Klose,1920,1920_272_Norwich
+Tim,Krul,GKP,Norwich,280,Tim_Krul,1920,1920_280_Norwich
+Toby,Alderweireld,DEF,Spurs,331,Toby_Alderweireld,1920,1920_331_Spurs
+Todd,Cantwell,MID,Norwich,287,Todd_Cantwell,1920,1920_287_Norwich
+Tom,Cleverley,MID,Watford,371,Tom_Cleverley,1920,1920_371_Watford
+Tom,Davies,MID,Everton,154,Tom_Davies,1920,1920_154_Everton
+Tom,Heaton,GKP,Aston Villa,94,Tom_Heaton,1920,1920_94_Aston Villa
+Tom,Trybull,MID,Norwich,290,Tom_Trybull,1920,1920_290_Norwich
+Trent,Alexander-Arnold,DEF,Liverpool,182,Trent_Alexander-Arnold,1920,1920_182_Liverpool
+Troy,Deeney,FWD,Watford,362,Troy_Deeney,1920,1920_362_Watford
+Troy,Parrott,FWD,Spurs,509,Troy_Parrott,1920,1920_509_Spurs
+Tyreke,Johnson,MID,Southampton,326,Tyreke_Johnson,1920,1920_326_Southampton
+Tyrone,Mings,DEF,Aston Villa,445,Tyrone_Mings,1920,1920_445_Aston Villa
+Vicente,Guaita,GKP,Crystal Palace,131,Vicente_Guaita,1920,1920_131_Crystal Palace
+Victor,Lindelöf,DEF,Man Utd,225,Victor_Lindelöf,1920,1920_225_Man Utd
+Victor,Wanyama,MID,Spurs,348,Victor_Wanyama,1920,1920_348_Spurs
+Vincent,Janssen,FWD,Spurs,339,Vincent_Janssen,1920,1920_339_Spurs
+Virgil,van Dijk,DEF,Liverpool,183,Virgil_van Dijk,1920,1920_183_Liverpool
+Víctor,Camarasa,MID,Crystal Palace,510,Víctor_Camarasa,1920,1920_510_Crystal Palace
+Wayne,Hennessey,GKP,Crystal Palace,132,Wayne_Hennessey,1920,1920_132_Crystal Palace
+Wesley,Hoedt,DEF,Southampton,485,Wesley_Hoedt,1920,1920_485_Southampton
+Wesley,Moraes,FWD,Aston Villa,428,Wesley_Moraes,1920,1920_428_Aston Villa
+Wes,Morgan,DEF,Leicester,165,Wes_Morgan,1920,1920_165_Leicester
+Wilfred,Ndidi,MID,Leicester,176,Wilfred_Ndidi,1920,1920_176_Leicester
+Wilfried,Zaha,MID,Crystal Palace,133,Wilfried_Zaha,1920,1920_133_Crystal Palace
+Willian,Borges Da Silva,MID,Chelsea,113,Willian_Borges Da Silva,1920,1920_113_Chelsea
+Willy,Boly,DEF,Wolves,405,Willy_Boly,1920,1920_405_Wolves
+Willy,Caballero,GKP,Chelsea,112,Willy_Caballero,1920,1920_112_Chelsea
+Will,Hughes,MID,Watford,370,Will_Hughes,1920,1920_370_Watford
+Will,Norris,GKP,Wolves,413,Will_Norris,1920,1920_413_Wolves
+Winston,Reid,DEF,West Ham,383,Winston_Reid,1920,1920_383_West Ham
+Xherdan,Shaqiri,MID,Liverpool,194,Xherdan_Shaqiri,1920,1920_194_Liverpool
+Yan,Valery,DEF,Southampton,306,Yan_Valery,1920,1920_306_Southampton
+Yerry,Mina,DEF,Everton,142,Yerry_Mina,1920,1920_142_Everton
+Yoshinori,Muto,FWD,Newcastle,260,Yoshinori_Muto,1920,1920_260_Newcastle
+Youri,Tielemans,MID,Leicester,448,Youri_Tielemans,1920,1920_448_Leicester
+Yves,Bissouma,MID,Brighton,53,Yves_Bissouma,1920,1920_53_Brighton
+Çaglar,Söyüncü,DEF,Leicester,164,Çaglar_Söyüncü,1920,1920_164_Leicester
+Ørjan,Nyland,GKP,Aston Villa,27,Ørjan_Nyland,1920,1920_27_Aston Villa
+Andy,Lonergan,GKP,Liverpool,530,Andy_Lonergan,1920,1920_530_Liverpool
+Caoimhin,Kelleher,GKP,Liverpool,531,Caoimhin_Kelleher,1920,1920_531_Liverpool
+Kevin,Danso,DEF,Southampton,532,Kevin_Danso,1920,1920_532_Southampton
+Aaron,Connolly,FWD,Brighton,534,Aaron_Connolly,1920,1920_534_Brighton
+Billy,Gilmour,MID,Chelsea,533,Billy_Gilmour,1920,1920_533_Chelsea
+Daniel,N'Lundulu,FWD,Southampton,535,Daniel_N'Lundulu,1920,1920_535_Southampton
+Adam,Idah,FWD,Norwich,538,Adam_Idah,1920,1920_538_Norwich
+Bukayo,Saka,MID,Arsenal,541,Bukayo_Saka,1920,1920_541_Arsenal
+Dimitri,Foulquier,DEF,Watford,542,Dimitri_Foulquier,1920,1920_542_Watford
+Jairo,Riedewald,MID,Crystal Palace,539,Jairo_Riedewald,1920,1920_539_Crystal Palace
+Matthew,Longstaff,MID,Newcastle,540,Matthew_Longstaff,1920,1920_540_Newcastle
+Steven,Alzate,MID,Brighton,537,Steven_Alzate,1920,1920_537_Brighton
+Tudor,Baluta,DEF,Brighton,536,Tudor_Baluta,1920,1920_536_Brighton
+Alfie,Whiteman,GKP,Spurs,543,Alfie_Whiteman,1920,1920_543_Spurs
+Eric,Garcia,DEF,Man City,544,Eric_Garcia,1920,1920_544_Man City
+Addji Keaninkin Marc-Israel,Guehi,DEF,Chelsea,545,Addji Keaninkin Marc-Israel_Guehi,1920,1920_545_Chelsea
+Brandon,Williams,DEF,Man Utd,549,Brandon_Williams,1920,1920_549_Man Utd
+Ezequiel,Schelotto,DEF,Brighton,546,Ezequiel_Schelotto,1920,1920_546_Brighton
+Harry,Lewis,GKP,Southampton,548,Harry_Lewis,1920,1920_548_Southampton
+Leon,Clarke,FWD,Sheffield Utd,547,Leon_Clarke,1920,1920_547_Sheffield Utd
+Akin,Famewo,DEF,Norwich,552,Akin_Famewo,1920,1920_552_Norwich
+Archie,Mair,GKP,Norwich,551,Archie_Mair,1920,1920_551_Norwich
+David,Martin,GKP,West Ham,553,David_Martin,1920,1920_553_West Ham
+Dwight,Gayle,FWD,Newcastle,554,Dwight_Gayle,1920,1920_554_Newcastle
+Harvey,Elliott,MID,Liverpool,550,Harvey_Elliott,1920,1920_550_Liverpool
+Beni,Baningime,MID,Everton,557,Beni_Baningime,1920,1920_557_Everton
+Brandon,Austin,GKP,Spurs,558,Brandon_Austin,1920,1920_558_Spurs
+Michel,Vorm,GKP,Spurs,555,Michel_Vorm,1920,1920_555_Spurs
+Stephen,Henderson,GKP,Crystal Palace,556,Stephen_Henderson,1920,1920_556_Crystal Palace
+Bernard,Ashley-Seal,FWD,Wolves,559,Bernard_Ashley-Seal,1920,1920_559_Wolves
+Taylor,Perry,MID,Wolves,560,Taylor_Perry,1920,1920_560_Wolves
+Anthony,Gordon,FWD,Everton,561,Anthony_Gordon,1920,1920_561_Everton
+Scott,Carson,GKP,Man City,562,Scott_Carson,1920,1920_562_Man City
+Ayotomiwa,Dele-Bashiru,MID,Watford,563,Ayotomiwa_Dele-Bashiru,1920,1920_563_Watford
+Christian,Saydee,MID,Bournemouth,564,Christian_Saydee,1920,1920_564_Bournemouth
+Gavin,Kilkenny,MID,Bournemouth,565,Gavin_Kilkenny,1920,1920_565_Bournemouth
+Luke,Cundle,MID,Wolves,567,Luke_Cundle,1920,1920_567_Wolves
+Owen,Otasowie,MID,Wolves,566,Owen_Otasowie,1920,1920_566_Wolves
+Nathan,Holland,MID,West Ham,568,Nathan_Holland,1920,1920_568_West Ham
+Anthony,Driscoll-Glennon,DEF,Burnley,572,Anthony_Driscoll-Glennon,1920,1920_572_Burnley
+Mace,Goodridge,MID,Burnley,571,Mace_Goodridge,1920,1920_571_Burnley
+Oumar,Niasse,FWD,Everton,570,Oumar_Niasse,1920,1920_570_Everton
+Curtis,Jones,MID,Liverpool,569,Curtis_Jones,1920,1920_569_Liverpool
+Mihai-Alexandru,Dobre,MID,Bournemouth,574,Mihai-Alexandru_Dobre,1920,1920_574_Bournemouth
+Tyrick,Mitchell,DEF,Crystal Palace,579,Tyrick_Mitchell,1920,1920_579_Crystal Palace
+Rhu-endly,Martina,DEF,Everton,577,Rhu-endly_Martina,1920,1920_577_Everton
+Neco,Williams,DEF,Liverpool,575,Neco_Williams,1920,1920_575_Liverpool
+Emile,Smith Rowe,MID,Arsenal,576,Emile_Smith Rowe,1920,1920_576_Arsenal
+Sam,Woods,DEF,Crystal Palace,578,Sam_Woods,1920,1920_578_Crystal Palace
+Robert,Elliot,GKP,Newcastle,573,Robert_Elliot,1920,1920_573_Newcastle
+Brandon,Pierrick,MID,Crystal Palace,580,Brandon_Pierrick,1920,1920_580_Crystal Palace
+James,Daly,FWD,Crystal Palace,581,James_Daly,1920,1920_581_Crystal Palace
+Japhet,Tanganga,DEF,Spurs,583,Japhet_Tanganga,1920,1920_583_Spurs
+Joseph,Anang,GKP,West Ham,582,Joseph_Anang,1920,1920_582_West Ham
+Tyreece,John-Jules,FWD,Arsenal,585,Tyreece_John-Jules,1920,1920_585_Arsenal
+Tariq,Lamptey,DEF,Brighton,586,Tariq_Lamptey,1920,1920_586_Brighton
+Oskar,Buur,DEF,Wolves,587,Oskar_Buur,1920,1920_587_Wolves
+William,Smallbone,MID,Southampton,584,William_Smallbone,1920,1920_584_Southampton
+Nathaniel,Phillips,DEF,Liverpool,589,Nathaniel_Phillips,1920,1920_589_Liverpool
+Nya,Kirby,MID,Crystal Palace,588,Nya_Kirby,1920,1920_588_Crystal Palace
+Bernardo,Costa Da Rosa,MID,West Ham,595,Bernardo_Costa Da Rosa,1920,1920_595_West Ham
+João Pedro,Junqueira de Jesus,FWD,Watford,592,João Pedro_Junqueira de Jesus,1920,1920_592_Watford
+Jeremy,Ngakia,DEF,West Ham,593,Jeremy_Ngakia,1920,1920_593_West Ham
+Gonçalo Bento,Soares Cardoso,DEF,West Ham,594,Gonçalo Bento_Soares Cardoso,1920,1920_594_West Ham
+Thomas,Allan,MID,Newcastle,598,Thomas_Allan,1920,1920_598_Newcastle
+Abd-Al-Ali Morakinyo Olaposi,Koiki,DEF,Burnley,596,Abd-Al-Ali Morakinyo Olaposi_Koiki,1920,1920_596_Burnley
+Kelland,Watts,DEF,Newcastle,599,Kelland_Watts,1920,1920_599_Newcastle
+Filip,Benkovic,DEF,Leicester,597,Filip_Benkovic,1920,1920_597_Leicester
+Jack,Rodwell,MID,Sheffield Utd,591,Jack_Rodwell,1920,1920_591_Sheffield Utd
+Takumi,Minamino,MID,Liverpool,590,Takumi_Minamino,1920,1920_590_Liverpool
+Indiana,Vassilev,MID,Aston Villa,600,Indiana_Vassilev,1920,1920_600_Aston Villa
+Giovanni,McGregor,MID,Crystal Palace,608,Giovanni_McGregor,1920,1920_608_Crystal Palace
+Ryan,Giles,DEF,Wolves,607,Ryan_Giles,1920,1920_607_Wolves
+Gedson,Carvalho Fernandes,MID,Spurs,605,Gedson_Carvalho Fernandes,1920,1920_605_Spurs
+Lukas,Rupp,MID,Norwich,602,Lukas_Rupp,1920,1920_602_Norwich
+Bruno André,Cavaco Jordao,MID,Wolves,609,Bruno André_Cavaco Jordao,1920,1920_609_Wolves
+José,Reina,GKP,Aston Villa,603,José_Reina,1920,1920_603_Aston Villa
+Darren,Randolph,GKP,West Ham,606,Darren_Randolph,1920,1920_606_West Ham
+Ignacio,Pussetto,MID,Watford,604,Ignacio_Pussetto,1920,1920_604_Watford
+Ondrej,Duda,MID,Norwich,601,Ondrej_Duda,1920,1920_601_Norwich
+Liam,Gibson,DEF,Newcastle,610,Liam_Gibson,1920,1920_610_Newcastle
+Bruno Miguel,Borges Fernandes,MID,Man Utd,618,Bruno Miguel_Borges Fernandes,1920,1920_618_Man Utd
+Daniel,Castelo Podence,MID,Wolves,619,Daniel_Castelo Podence,1920,1920_619_Wolves
+Jack,Robinson,DEF,Sheffield Utd,611,Jack_Robinson,1920,1920_611_Sheffield Utd
+Josh,Brownhill,MID,Burnley,620,Josh_Brownhill,1920,1920_620_Burnley
+Mbwana,Samatta,FWD,Aston Villa,613,Mbwana_Samatta,1920,1920_613_Aston Villa
+Nabil,Bentaleb,MID,Newcastle,612,Nabil_Bentaleb,1920,1920_612_Newcastle
+Pablo,Marí,DEF,Arsenal,617,Pablo_Marí,1920,1920_617_Arsenal
+Richairo,Zivkovic,FWD,Sheffield Utd,622,Richairo_Zivkovic,1920,1920_622_Sheffield Utd
+Sander,Berge,MID,Sheffield Utd,621,Sander_Berge,1920,1920_621_Sheffield Utd
+Steven,Bergwijn,MID,Spurs,615,Steven_Bergwijn,1920,1920_615_Spurs
+Tomas,Soucek,MID,West Ham,616,Tomas_Soucek,1920,1920_616_West Ham
+Valentino,Lazaro,MID,Newcastle,614,Valentino_Lazaro,1920,1920_614_Newcastle
+Odion,Ighalo,FWD,Man Utd,624,Odion_Ighalo,1920,1920_624_Man Utd
+Borja,González Tomás,FWD,Aston Villa,623,Borja_González Tomás,1920,1920_623_Aston Villa
+Panagiotis,Retsos,DEF,Sheffield Utd,625,Panagiotis_Retsos,1920,1920_625_Sheffield Utd
+Jarrod,Bowen,MID,West Ham,626,Jarrod_Bowen,1920,1920_626_West Ham
+Alexis,Mac Allister,MID,Brighton,627,Alexis_Mac Allister,1920,1920_627_Brighton
+João Manuel,Neves Virgínia,GKP,Everton,629,João Manuel_Neves Virgínia,1920,1920_629_Everton
+Ki-Jana,Hoever,DEF,Liverpool,628,Ki-Jana_Hoever,1920,1920_628_Liverpool
+Armando,Broja,FWD,Chelsea,631,Armando_Broja,1920,1920_631_Chelsea
+Faustino,Anjorin,MID,Chelsea,630,Faustino_Anjorin,1920,1920_630_Chelsea
+Bobby,Thomas,DEF,Burnley,639,Bobby_Thomas,1920,1920_639_Burnley
+Harvey,White,MID,Spurs,634,Harvey_White,1920,1920_634_Spurs
+Jarrad,Branthwaite,DEF,Everton,637,Jarrad_Branthwaite,1920,1920_637_Everton
+Jimmy,Dunne,DEF,Burnley,638,Jimmy_Dunne,1920,1920_638_Burnley
+Josh,Martin,MID,Norwich,632,Josh_Martin,1920,1920_632_Norwich
+Lukas,Jensen,GKP,Burnley,641,Lukas_Jensen,1920,1920_641_Burnley
+Max,Thompson,FWD,Burnley,640,Max_Thompson,1920,1920_640_Burnley
+Nathan,Tella,MID,Southampton,633,Nathan_Tella,1920,1920_633_Southampton
+Nikola,Tavares,DEF,Crystal Palace,635,Nikola_Tavares,1920,1920_635_Crystal Palace
+Zech,Medley,DEF,Arsenal,636,Zech_Medley,1920,1920_636_Arsenal
+Cole,Palmer,MID,Man City,643,Cole_Palmer,1920,1920_643_Man City
+Jake,Vokins,DEF,Southampton,645,Jake_Vokins,1920,1920_645_Southampton
+Matthew,Smith,DEF,Arsenal,647,Matthew_Smith,1920,1920_647_Arsenal
+Matt,Macey,GKP,Arsenal,646,Matt_Macey,1920,1920_646_Arsenal
+Taylor,Harwood-Bellis,DEF,Man City,642,Taylor_Harwood-Bellis,1920,1920_642_Man City
+Tommy,Doyle,MID,Man City,644,Tommy_Doyle,1920,1920_644_Man City
+Adalberto,Peñaranda,FWD,Watford,648,Adalberto_Peñaranda,1920,1920_648_Watford
+Alexandre,Jankewitz,MID,Southampton,649,Alexandre_Jankewitz,1920,1920_649_Southampton
+Alfie,Lewis,MID,West Ham,651,Alfie_Lewis,1920,1920_651_West Ham
+Jordan,Thomas,DEF,Norwich,650,Jordan_Thomas,1920,1920_650_Norwich
+Dennis,Cirkin,DEF,Spurs,655,Dennis_Cirkin,1920,1920_655_Spurs
+Josh,Benson,MID,Burnley,653,Josh_Benson,1920,1920_653_Burnley
+Leonardo,Campana,FWD,Wolves,652,Leonardo_Campana,1920,1920_652_Wolves
+Will,Ferry,MID,Southampton,654,Will_Ferry,1920,1920_654_Southampton
+Jack,Young,MID,Newcastle,656,Jack_Young,1920,1920_656_Newcastle
+Lewis,Bate,MID,Chelsea,657,Lewis_Bate,1920,1920_657_Chelsea
+Conor,Coventry,MID,West Ham,664,Conor_Coventry,1920,1920_664_West Ham
+Darnell,Johnson,DEF,Leicester,662,Darnell_Johnson,1920,1920_662_Leicester
+George,Hirst,FWD,Leicester,661,George_Hirst,1920,1920_661_Leicester
+Jacob,Maddox,MID,Southampton,663,Jacob_Maddox,1920,1920_663_Southampton
+Kaine,Hayden,MID,Aston Villa,659,Kaine_Hayden,1920,1920_659_Aston Villa
+Luke,Thomas,DEF,Leicester,660,Luke_Thomas,1920,1920_660_Leicester
+Timothy,Fosu-Mensah,DEF,Man Utd,658,Timothy_Fosu-Mensah,1920,1920_658_Man Utd
+Alex,Cochrane,DEF,Brighton,666,Alex_Cochrane,1920,1920_666_Brighton
+Ellis,Simms,FWD,Everton,667,Ellis_Simms,1920,1920_667_Everton
+Joel,Mumbongo,FWD,Burnley,665,Joel_Mumbongo,1920,1920_665_Burnley
+John-Kymani,Gordon,MID,Crystal Palace,668,John-Kymani_Gordon,1920,1920_668_Crystal Palace
+Daniel,Adshead,MID,Norwich,669,Daniel_Adshead,1920,1920_669_Norwich
+Aaron,Connolly,FWD,Brighton,78,Aaron_Connolly,2021,2021_78_Brighton
+Aaron,Cresswell,DEF,West Ham,435,Aaron_Cresswell,2021,2021_435_West Ham
+Aaron,Mooy,MID,Brighton,60,Aaron_Mooy,2021,2021_60_Brighton
+Aaron,Ramsdale,GKP,Sheffield Utd,483,Aaron_Ramsdale,2021,2021_483_Sheffield Utd
+Abdoulaye,Doucouré,MID,Everton,512,Abdoulaye_Doucouré,2021,2021_512_Everton
+Aboubakar,Kamara,MID,Fulham,190,Aboubakar_Kamara,2021,2021_190_Fulham
+Adama,Traoré,MID,Wolves,465,Adama_Traoré,2021,2021_465_Wolves
+Adam,Forshaw,MID,Leeds,199,Adam_Forshaw,2021,2021_199_Leeds
+Adam,Lallana,MID,Brighton,54,Adam_Lallana,2021,2021_54_Brighton
+Adam,Webster,DEF,Brighton,66,Adam_Webster,2021,2021_66_Brighton
+Adrien,Silva,MID,Leicester,220,Adrien_Silva,2021,2021_220_Leicester
+Adrián,San Miguel del Castillo,GKP,Liverpool,245,Adrián_San Miguel del Castillo,2021,2021_245_Liverpool
+Ahmed El-Sayed,Hegazy,DEF,West Brom,414,Ahmed El-Sayed_Hegazy,2021,2021_414_West Brom
+Ainsley,Maitland-Niles,DEF,West Brom,15,Ainsley_Maitland-Niles,2021,2021_15_West Brom
+Ainsley,Maitland-Niles,DEF,,15,Ainsley_Maitland-Niles,2021,2021_15_nan
+Albian,Ajeti,FWD,West Ham,447,Albian_Ajeti,2021,2021_447_West Ham
+Aleksandar,Mitrović,FWD,Fulham,184,Aleksandar_Mitrović,2021,2021_184_Fulham
+Alexandre,Lacazette,FWD,Arsenal,6,Alexandre_Lacazette,2021,2021_6_Arsenal
+Alexis,Mac Allister,MID,Brighton,80,Alexis_Mac Allister,2021,2021_80_Brighton
+Alex,Iwobi,MID,Everton,159,Alex_Iwobi,2021,2021_159_Everton
+Alex,McCarthy,GKP,Southampton,363,Alex_McCarthy,2021,2021_363_Southampton
+Alex,Oxlade-Chamberlain,MID,Liverpool,248,Alex_Oxlade-Chamberlain,2021,2021_248_Liverpool
+Alfie,Mawson,DEF,Fulham,185,Alfie_Mawson,2021,2021_185_Fulham
+Alireza,Jahanbakhsh,MID,Brighton,71,Alireza_Jahanbakhsh,2021,2021_71_Brighton
+Alisson,Ramses Becker,GKP,Liverpool,252,Alisson_Ramses Becker,2021,2021_252_Liverpool
+Allan,Marques Loureiro,MID,Everton,502,Allan_Marques Loureiro,2021,2021_502_Everton
+Allan,Saint-Maximin,MID,Newcastle,338,Allan_Saint-Maximin,2021,2021_338_Newcastle
+Alphonse,Areola,GKP,Fulham,516,Alphonse_Areola,2021,2021_516_Fulham
+Andreas,Christensen,DEF,Chelsea,116,Andreas_Christensen,2021,2021_116_Chelsea
+Andrew,Robertson,DEF,Liverpool,255,Andrew_Robertson,2021,2021_255_Liverpool
+Andriy,Yarmolenko,MID,West Ham,436,Andriy_Yarmolenko,2021,2021_436_West Ham
+Andros,Townsend,MID,Crystal Palace,137,Andros_Townsend,2021,2021_137_Crystal Palace
+André Filipe,Tavares Gomes,MID,Everton,158,André Filipe_Tavares Gomes,2021,2021_158_Everton
+André-Frank,Zambo Anguissa,MID,Fulham,191,André-Frank_Zambo Anguissa,2021,2021_191_Fulham
+Andy,Carroll,FWD,Newcastle,320,Andy_Carroll,2021,2021_320_Newcastle
+Angelo,Ogbonna,DEF,West Ham,432,Angelo_Ogbonna,2021,2021_432_West Ham
+Angus,Gunn,GKP,Southampton,371,Angus_Gunn,2021,2021_371_Southampton
+Anthony,Gordon,MID,Everton,168,Anthony_Gordon,2021,2021_168_Everton
+Anthony,Knockaert,MID,Fulham,177,Anthony_Knockaert,2021,2021_177_Fulham
+Antonee,Robinson,DEF,Fulham,484,Antonee_Robinson,2021,2021_484_Fulham
+Antonio,Rüdiger,DEF,Chelsea,109,Antonio_Rüdiger,2021,2021_109_Chelsea
+Arthur,Masuaku,DEF,West Ham,442,Arthur_Masuaku,2021,2021_442_West Ham
+Ayoze,Pérez,MID,Leicester,229,Ayoze_Pérez,2021,2021_229_Leicester
+Bamidele,Alli,MID,Spurs,394,Bamidele_Alli,2021,2021_394_Spurs
+Barry,Douglas,DEF,Leeds,196,Barry_Douglas,2021,2021_196_Leeds
+Benjamin,Chilwell,DEF,Chelsea,232,Benjamin_Chilwell,2021,2021_232_Chelsea
+Ben,Davies,DEF,Spurs,395,Ben_Davies,2021,2021_395_Spurs
+Ben,Johnson,DEF,West Ham,452,Ben_Johnson,2021,2021_452_West Ham
+Ben,Osborn,MID,Sheffield Utd,356,Ben_Osborn,2021,2021_356_Sheffield Utd
+Ben,White,DEF,Brighton,74,Ben_White,2021,2021_74_Brighton
+Bernardo,Fernandes da Silva Junior,DEF,Brighton,75,Bernardo_Fernandes da Silva Junior,2021,2021_75_Brighton
+Bernard,Anício Caldeira Duarte,MID,Everton,154,Bernard_Anício Caldeira Duarte,2021,2021_154_Everton
+Bernd,Leno,GKP,Arsenal,8,Bernd_Leno,2021,2021_8_Arsenal
+Billy,Gilmour,MID,Chelsea,124,Billy_Gilmour,2021,2021_124_Chelsea
+Billy,Sharp,FWD,Sheffield Utd,343,Billy_Sharp,2021,2021_343_Sheffield Utd
+Bobby,Decordova-Reid,FWD,Fulham,181,Bobby_Decordova-Reid,2021,2021_181_Fulham
+Brandon,Pierrick,MID,Crystal Palace,147,Brandon_Pierrick,2021,2021_147_Crystal Palace
+Bruno André,Cavaco Jordao,MID,Wolves,475,Bruno André_Cavaco Jordao,2021,2021_475_Wolves
+Bukayo,Saka,MID,Arsenal,24,Bukayo_Saka,2021,2021_24_Arsenal
+Callum,Hudson-Odoi,MID,Chelsea,122,Callum_Hudson-Odoi,2021,2021_122_Chelsea
+Callum,Robinson,FWD,West Brom,358,Callum_Robinson,2021,2021_358_West Brom
+Callum,Wilson,FWD,Newcastle,506,Callum_Wilson,2021,2021_506_Newcastle
+Calum,Chambers,DEF,Arsenal,13,Calum_Chambers,2021,2021_13_Arsenal
+Cameron,Carter-Vickers,DEF,Spurs,521,Cameron_Carter-Vickers,2021,2021_521_Spurs
+Cedric,Kipre,DEF,West Brom,499,Cedric_Kipre,2021,2021_499_West Brom
+Cenk,Tosun,FWD,Everton,153,Cenk_Tosun,2021,2021_153_Everton
+Charlie,Austin,FWD,West Brom,415,Charlie_Austin,2021,2021_415_West Brom
+Cheikhou,Kouyaté,MID,Crystal Palace,133,Cheikhou_Kouyaté,2021,2021_133_Crystal Palace
+Che,Adams,FWD,Southampton,377,Che_Adams,2021,2021_377_Southampton
+Christian,Atsu,MID,Newcastle,330,Christian_Atsu,2021,2021_330_Newcastle
+Christian,Benteke,FWD,Crystal Palace,132,Christian_Benteke,2021,2021_132_Crystal Palace
+Christian,Fuchs,DEF,Leicester,218,Christian_Fuchs,2021,2021_218_Leicester
+Christian,Pulisic,MID,Chelsea,119,Christian_Pulisic,2021,2021_119_Chelsea
+Christian,Walton,GKP,Brighton,503,Christian_Walton,2021,2021_503_Brighton
+Chris,Basham,DEF,Sheffield Utd,345,Chris_Basham,2021,2021_345_Sheffield Utd
+Ciaran,Clark,DEF,Newcastle,324,Ciaran_Clark,2021,2021_324_Newcastle
+Connor,Wickham,FWD,Crystal Palace,136,Connor_Wickham,2021,2021_136_Crystal Palace
+Conor,Coady,DEF,Wolves,459,Conor_Coady,2021,2021_459_Wolves
+Conor,Townsend,DEF,West Brom,418,Conor_Townsend,2021,2021_418_West Brom
+Curtis,Jones,MID,Liverpool,263,Curtis_Jones,2021,2021_263_Liverpool
+Cyrus,Christie,DEF,Fulham,179,Cyrus_Christie,2021,2021_179_Fulham
+Cédric,Soares,DEF,Arsenal,5,Cédric_Soares,2021,2021_5_Arsenal
+César,Azpilicueta,DEF,Chelsea,102,César_Azpilicueta,2021,2021_102_Chelsea
+Dale,Stephens,MID,,55,Dale_Stephens,2021,2021_55_nan
+Dale,Stephens,MID,Burnley,55,Dale_Stephens,2021,2021_55_Burnley
+Daniel,Amartey,DEF,Leicester,227,Daniel_Amartey,2021,2021_227_Leicester
+Daniel,Castelo Podence,MID,Wolves,469,Daniel_Castelo Podence,2021,2021_469_Wolves
+Daniel,Ceballos Fernández,MID,Arsenal,501,Daniel_Ceballos Fernández,2021,2021_501_Arsenal
+Danny,Ings,FWD,Southampton,366,Danny_Ings,2021,2021_366_Southampton
+Danny,Rose,DEF,Spurs,384,Danny_Rose,2021,2021_384_Spurs
+Danny,Ward,GKP,Leicester,223,Danny_Ward,2021,2021_223_Leicester
+Dan,Burn,DEF,Brighton,61,Dan_Burn,2021,2021_61_Brighton
+Dara,O'Shea,DEF,West Brom,425,Dara_O'Shea,2021,2021_425_West Brom
+Darnell,Furlong,DEF,West Brom,422,Darnell_Furlong,2021,2021_422_West Brom
+Darren,Randolph,GKP,West Ham,430,Darren_Randolph,2021,2021_430_West Ham
+David,Button,GKP,West Brom,56,David_Button,2021,2021_56_West Brom
+David,Luiz Moreira Marinho,DEF,Arsenal,3,David_Luiz Moreira Marinho,2021,2021_3_Arsenal
+David,Martin,GKP,West Ham,429,David_Martin,2021,2021_429_West Ham
+David,McGoldrick,FWD,Sheffield Utd,344,David_McGoldrick,2021,2021_344_Sheffield Utd
+Davinson,Sánchez,DEF,Spurs,398,Davinson_Sánchez,2021,2021_398_Spurs
+Davy,Pröpper,MID,Brighton,59,Davy_Pröpper,2021,2021_59_Brighton
+DeAndre,Yedlin,DEF,Newcastle,335,DeAndre_Yedlin,2021,2021_335_Newcastle
+Declan,Rice,MID,West Ham,448,Declan_Rice,2021,2021_448_West Ham
+Demarai,Gray,MID,Leicester,230,Demarai_Gray,2021,2021_230_Leicester
+Denis,Odoi,DEF,Fulham,525,Denis_Odoi,2021,2021_525_Fulham
+Dennis,Praet,MID,Leicester,225,Dennis_Praet,2021,2021_225_Leicester
+Diogo,Jota,MID,Liverpool,468,Diogo_Jota,2021,2021_468_Liverpool
+Divock,Origi,FWD,Liverpool,256,Divock_Origi,2021,2021_256_Liverpool
+Dominic,Calvert-Lewin,FWD,Everton,164,Dominic_Calvert-Lewin,2021,2021_164_Everton
+Dwight,Gayle,FWD,Newcastle,329,Dwight_Gayle,2021,2021_329_Newcastle
+Eberechi,Eze,MID,Crystal Palace,489,Eberechi_Eze,2021,2021_489_Crystal Palace
+Edward,Nketiah,FWD,Arsenal,22,Edward_Nketiah,2021,2021_22_Arsenal
+Emerson,Palmieri dos Santos,DEF,Chelsea,111,Emerson_Palmieri dos Santos,2021,2021_111_Chelsea
+Emile,Smith Rowe,MID,Arsenal,23,Emile_Smith Rowe,2021,2021_23_Arsenal
+Emiliano,Martínez,GKP,,12,Emiliano_Martínez,2021,2021_12_nan
+Emiliano,Martínez,GKP,Aston Villa,12,Emiliano_Martínez,2021,2021_12_Aston Villa
+Emil,Krafth,DEF,Newcastle,333,Emil_Krafth,2021,2021_333_Newcastle
+Enda,Stevens,DEF,Sheffield Utd,347,Enda_Stevens,2021,2021_347_Sheffield Utd
+Eric,Dier,DEF,Spurs,391,Eric_Dier,2021,2021_391_Spurs
+Erik,Lamela,MID,Spurs,387,Erik_Lamela,2021,2021_387_Spurs
+Ethan,Ampadu,DEF,Sheffield Utd,509,Ethan_Ampadu,2021,2021_509_Sheffield Utd
+Ezgjan,Alioski,DEF,Leeds,201,Ezgjan_Alioski,2021,2021_201_Leeds
+Fabian,Delph,MID,Everton,149,Fabian_Delph,2021,2021_149_Everton
+Fabian,Schär,DEF,Newcastle,334,Fabian_Schär,2021,2021_334_Newcastle
+Fabio Henrique,Tavares,MID,Liverpool,253,Fabio Henrique_Tavares,2021,2021_253_Liverpool
+Fabio,Silva,FWD,Wolves,504,Fabio_Silva,2021,2021_504_Wolves
+Fabián,Balbuena,DEF,West Ham,443,Fabián_Balbuena,2021,2021_443_West Ham
+Fabricio,Agosto Ramírez,GKP,Fulham,171,Fabricio_Agosto Ramírez,2021,2021_171_Fulham
+Federico,Fernández,DEF,Newcastle,323,Federico_Fernández,2021,2021_323_Newcastle
+Felipe Anderson,Pereira Gomes,MID,West Ham,440,Felipe Anderson_Pereira Gomes,2021,2021_440_West Ham
+Fernando,Marçal,DEF,Wolves,505,Fernando_Marçal,2021,2021_505_Wolves
+Fikayo,Tomori,DEF,Chelsea,121,Fikayo_Tomori,2021,2021_121_Chelsea
+Filip,Benkovic,DEF,Leicester,237,Filip_Benkovic,2021,2021_237_Leicester
+Florian,Lejeune,DEF,Newcastle,327,Florian_Lejeune,2021,2021_327_Newcastle
+Florin,Andone,FWD,Brighton,64,Florin_Andone,2021,2021_64_Brighton
+Francisco,Casilla Cortés,GKP,Leeds,194,Francisco_Casilla Cortés,2021,2021_194_Leeds
+Fraser,Forster,GKP,Southampton,523,Fraser_Forster,2021,2021_523_Southampton
+Gabriel Teodoro,Martinelli Silva,MID,Arsenal,26,Gabriel Teodoro_Martinelli Silva,2021,2021_26_Arsenal
+Gabriel,Magalhães,DEF,Arsenal,494,Gabriel_Magalhães,2021,2021_494_Arsenal
+Gary,Cahill,DEF,Crystal Palace,125,Gary_Cahill,2021,2021_125_Crystal Palace
+Gedson,Carvalho Fernandes,MID,Spurs,401,Gedson_Carvalho Fernandes,2021,2021_401_Spurs
+George,Baldock,DEF,Sheffield Utd,351,George_Baldock,2021,2021_351_Sheffield Utd
+Georginio,Wijnaldum,MID,Liverpool,243,Georginio_Wijnaldum,2021,2021_243_Liverpool
+Giovani,Lo Celso,MID,Spurs,403,Giovani_Lo Celso,2021,2021_403_Spurs
+Glenn,Murray,FWD,Brighton,53,Glenn_Murray,2021,2021_53_Brighton
+Grady,Diangana,MID,West Brom,446,Grady_Diangana,2021,2021_446_West Brom
+Granit,Xhaka,MID,Arsenal,9,Granit_Xhaka,2021,2021_9_Arsenal
+Gylfi,Sigurdsson,MID,Everton,150,Gylfi_Sigurdsson,2021,2021_150_Everton
+Hakim,Ziyech,MID,Chelsea,114,Hakim_Ziyech,2021,2021_114_Chelsea
+Hal,Robson-Kanu,FWD,West Brom,408,Hal_Robson-Kanu,2021,2021_408_West Brom
+Hamza,Choudhury,MID,Leicester,234,Hamza_Choudhury,2021,2021_234_Leicester
+Harrison,Reed,MID,Fulham,373,Harrison_Reed,2021,2021_373_Fulham
+Harry,Kane,FWD,Spurs,388,Harry_Kane,2021,2021_388_Spurs
+Harry,Wilson,MID,Liverpool,257,Harry_Wilson,2021,2021_257_Liverpool
+Harry,Winks,MID,Spurs,397,Harry_Winks,2021,2021_397_Spurs
+Harvey,Barnes,MID,Leicester,235,Harvey_Barnes,2021,2021_235_Leicester
+Harvey,Elliott,MID,Liverpool,265,Harvey_Elliott,2021,2021_265_Liverpool
+Heung-Min,Son,MID,Spurs,390,Heung-Min_Son,2021,2021_390_Spurs
+Hugo,Lloris,GKP,Spurs,383,Hugo_Lloris,2021,2021_383_Spurs
+Héctor,Bellerín,DEF,Arsenal,11,Héctor_Bellerín,2021,2021_11_Arsenal
+Hélder Wander,Sousa de Azevedo e Costa,MID,Leeds,205,Hélder Wander_Sousa de Azevedo e Costa,2021,2021_205_Leeds
+Ian Carlo,Poveda-Ocampo,MID,Leeds,209,Ian Carlo_Poveda-Ocampo,2021,2021_209_Leeds
+Illan,Meslier,GKP,Leeds,213,Illan_Meslier,2021,2021_213_Leeds
+Isaac,Hayden,MID,Newcastle,336,Isaac_Hayden,2021,2021_336_Newcastle
+Issa,Diop,DEF,West Ham,451,Issa_Diop,2021,2021_451_West Ham
+Ivan Ricardo,Neves Abreu Cavaleiro,MID,Fulham,187,Ivan Ricardo_Neves Abreu Cavaleiro,2021,2021_187_Fulham
+Jack,Harrison,MID,Leeds,203,Jack_Harrison,2021,2021_203_Leeds
+Jack,O'Connell,DEF,Sheffield Utd,354,Jack_O'Connell,2021,2021_354_Sheffield Utd
+Jack,Robinson,DEF,Sheffield Utd,352,Jack_Robinson,2021,2021_352_Sheffield Utd
+Jack,Stephens,DEF,Southampton,367,Jack_Stephens,2021,2021_367_Southampton
+Jack,Wilshere,MID,West Ham,434,Jack_Wilshere,2021,2021_434_West Ham
+Jacob,Murphy,MID,Newcastle,497,Jacob_Murphy,2021,2021_497_Newcastle
+Jairo,Riedewald,MID,Crystal Palace,144,Jairo_Riedewald,2021,2021_144_Crystal Palace
+Jake,Livermore,MID,West Brom,409,Jake_Livermore,2021,2021_409_West Brom
+Jake,Vokins,DEF,Southampton,380,Jake_Vokins,2021,2021_380_Southampton
+Jamaal,Lascelles,DEF,Newcastle,328,Jamaal_Lascelles,2021,2021_328_Newcastle
+Jamal,Lewis,DEF,Newcastle,513,Jamal_Lewis,2021,2021_513_Newcastle
+James,Justin,DEF,Leicester,239,James_Justin,2021,2021_239_Leicester
+James,Maddison,MID,Leicester,231,James_Maddison,2021,2021_231_Leicester
+James,McArthur,MID,Crystal Palace,130,James_McArthur,2021,2021_130_Crystal Palace
+James,McCarthy,MID,Crystal Palace,131,James_McCarthy,2021,2021_131_Crystal Palace
+James,Milner,MID,Liverpool,241,James_Milner,2021,2021_241_Liverpool
+James,Rodríguez,MID,Everton,508,James_Rodríguez,2021,2021_508_Everton
+James,Tomkins,DEF,Crystal Palace,129,James_Tomkins,2021,2021_129_Crystal Palace
+James,Ward-Prowse,MID,Southampton,370,James_Ward-Prowse,2021,2021_370_Southampton
+Jamie,Shackleton,MID,Leeds,210,Jamie_Shackleton,2021,2021_210_Leeds
+Jamie,Vardy,FWD,Leicester,224,Jamie_Vardy,2021,2021_224_Leicester
+Jannik,Vestergaard,DEF,Southampton,369,Jannik_Vestergaard,2021,2021_369_Southampton
+Jan,Bednarek,DEF,Southampton,376,Jan_Bednarek,2021,2021_376_Southampton
+Japhet,Tanganga,DEF,Spurs,402,Japhet_Tanganga,2021,2021_402_Spurs
+Jarrad,Branthwaite,DEF,Everton,170,Jarrad_Branthwaite,2021,2021_170_Everton
+Jarrod,Bowen,MID,West Ham,445,Jarrod_Bowen,2021,2021_445_West Ham
+Jason,Steele,GKP,Brighton,528,Jason_Steele,2021,2021_528_Brighton
+Javier,Manquillo,DEF,Newcastle,332,Javier_Manquillo,2021,2021_332_Newcastle
+Jay-Roy,Grot,MID,Leeds,207,Jay-Roy_Grot,2021,2021_207_Leeds
+Jayden,Bogle,DEF,Sheffield Utd,510,Jayden_Bogle,2021,2021_510_Sheffield Utd
+Jean Michaël,Seri,MID,Fulham,189,Jean Michaël_Seri,2021,2021_189_Fulham
+Jean-Philippe,Gbamin,MID,Everton,161,Jean-Philippe_Gbamin,2021,2021_161_Everton
+Jeffrey,Schlupp,MID,Crystal Palace,142,Jeffrey_Schlupp,2021,2021_142_Crystal Palace
+Jeff,Hendrick,MID,Newcastle,485,Jeff_Hendrick,2021,2021_485_Newcastle
+Joelinton Cássio,Apolinário de Lira,FWD,Newcastle,340,Joelinton Cássio_Apolinário de Lira,2021,2021_340_Newcastle
+Joel,Matip,DEF,Liverpool,246,Joel_Matip,2021,2021_246_Liverpool
+Joel,Ward,DEF,Crystal Palace,134,Joel_Ward,2021,2021_134_Crystal Palace
+Joe,Bryan,DEF,Fulham,182,Joe_Bryan,2021,2021_182_Fulham
+Joe,Hart,GKP,Spurs,482,Joe_Hart,2021,2021_482_Spurs
+John,Egan,DEF,Sheffield Utd,353,John_Egan,2021,2021_353_Sheffield Utd
+John,Fleck,MID,Sheffield Utd,346,John_Fleck,2021,2021_346_Sheffield Utd
+John,Lundstram,MID,Sheffield Utd,355,John_Lundstram,2021,2021_355_Sheffield Utd
+John,Ruddy,GKP,Wolves,453,John_Ruddy,2021,2021_453_Wolves
+Jonas,Lössl,GKP,Everton,151,Jonas_Lössl,2021,2021_151_Everton
+Jonathan,Castro Otto,DEF,Wolves,462,Jonathan_Castro Otto,2021,2021_462_Wolves
+Jonathan,Leko,MID,West Brom,420,Jonathan_Leko,2021,2021_420_West Brom
+Jonjoe,Kenny,DEF,Everton,160,Jonjoe_Kenny,2021,2021_160_Everton
+Jonjo,Shelvey,MID,Newcastle,321,Jonjo_Shelvey,2021,2021_321_Newcastle
+Jonny,Evans,DEF,Leicester,219,Jonny_Evans,2021,2021_219_Leicester
+Jordan,Ayew,FWD,Crystal Palace,140,Jordan_Ayew,2021,2021_140_Crystal Palace
+Jordan,Henderson,MID,Liverpool,244,Jordan_Henderson,2021,2021_244_Liverpool
+Jordan,Hugill,FWD,West Ham,444,Jordan_Hugill,2021,2021_444_West Ham
+Jordan,Pickford,GKP,Everton,157,Jordan_Pickford,2021,2021_157_Everton
+Jordan,Stevens,MID,Leeds,212,Jordan_Stevens,2021,2021_212_Leeds
+Jorge Luiz,Frello Filho,MID,Chelsea,105,Jorge Luiz_Frello Filho,2021,2021_105_Chelsea
+Joseph,Gomez,DEF,Liverpool,260,Joseph_Gomez,2021,2021_260_Liverpool
+Joseph,Willock,MID,Newcastle,20,Joseph_Willock,2021,2021_20_Newcastle
+Joseph,Willock,MID,,20,Joseph_Willock,2021,2021_20_nan
+Josh,Onomah,MID,Fulham,188,Josh_Onomah,2021,2021_188_Fulham
+Josh,Sims,MID,Southampton,374,Josh_Sims,2021,2021_374_Southampton
+José,Izquierdo,MID,Brighton,72,José_Izquierdo,2021,2021_72_Brighton
+João Filipe Iria,Santos Moutinho,MID,Wolves,454,João Filipe Iria_Santos Moutinho,2021,2021_454_Wolves
+João,Virgínia,GKP,Everton,167,João_Virgínia,2021,2021_167_Everton
+Joël,Veltman,DEF,Brighton,67,Joël_Veltman,2021,2021_67_Brighton
+Juan,Foyth,DEF,Spurs,406,Juan_Foyth,2021,2021_406_Spurs
+Kai,Havertz,MID,Chelsea,500,Kai_Havertz,2021,2021_500_Chelsea
+Kalvin,Phillips,MID,Leeds,204,Kalvin_Phillips,2021,2021_204_Leeds
+Kamil,Grosicki,MID,West Brom,410,Kamil_Grosicki,2021,2021_410_West Brom
+Kamil,Miazek,GKP,Leeds,208,Kamil_Miazek,2021,2021_208_Leeds
+Karl,Darlow,GKP,Newcastle,325,Karl_Darlow,2021,2021_325_Newcastle
+Kasper,Schmeichel,GKP,Leicester,217,Kasper_Schmeichel,2021,2021_217_Leicester
+Kelechi,Iheanacho,FWD,Leicester,233,Kelechi_Iheanacho,2021,2021_233_Leicester
+Kelland,Watts,DEF,Newcastle,342,Kelland_Watts,2021,2021_342_Newcastle
+Kenneth,Zohore,FWD,West Brom,416,Kenneth_Zohore,2021,2021_416_West Brom
+Kenny,Tete,DEF,Fulham,517,Kenny_Tete,2021,2021_517_Fulham
+Kepa,Arrizabalaga,GKP,Chelsea,112,Kepa_Arrizabalaga,2021,2021_112_Chelsea
+Kevin,McDonald,MID,Fulham,172,Kevin_McDonald,2021,2021_172_Fulham
+Kieran,Gibbs,DEF,West Brom,407,Kieran_Gibbs,2021,2021_407_West Brom
+Kieran,Tierney,DEF,Arsenal,17,Kieran_Tierney,2021,2021_17_Arsenal
+Konstantinos,Tsimikas,DEF,Liverpool,242,Konstantinos_Tsimikas,2021,2021_242_Liverpool
+Kurt,Zouma,DEF,Chelsea,110,Kurt_Zouma,2021,2021_110_Chelsea
+Kyle,Bartley,DEF,West Brom,412,Kyle_Bartley,2021,2021_412_West Brom
+Kyle,Edwards,MID,West Brom,421,Kyle_Edwards,2021,2021_421_West Brom
+Kyle,Walker-Peters,DEF,Southampton,375,Kyle_Walker-Peters,2021,2021_375_Southampton
+Leander,Dendoncker,MID,Wolves,464,Leander_Dendoncker,2021,2021_464_Wolves
+Leandro,Trossard,MID,Brighton,69,Leandro_Trossard,2021,2021_69_Brighton
+Leif,Davis,DEF,Leeds,214,Leif_Davis,2021,2021_214_Leeds
+Leonardo,Campana,FWD,Wolves,476,Leonardo_Campana,2021,2021_476_Wolves
+Lewis,Dunk,DEF,Brighton,62,Lewis_Dunk,2021,2021_62_Brighton
+Liam,Cooper,DEF,Leeds,195,Liam_Cooper,2021,2021_195_Leeds
+Lucas,Digne,DEF,Everton,155,Lucas_Digne,2021,2021_155_Everton
+Lucas,Rodrigues Moura da Silva,MID,Spurs,392,Lucas_Rodrigues Moura da Silva,2021,2021_392_Spurs
+Lucas,Torreira,MID,Arsenal,19,Lucas_Torreira,2021,2021_19_Arsenal
+Lukasz,Fabianski,GKP,West Ham,431,Lukasz_Fabianski,2021,2021_431_West Ham
+Luka,Milivojevic,MID,Crystal Palace,138,Luka_Milivojevic,2021,2021_138_Crystal Palace
+Luke,Ayling,DEF,Leeds,197,Luke_Ayling,2021,2021_197_Leeds
+Luke,Freeman,MID,Sheffield Utd,477,Luke_Freeman,2021,2021_477_Sheffield Utd
+Luke,Thomas,DEF,Leicester,240,Luke_Thomas,2021,2021_240_Leicester
+Lys,Mousset,FWD,Sheffield Utd,359,Lys_Mousset,2021,2021_359_Sheffield Utd
+Léo,Bonatini,FWD,Wolves,463,Léo_Bonatini,2021,2021_463_Wolves
+Mamadou,Sakho,DEF,Crystal Palace,127,Mamadou_Sakho,2021,2021_127_Crystal Palace
+Manuel,Lanzini,MID,West Ham,439,Manuel_Lanzini,2021,2021_439_West Ham
+Marcos,Alonso,DEF,Chelsea,104,Marcos_Alonso,2021,2021_104_Chelsea
+Marcus,Bettinelli,GKP,Fulham,183,Marcus_Bettinelli,2021,2021_183_Fulham
+Marc,Albrighton,MID,Leicester,221,Marc_Albrighton,2021,2021_221_Leicester
+Marek,Rodák,GKP,Fulham,186,Marek_Rodák,2021,2021_186_Fulham
+Mario,Lemina,MID,Fulham,493,Mario_Lemina,2021,2021_493_Fulham
+Mark,Gillespie,GKP,Newcastle,488,Mark_Gillespie,2021,2021_488_Newcastle
+Mark,Noble,MID,West Ham,427,Mark_Noble,2021,2021_427_West Ham
+Martin,Dubravka,GKP,Newcastle,326,Martin_Dubravka,2021,2021_326_Newcastle
+Martin,Kelly,DEF,Crystal Palace,135,Martin_Kelly,2021,2021_135_Crystal Palace
+Martín,Montoya,DEF,Brighton,63,Martín_Montoya,2021,2021_63_Brighton
+Mason,Holgate,DEF,Everton,165,Mason_Holgate,2021,2021_165_Everton
+Mason,Mount,MID,Chelsea,120,Mason_Mount,2021,2021_120_Chelsea
+Mateo,Kovacic,MID,Chelsea,107,Mateo_Kovacic,2021,2021_107_Chelsea
+Mateusz,Klich,MID,Leeds,198,Mateusz_Klich,2021,2021_198_Leeds
+Matheus,Pereira,MID,West Brom,481,Matheus_Pereira,2021,2021_481_West Brom
+Mathew,Ryan,GKP,Arsenal,70,Mathew_Ryan,2021,2021_70_Arsenal
+Matija,Sarkic,GKP,Wolves,472,Matija_Sarkic,2021,2021_472_Wolves
+Matteo,Guendouzi,MID,Arsenal,25,Matteo_Guendouzi,2021,2021_25_Arsenal
+Matthew,Clarke,DEF,Brighton,73,Matthew_Clarke,2021,2021_73_Brighton
+Matthew,Longstaff,MID,Newcastle,487,Matthew_Longstaff,2021,2021_487_Newcastle
+Matty,James,MID,Leicester,222,Matty_James,2021,2021_222_Leicester
+Matt,Doherty,DEF,Spurs,457,Matt_Doherty,2021,2021_457_Spurs
+Matt,Macey,GKP,Arsenal,527,Matt_Macey,2021,2021_527_Arsenal
+Matt,Phillips,MID,West Brom,411,Matt_Phillips,2021,2021_411_West Brom
+Matt,Ritchie,MID,Newcastle,322,Matt_Ritchie,2021,2021_322_Newcastle
+Maxime,Le Marchand,DEF,Fulham,173,Maxime_Le Marchand,2021,2021_173_Fulham
+Max,Kilman,DEF,Wolves,470,Max_Kilman,2021,2021_470_Wolves
+Max,Lowe,DEF,Sheffield Utd,511,Max_Lowe,2021,2021_511_Sheffield Utd
+Max,Meyer,MID,Crystal Palace,143,Max_Meyer,2021,2021_143_Crystal Palace
+Mesut,Özil,MID,Arsenal,1,Mesut_Özil,2021,2021_1_Arsenal
+Michael,Hector,DEF,Fulham,178,Michael_Hector,2021,2021_178_Fulham
+Michael,Keane,DEF,Everton,156,Michael_Keane,2021,2021_156_Everton
+Michael,Obafemi,FWD,Southampton,381,Michael_Obafemi,2021,2021_381_Southampton
+Michail,Antonio,FWD,West Ham,437,Michail_Antonio,2021,2021_437_West Ham
+Michy,Batshuayi,FWD,Crystal Palace,108,Michy_Batshuayi,2021,2021_108_Crystal Palace
+Miguel,Almirón,MID,Newcastle,339,Miguel_Almirón,2021,2021_339_Newcastle
+Mohamed Naser,El Sayed Elneny,MID,Arsenal,526,Mohamed Naser_El Sayed Elneny,2021,2021_526_Arsenal
+Mohamed,Salah,MID,Liverpool,254,Mohamed_Salah,2021,2021_254_Liverpool
+Mohammed,Salisu,DEF,Southampton,479,Mohammed_Salisu,2021,2021_479_Southampton
+Moise,Kean,FWD,Everton,169,Moise_Kean,2021,2021_169_Everton
+Morgan,Gibbs-White,MID,Wolves,473,Morgan_Gibbs-White,2021,2021_473_Wolves
+Moussa,Djenepo,MID,Southampton,382,Moussa_Djenepo,2021,2021_382_Southampton
+Moussa,Sissoko,MID,Spurs,385,Moussa_Sissoko,2021,2021_385_Spurs
+N'Golo,Kanté,MID,Chelsea,113,N'Golo_Kanté,2021,2021_113_Chelsea
+Naby,Keita,MID,Liverpool,261,Naby_Keita,2021,2021_261_Liverpool
+Nampalys,Mendy,MID,Leicester,518,Nampalys_Mendy,2021,2021_518_Leicester
+Nathan,Ferguson,DEF,Crystal Palace,145,Nathan_Ferguson,2021,2021_145_Crystal Palace
+Nathan,Redmond,MID,Southampton,365,Nathan_Redmond,2021,2021_365_Southampton
+Nathan,Tella,MID,Southampton,524,Nathan_Tella,2021,2021_524_Southampton
+Neal,Maupay,FWD,Brighton,68,Neal_Maupay,2021,2021_68_Brighton
+Neco,Williams,DEF,Liverpool,264,Neco_Williams,2021,2021_264_Liverpool
+Neeskens,Kebano,MID,Fulham,180,Neeskens_Kebano,2021,2021_180_Fulham
+Nicolas,Pépé,MID,Arsenal,18,Nicolas_Pépé,2021,2021_18_Arsenal
+Oliver,Burke,MID,Sheffield Utd,424,Oliver_Burke,2021,2021_424_Sheffield Utd
+Oliver,Casey,DEF,Leeds,215,Oliver_Casey,2021,2021_215_Leeds
+Oliver,McBurnie,FWD,Sheffield Utd,357,Oliver_McBurnie,2021,2021_357_Sheffield Utd
+Oliver,Norwood,MID,Sheffield Utd,349,Oliver_Norwood,2021,2021_349_Sheffield Utd
+Oliver,Skipp,MID,Spurs,404,Oliver_Skipp,2021,2021_404_Spurs
+Olivier,Giroud,FWD,Chelsea,103,Olivier_Giroud,2021,2021_103_Chelsea
+Oluwasemilogo Adesewo Ibidapo,Ajayi,DEF,West Brom,419,Oluwasemilogo Adesewo Ibidapo_Ajayi,2021,2021_419_West Brom
+Oriol,Romeu Vidal,MID,Southampton,364,Oriol_Romeu Vidal,2021,2021_364_Southampton
+Oskar,Buur,DEF,Wolves,467,Oskar_Buur,2021,2021_467_Wolves
+Pablo,Fornals,MID,West Ham,450,Pablo_Fornals,2021,2021_450_West Ham
+Pablo,Hernández Domínguez,MID,Leeds,193,Pablo_Hernández Domínguez,2021,2021_193_Leeds
+Pablo,Marí,DEF,Arsenal,10,Pablo_Marí,2021,2021_10_Arsenal
+Pascal,Groß,MID,Brighton,57,Pascal_Groß,2021,2021_57_Brighton
+Pascal,Struijk,DEF,Leeds,211,Pascal_Struijk,2021,2021_211_Leeds
+Patrick,Bamford,FWD,Leeds,202,Patrick_Bamford,2021,2021_202_Leeds
+Patrick,van Aanholt,DEF,Crystal Palace,139,Patrick_van Aanholt,2021,2021_139_Crystal Palace
+Paulo,Gazzaniga,GKP,Spurs,393,Paulo_Gazzaniga,2021,2021_393_Spurs
+Paul,Dummett,DEF,Newcastle,331,Paul_Dummett,2021,2021_331_Newcastle
+Pedro,Lomba Neto,MID,Wolves,474,Pedro_Lomba Neto,2021,2021_474_Wolves
+Phil,Jagielka,DEF,Sheffield Utd,529,Phil_Jagielka,2021,2021_529_Sheffield Utd
+Pierre-Emerick,Aubameyang,MID,Arsenal,4,Pierre-Emerick_Aubameyang,2021,2021_4_Arsenal
+Pierre-Emile,Højbjerg,MID,Spurs,396,Pierre-Emile_Højbjerg,2021,2021_396_Spurs
+Raúl,Jiménez,FWD,Wolves,460,Raúl_Jiménez,2021,2021_460_Wolves
+Reece,James,DEF,Chelsea,123,Reece_James,2021,2021_123_Chelsea
+Reiss,Nelson,MID,Arsenal,21,Reiss_Nelson,2021,2021_21_Arsenal
+Rekeem,Harper,MID,West Brom,426,Rekeem_Harper,2021,2021_426_West Brom
+Rhian,Brewster,FWD,Sheffield Utd,262,Rhian_Brewster,2021,2021_262_Sheffield Utd
+Ricardo Domingos,Barbosa Pereira,DEF,Leicester,226,Ricardo Domingos_Barbosa Pereira,2021,2021_226_Leicester
+Richarlison,de Andrade,FWD,Everton,166,Richarlison_de Andrade,2021,2021_166_Everton
+Roberto,Firmino,FWD,Liverpool,249,Roberto_Firmino,2021,2021_249_Liverpool
+Roberto,Jimenez Gago,GKP,West Ham,433,Roberto_Jimenez Gago,2021,2021_433_West Ham
+Robert,Snodgrass,MID,West Brom,428,Robert_Snodgrass,2021,2021_428_West Brom
+Robin,Koch,DEF,Leeds,491,Robin_Koch,2021,2021_491_Leeds
+Rob,Holding,DEF,Arsenal,16,Rob_Holding,2021,2021_16_Arsenal
+Rodrigo,Moreno,FWD,Leeds,492,Rodrigo_Moreno,2021,2021_492_Leeds
+Rolando,Aarons,MID,Newcastle,337,Rolando_Aarons,2021,2021_337_Newcastle
+Romaine,Sawyers,MID,West Brom,413,Romaine_Sawyers,2021,2021_413_West Brom
+Romain,Saïss,DEF,Wolves,461,Romain_Saïss,2021,2021_461_Wolves
+Ross,Barkley,MID,,106,Ross_Barkley,2021,2021_106_nan
+Ross,Barkley,MID,Aston Villa,106,Ross_Barkley,2021,2021_106_Aston Villa
+Ruben,Loftus-Cheek,MID,Fulham,115,Ruben_Loftus-Cheek,2021,2021_115_Fulham
+Rui Pedro,dos Santos Patrício,GKP,Wolves,455,Rui Pedro_dos Santos Patrício,2021,2021_455_Wolves
+Ryan,Bennett,DEF,Wolves,456,Ryan_Bennett,2021,2021_456_Wolves
+Ryan,Bertrand,DEF,Southampton,362,Ryan_Bertrand,2021,2021_362_Southampton
+Ryan,Fraser,MID,Newcastle,507,Ryan_Fraser,2021,2021_507_Newcastle
+Ryan,Fredericks,DEF,West Ham,438,Ryan_Fredericks,2021,2021_438_West Ham
+Ryan,Sessegnon,DEF,Spurs,399,Ryan_Sessegnon,2021,2021_399_Spurs
+Rúben Diogo,da Silva Neves,MID,Wolves,466,Rúben Diogo_da Silva Neves,2021,2021_466_Wolves
+Rúben Gonçalo,Silva Nascimento Vinagre,DEF,Wolves,471,Rúben Gonçalo_Silva Nascimento Vinagre,2021,2021_471_Wolves
+Sadio,Mané,MID,Liverpool,251,Sadio_Mané,2021,2021_251_Liverpool
+Sam,Field,MID,West Brom,423,Sam_Field,2021,2021_423_West Brom
+Sam,Johnstone,GKP,West Brom,417,Sam_Johnstone,2021,2021_417_West Brom
+Sam,Woods,DEF,Crystal Palace,522,Sam_Woods,2021,2021_522_Crystal Palace
+Sander,Berge,MID,Sheffield Utd,360,Sander_Berge,2021,2021_360_Sheffield Utd
+Scott,Dann,DEF,Crystal Palace,486,Scott_Dann,2021,2021_486_Crystal Palace
+Sead,Kolasinac,DEF,Arsenal,14,Sead_Kolasinac,2021,2021_14_Arsenal
+Seamus,Coleman,DEF,Everton,152,Seamus_Coleman,2021,2021_152_Everton
+Sean,Longstaff,MID,Newcastle,480,Sean_Longstaff,2021,2021_480_Newcastle
+Serge,Aurier,DEF,Spurs,389,Serge_Aurier,2021,2021_389_Spurs
+Shane,Duffy,DEF,Brighton,58,Shane_Duffy,2021,2021_58_Brighton
+Shane,Long,FWD,Southampton,361,Shane_Long,2021,2021_361_Southampton
+Shkodran,Mustafi,DEF,Arsenal,7,Shkodran_Mustafi,2021,2021_7_Arsenal
+Simon,Moore,GKP,Sheffield Utd,348,Simon_Moore,2021,2021_348_Sheffield Utd
+Sofiane,Boufal,MID,Southampton,372,Sofiane_Boufal,2021,2021_372_Southampton
+Sokratis,Papastathopoulos,DEF,Arsenal,2,Sokratis_Papastathopoulos,2021,2021_2_Arsenal
+Solomon,March,MID,Brighton,65,Solomon_March,2021,2021_65_Brighton
+Stefan,Johansen,MID,Fulham,174,Stefan_Johansen,2021,2021_174_Fulham
+Steven,Alzate,MID,Brighton,79,Steven_Alzate,2021,2021_79_Brighton
+Steven,Bergwijn,MID,Spurs,400,Steven_Bergwijn,2021,2021_400_Spurs
+Stuart,Armstrong,MID,Southampton,368,Stuart_Armstrong,2021,2021_368_Southampton
+Stuart,Dallas,DEF,Leeds,200,Stuart_Dallas,2021,2021_200_Leeds
+Sébastien,Haller,FWD,West Ham,441,Sébastien_Haller,2021,2021_441_West Ham
+Takumi,Minamino,MID,Southampton,258,Takumi_Minamino,2021,2021_258_Southampton
+Tammy,Abraham,FWD,Chelsea,118,Tammy_Abraham,2021,2021_118_Chelsea
+Tanguy,Ndombele,MID,Spurs,405,Tanguy_Ndombele,2021,2021_405_Spurs
+Tariq,Lamptey,DEF,Brighton,77,Tariq_Lamptey,2021,2021_77_Brighton
+Theo,Walcott,MID,Southampton,148,Theo_Walcott,2021,2021_148_Southampton
+Thiago,Thiago,DEF,Chelsea,490,Thiago_Thiago,2021,2021_490_Chelsea
+Timothy,Castagne,DEF,Leicester,498,Timothy_Castagne,2021,2021_498_Leicester
+Timo,Werner,FWD,Chelsea,117,Timo_Werner,2021,2021_117_Chelsea
+Tim,Ream,DEF,Fulham,176,Tim_Ream,2021,2021_176_Fulham
+Toby,Alderweireld,DEF,Spurs,386,Toby_Alderweireld,2021,2021_386_Spurs
+Tomas,Soucek,MID,West Ham,449,Tomas_Soucek,2021,2021_449_West Ham
+Tom,Cairney,MID,Fulham,175,Tom_Cairney,2021,2021_175_Fulham
+Tom,Davies,MID,Everton,163,Tom_Davies,2021,2021_163_Everton
+Trent,Alexander-Arnold,DEF,Liverpool,259,Trent_Alexander-Arnold,2021,2021_259_Liverpool
+Tyler,Roberts,MID,Leeds,206,Tyler_Roberts,2021,2021_206_Leeds
+Tyrick,Mitchell,DEF,Crystal Palace,146,Tyrick_Mitchell,2021,2021_146_Crystal Palace
+Vicente,Guaita,GKP,Crystal Palace,128,Vicente_Guaita,2021,2021_128_Crystal Palace
+Virgil,van Dijk,DEF,Liverpool,250,Virgil_van Dijk,2021,2021_250_Liverpool
+Vitor,Ferreira,MID,Wolves,515,Vitor_Ferreira,2021,2021_515_Wolves
+Wayne,Hennessey,GKP,Crystal Palace,126,Wayne_Hennessey,2021,2021_126_Crystal Palace
+Wes,Foderingham,GKP,Sheffield Utd,350,Wes_Foderingham,2021,2021_350_Sheffield Utd
+Wes,Morgan,DEF,Leicester,216,Wes_Morgan,2021,2021_216_Leicester
+Wilfred,Ndidi,MID,Leicester,236,Wilfred_Ndidi,2021,2021_236_Leicester
+Wilfried,Zaha,MID,Crystal Palace,141,Wilfried_Zaha,2021,2021_141_Crystal Palace
+William,Saliba,DEF,Arsenal,27,William_Saliba,2021,2021_27_Arsenal
+William,Smallbone,MID,Southampton,379,William_Smallbone,2021,2021_379_Southampton
+Willian,Borges Da Silva,MID,Arsenal,478,Willian_Borges Da Silva,2021,2021_478_Arsenal
+Willy,Boly,DEF,Wolves,458,Willy_Boly,2021,2021_458_Wolves
+Willy,Caballero,GKP,Chelsea,101,Willy_Caballero,2021,2021_101_Chelsea
+Xherdan,Shaqiri,MID,Liverpool,247,Xherdan_Shaqiri,2021,2021_247_Liverpool
+Yan,Valery,DEF,Southampton,378,Yan_Valery,2021,2021_378_Southampton
+Yerry,Mina,DEF,Everton,162,Yerry_Mina,2021,2021_162_Everton
+Yoshinori,Muto,FWD,Newcastle,341,Yoshinori_Muto,2021,2021_341_Newcastle
+Youri,Tielemans,MID,Leicester,228,Youri_Tielemans,2021,2021_228_Leicester
+Yves,Bissouma,MID,Brighton,76,Yves_Bissouma,2021,2021_76_Brighton
+Zeze Steven,Sessegnon,DEF,Fulham,192,Zeze Steven_Sessegnon,2021,2021_192_Fulham
+Çaglar,Söyüncü,DEF,Leicester,238,Çaglar_Söyüncü,2021,2021_238_Leicester
+Aaron,Wan-Bissaka,DEF,Man Utd,313,Aaron_Wan-Bissaka,2021,2021_313_Man Utd
+Adrián,Bernabé,MID,Man City,537,Adrián_Bernabé,2021,2021_537_Man City
+Ahmed,El Mohamady,DEF,Aston Villa,29,Ahmed_El Mohamady,2021,2021_29_Aston Villa
+Andreas,Pereira,MID,Man Utd,304,Andreas_Pereira,2021,2021_304_Man Utd
+Anthony,Driscoll-Glennon,DEF,Burnley,536,Anthony_Driscoll-Glennon,2021,2021_536_Burnley
+Anthony,Martial,FWD,Man Utd,303,Anthony_Martial,2021,2021_303_Man Utd
+Anwar,El Ghazi,MID,Aston Villa,45,Anwar_El Ghazi,2021,2021_45_Aston Villa
+Ashley,Barnes,FWD,Burnley,87,Ashley_Barnes,2021,2021_87_Burnley
+Ashley,Westwood,MID,Burnley,89,Ashley_Westwood,2021,2021_89_Burnley
+Axel,Tuanzebe,DEF,Man Utd,307,Axel_Tuanzebe,2021,2021_307_Man Utd
+Aymeric,Laporte,DEF,Man City,280,Aymeric_Laporte,2021,2021_280_Man City
+Bailey,Peacock-Farrell,GKP,Burnley,99,Bailey_Peacock-Farrell,2021,2021_99_Burnley
+Benjamin,Mendy,DEF,Man City,274,Benjamin_Mendy,2021,2021_274_Man City
+Ben,Gibson,DEF,Burnley,94,Ben_Gibson,2021,2021_94_Burnley
+Ben,Mee,DEF,Burnley,88,Ben_Mee,2021,2021_88_Burnley
+Bernardo Mota,Veiga de Carvalho e Silva,MID,Man City,281,Bernardo Mota_Veiga de Carvalho e Silva,2021,2021_281_Man City
+Bjorn,Engels,DEF,Aston Villa,36,Bjorn_Engels,2021,2021_36_Aston Villa
+Bobby,Thomas,DEF,Burnley,520,Bobby_Thomas,2021,2021_520_Burnley
+Brandon,Williams,DEF,Man Utd,318,Brandon_Williams,2021,2021_318_Man Utd
+Branislav,Ivanovic,DEF,West Brom,530,Branislav_Ivanovic,2021,2021_530_West Brom
+Bruno Miguel,Borges Fernandes,MID,Man Utd,302,Bruno Miguel_Borges Fernandes,2021,2021_302_Man Utd
+Charlie,Taylor,DEF,Burnley,97,Charlie_Taylor,2021,2021_97_Burnley
+Chris,Smalling,DEF,Man Utd,292,Chris_Smalling,2021,2021_292_Man Utd
+Chris,Wood,FWD,Burnley,91,Chris_Wood,2021,2021_91_Burnley
+Claudio,Bravo,GKP,Man City,267,Claudio_Bravo,2021,2021_267_Man City
+Conor,Hourihane,MID,Aston Villa,33,Conor_Hourihane,2021,2021_33_Aston Villa
+Daniel,James,MID,Man Utd,311,Daniel_James,2021,2021_311_Man Utd
+David,de Gea,GKP,Man Utd,291,David_de Gea,2021,2021_291_Man Utd
+Dean,Henderson,GKP,Man Utd,305,Dean_Henderson,2021,2021_305_Man Utd
+Donny,van de Beek,MID,Man Utd,495,Donny_van de Beek,2021,2021_495_Man Utd
+Douglas Luiz,Soares de Paulo,MID,Aston Villa,52,Douglas Luiz_Soares de Paulo,2021,2021_52_Aston Villa
+Dwight,McNeil,MID,Burnley,100,Dwight_McNeil,2021,2021_100_Burnley
+Ederson,Santana de Moraes,GKP,Man City,278,Ederson_Santana de Moraes,2021,2021_278_Man City
+Elia,Caprile,GKP,Leeds,532,Elia_Caprile,2021,2021_532_Leeds
+Eric,Bailly,DEF,Man Utd,310,Eric_Bailly,2021,2021_310_Man Utd
+Eric,Garcia,DEF,Man City,288,Eric_Garcia,2021,2021_288_Man City
+Erik,Pieters,DEF,Burnley,83,Erik_Pieters,2021,2021_83_Burnley
+Ezri,Konsa Ngoyo,DEF,Aston Villa,46,Ezri_Konsa Ngoyo,2021,2021_46_Aston Villa
+Fernando,Luiz Rosa,DEF,Man City,266,Fernando_Luiz Rosa,2021,2021_266_Man City
+Ferran,Torres,MID,Man City,287,Ferran_Torres,2021,2021_287_Man City
+Frederico,Rodrigues de Paula Santos,MID,Man Utd,299,Frederico_Rodrigues de Paula Santos,2021,2021_299_Man Utd
+Frédéric,Guilbert,DEF,Aston Villa,47,Frédéric_Guilbert,2021,2021_47_Aston Villa
+Gabriel Fernando,de Jesus,FWD,Man City,282,Gabriel Fernando_de Jesus,2021,2021_282_Man City
+Harry,Maguire,DEF,Man Utd,298,Harry_Maguire,2021,2021_298_Man Utd
+Henri,Lansbury,MID,Aston Villa,30,Henri_Lansbury,2021,2021_30_Aston Villa
+Ilkay,Gündogan,MID,Man City,271,Ilkay_Gündogan,2021,2021_271_Man City
+Indiana,Vassilev,FWD,Aston Villa,51,Indiana_Vassilev,2021,2021_51_Aston Villa
+Jack,Cork,MID,Burnley,84,Jack_Cork,2021,2021_84_Burnley
+Jack,Grealish,MID,Aston Villa,37,Jack_Grealish,2021,2021_37_Aston Villa
+James,Bree,DEF,Aston Villa,43,James_Bree,2021,2021_43_Aston Villa
+James,Garner,MID,Man Utd,317,James_Garner,2021,2021_317_Man Utd
+James,Tarkowski,DEF,Burnley,81,James_Tarkowski,2021,2021_81_Burnley
+Jay,Rodriguez,FWD,Burnley,86,Jay_Rodriguez,2021,2021_86_Burnley
+Jed,Steer,GKP,Aston Villa,32,Jed_Steer,2021,2021_32_Aston Villa
+Jesse,Lingard,MID,West Ham,301,Jesse_Lingard,2021,2021_301_West Ham
+Jesse,Lingard,MID,,301,Jesse_Lingard,2021,2021_301_nan
+Jimmy,Dunne,DEF,Burnley,519,Jimmy_Dunne,2021,2021_519_Burnley
+Johann Berg,Gudmundsson,MID,Burnley,90,Johann Berg_Gudmundsson,2021,2021_90_Burnley
+John,McGinn,MID,Aston Villa,38,John_McGinn,2021,2021_38_Aston Villa
+John,Stones,DEF,Man City,273,John_Stones,2021,2021_273_Man City
+Josh,Benson,MID,Burnley,535,Josh_Benson,2021,2021_535_Burnley
+Josh,Brownhill,MID,Burnley,98,Josh_Brownhill,2021,2021_98_Burnley
+José Diogo,Dalot Teixeira,DEF,Man Utd,314,José Diogo_Dalot Teixeira,2021,2021_314_Man Utd
+José Ignacio,Peleteiro Romallo,MID,Aston Villa,34,José Ignacio_Peleteiro Romallo,2021,2021_34_Aston Villa
+João Pedro Cavaco,Cancelo,DEF,Man City,277,João Pedro Cavaco_Cancelo,2021,2021_277_Man City
+Juan,Mata,MID,Man Utd,290,Juan_Mata,2021,2021_290_Man Utd
+Keinan,Davis,FWD,Aston Villa,50,Keinan_Davis,2021,2021_50_Aston Villa
+Kevin,De Bruyne,MID,Man City,272,Kevin_De Bruyne,2021,2021_272_Man City
+Kevin,Long,DEF,Burnley,85,Kevin_Long,2021,2021_85_Burnley
+Kortney,Hause,DEF,Aston Villa,39,Kortney_Hause,2021,2021_39_Aston Villa
+Kyle,Walker,DEF,Man City,270,Kyle_Walker,2021,2021_270_Man City
+Liam,Delap,FWD,Man City,539,Liam_Delap,2021,2021_539_Man City
+Luke,Shaw,DEF,Man Utd,300,Luke_Shaw,2021,2021_300_Man Utd
+Mahmoud Ahmed,Ibrahim Hassan,MID,Aston Villa,40,Mahmoud Ahmed_Ibrahim Hassan,2021,2021_40_Aston Villa
+Marcos,Rojo,DEF,Man Utd,294,Marcos_Rojo,2021,2021_294_Man Utd
+Marcus,Rashford,MID,Man Utd,306,Marcus_Rashford,2021,2021_306_Man Utd
+Marvelous,Nakamba,MID,Aston Villa,44,Marvelous_Nakamba,2021,2021_44_Aston Villa
+Mason,Greenwood,MID,Man Utd,315,Mason_Greenwood,2021,2021_315_Man Utd
+Matej,Vydra,FWD,Burnley,93,Matej_Vydra,2021,2021_93_Burnley
+Mateusz,Bogusz,MID,Leeds,533,Mateusz_Bogusz,2021,2021_533_Leeds
+Matthew,Cash,DEF,Aston Villa,496,Matthew_Cash,2021,2021_496_Aston Villa
+Matthew,Lowton,DEF,Burnley,92,Matthew_Lowton,2021,2021_92_Burnley
+Matt,Targett,DEF,Aston Villa,42,Matt_Targett,2021,2021_42_Aston Villa
+Mbwana,Samatta,FWD,Aston Villa,49,Mbwana_Samatta,2021,2021_49_Aston Villa
+Nathan,Aké,DEF,Man City,279,Nathan_Aké,2021,2021_279_Man City
+Neil,Taylor,DEF,Aston Villa,31,Neil_Taylor,2021,2021_31_Aston Villa
+Nemanja,Matic,MID,Man Utd,295,Nemanja_Matic,2021,2021_295_Man Utd
+Nick,Pope,GKP,Burnley,96,Nick_Pope,2021,2021_96_Burnley
+Nicolás,Otamendi,DEF,Man City,269,Nicolás_Otamendi,2021,2021_269_Man City
+Odion,Ighalo,FWD,Man Utd,293,Odion_Ighalo,2021,2021_293_Man Utd
+Oleksandr,Zinchenko,DEF,Man City,283,Oleksandr_Zinchenko,2021,2021_283_Man City
+Ollie,Watkins,FWD,Aston Villa,514,Ollie_Watkins,2021,2021_514_Aston Villa
+Paul,Pogba,MID,Man Utd,296,Paul_Pogba,2021,2021_296_Man Utd
+Phil,Bardsley,DEF,Burnley,82,Phil_Bardsley,2021,2021_82_Burnley
+Phil,Foden,MID,Man City,284,Phil_Foden,2021,2021_284_Man City
+Phil,Jones,DEF,Man Utd,297,Phil_Jones,2021,2021_297_Man Utd
+Raheem,Sterling,MID,Man City,276,Raheem_Sterling,2021,2021_276_Man City
+Riyad,Mahrez,MID,Man City,275,Riyad_Mahrez,2021,2021_275_Man City
+Robbie,Brady,MID,Burnley,95,Robbie_Brady,2021,2021_95_Burnley
+Rodrigo,Hernandez,MID,Man City,286,Rodrigo_Hernandez,2021,2021_286_Man City
+Ryan,Inniss,DEF,Crystal Palace,534,Ryan_Inniss,2021,2021_534_Crystal Palace
+Scott,McTominay,MID,Man Utd,309,Scott_McTominay,2021,2021_309_Man Utd
+Sergio,Agüero,FWD,Man City,268,Sergio_Agüero,2021,2021_268_Man City
+Sergio,Romero,GKP,Man Utd,289,Sergio_Romero,2021,2021_289_Man Utd
+Tahith,Chong,MID,Man Utd,316,Tahith_Chong,2021,2021_316_Man Utd
+Teden,Mengi,DEF,Man Utd,319,Teden_Mengi,2021,2021_319_Man Utd
+Thiago,Alcántara do Nascimento,MID,Liverpool,531,Thiago_Alcántara do Nascimento,2021,2021_531_Liverpool
+Timothy,Fosu-Mensah,DEF,Man Utd,312,Timothy_Fosu-Mensah,2021,2021_312_Man Utd
+Tommy,Doyle,MID,Man City,285,Tommy_Doyle,2021,2021_285_Man City
+Tom,Heaton,GKP,Aston Villa,28,Tom_Heaton,2021,2021_28_Aston Villa
+Tyrone,Mings,DEF,Aston Villa,41,Tyrone_Mings,2021,2021_41_Aston Villa
+Victor,Lindelöf,DEF,Man Utd,308,Victor_Lindelöf,2021,2021_308_Man Utd
+Wesley,Moraes,FWD,Aston Villa,48,Wesley_Moraes,2021,2021_48_Aston Villa
+Zack,Steffen,GKP,Man City,538,Zack_Steffen,2021,2021_538_Man City
+Ørjan,Nyland,GKP,Aston Villa,35,Ørjan_Nyland,2021,2021_35_Aston Villa
+Bertrand,Traoré,MID,Aston Villa,540,Bertrand_Traoré,2021,2021_540_Aston Villa
+Cengiz,Ünder,MID,Leicester,541,Cengiz_Ünder,2021,2021_541_Leicester
+Cole,Palmer,MID,Man City,552,Cole_Palmer,2021,2021_552_Man City
+Conor,Gallagher,MID,West Brom,544,Conor_Gallagher,2021,2021_544_West Brom
+Diego,Llorente,DEF,Leeds,549,Diego_Llorente,2021,2021_549_Leeds
+Edouard,Mendy,GKP,Chelsea,548,Edouard_Mendy,2021,2021_548_Chelsea
+Gareth,Bale,MID,Spurs,543,Gareth_Bale,2021,2021_543_Spurs
+Jacob,Ramsey,MID,Aston Villa,554,Jacob_Ramsey,2021,2021_554_Aston Villa
+Jayson,Molumby,MID,Brighton,550,Jayson_Molumby,2021,2021_550_Brighton
+Ki-Jana,Hoever,DEF,Wolves,545,Ki-Jana_Hoever,2021,2021_545_Wolves
+Mace,Goodridge,MID,Burnley,551,Mace_Goodridge,2021,2021_551_Burnley
+Meritan,Shabani,MID,Wolves,553,Meritan_Shabani,2021,2021_553_Wolves
+Nélson,Cabral Semedo,DEF,Wolves,546,Nélson_Cabral Semedo,2021,2021_546_Wolves
+Rúnar Alex,Rúnarsson,GKP,Arsenal,547,Rúnar Alex_Rúnarsson,2021,2021_547_Arsenal
+Sergio,Reguilón,DEF,Spurs,542,Sergio_Reguilón,2021,2021_542_Spurs
+Ademola,Lookman,MID,Fulham,557,Ademola_Lookman,2021,2021_557_Fulham
+Caoimhin,Kelleher,GKP,Liverpool,560,Caoimhin_Kelleher,2021,2021_560_Liverpool
+Filip,Krovinovic,MID,West Brom,555,Filip_Krovinovic,2021,2021_555_West Brom
+Niels,Nkounkou,DEF,Everton,559,Niels_Nkounkou,2021,2021_559_Everton
+Ola,Aina,DEF,Fulham,562,Ola_Aina,2021,2021_562_Fulham
+Rúben Santos,Gato Alves Dias,DEF,Man City,556,Rúben Santos_Gato Alves Dias,2021,2021_556_Man City
+Vladimir,Coufal,DEF,West Ham,558,Vladimir_Coufal,2021,2021_558_West Ham
+Wesley,Fofana,DEF,Leicester,561,Wesley_Fofana,2021,2021_561_Leicester
+Alex Nicolao,Telles,DEF,Man Utd,568,Alex Nicolao_Telles,2021,2021_568_Man Utd
+Andi,Zeqiri,FWD,Brighton,574,Andi_Zeqiri,2021,2021_574_Brighton
+Ben,Godfrey,DEF,Everton,566,Ben_Godfrey,2021,2021_566_Everton
+Carlos Vinicius,Alves Morais,FWD,Spurs,564,Carlos Vinicius_Alves Morais,2021,2021_564_Spurs
+Craig,Dawson,DEF,West Ham,576,Craig_Dawson,2021,2021_576_West Ham
+Edinson,Cavani,FWD,Man Utd,569,Edinson_Cavani,2021,2021_569_Man Utd
+Facundo,Pellistri,MID,Man Utd,575,Facundo_Pellistri,2021,2021_575_Man Utd
+Ibrahima,Diallo,MID,Southampton,565,Ibrahima_Diallo,2021,2021_565_Southampton
+Islam,Slimani,FWD,Leicester,579,Islam_Slimani,2021,2021_579_Leicester
+Joachim,Andersen,DEF,Fulham,571,Joachim_Andersen,2021,2021_571_Fulham
+Karlan,Grant,FWD,West Brom,582,Karlan_Grant,2021,2021_582_West Brom
+Michael,Verrips,GKP,Sheffield Utd,580,Michael_Verrips,2021,2021_580_Sheffield Utd
+Nathaniel,Clyne,DEF,Crystal Palace,577,Nathaniel_Clyne,2021,2021_577_Crystal Palace
+Owen,Otasowie,MID,Wolves,581,Owen_Otasowie,2021,2021_581_Wolves
+Raphael,Dias Belloli,MID,Leeds,570,Raphael_Dias Belloli,2021,2021_570_Leeds
+Rayan,Ait Nouri,DEF,Wolves,563,Rayan_Ait Nouri,2021,2021_563_Wolves
+Robin,Olsen,GKP,Everton,573,Robin_Olsen,2021,2021_573_Everton
+Stephen,Henderson,GKP,Crystal Palace,578,Stephen_Henderson,2021,2021_578_Crystal Palace
+Thomas,Partey,MID,Arsenal,567,Thomas_Partey,2021,2021_567_Arsenal
+Tosin,Adarabioyo,DEF,Fulham,572,Tosin_Adarabioyo,2021,2021_572_Fulham
+Will,Norris,GKP,Burnley,583,Will_Norris,2021,2021_583_Burnley
+Danny,Welbeck,FWD,Brighton,588,Danny_Welbeck,2021,2021_588_Brighton
+Nathaniel,Phillips,DEF,Liverpool,589,Nathaniel_Phillips,2021,2021_589_Liverpool
+Jack,Butland,GKP,Crystal Palace,586,Jack_Butland,2021,2021_586_Crystal Palace
+Terence,Kongolo,DEF,Fulham,585,Terence_Kongolo,2021,2021_585_Fulham
+Joe,Rodon,DEF,Spurs,584,Joe_Rodon,2021,2021_584_Spurs
+Daniel,N'Lundulu,FWD,Southampton,590,Daniel_N'Lundulu,2021,2021_590_Southampton
+Saïd,Benrahma,MID,West Ham,587,Saïd_Benrahma,2021,2021_587_West Ham
+James,Trafford,GKP,Man City,595,James_Trafford,2021,2021_595_Man City
+Max,Thompson,FWD,Burnley,591,Max_Thompson,2021,2021_591_Burnley
+Robert,Sánchez,GKP,Brighton,597,Robert_Sánchez,2021,2021_597_Brighton
+Rhys,Williams,DEF,Liverpool,594,Rhys_Williams,2021,2021_594_Liverpool
+Ellis,Simms,FWD,Everton,596,Ellis_Simms,2021,2021_596_Everton
+Karlo,Ziger,GKP,Chelsea,593,Karlo_Ziger,2021,2021_593_Chelsea
+Lewis,Richardson,FWD,Burnley,592,Lewis_Richardson,2021,2021_592_Burnley
+Lee,Peltier,DEF,West Brom,600,Lee_Peltier,2021,2021_600_West Brom
+Jack,Jenkins,MID,Leeds,599,Jack_Jenkins,2021,2021_599_Leeds
+Kayne,Ramsay,DEF,Southampton,598,Kayne_Ramsay,2021,2021_598_Southampton
+Leighton,Clarkson,MID,Liverpool,601,Leighton_Clarkson,2021,2021_601_Liverpool
+Kean,Bryan,DEF,Sheffield Utd,603,Kean_Bryan,2021,2021_603_Sheffield Utd
+Elliot,Anderson,MID,Newcastle,602,Elliot_Anderson,2021,2021_602_Newcastle
+Lee,Grant,GKP,Man Utd,604,Lee_Grant,2021,2021_604_Man Utd
+Daniel,Langley,GKP,Newcastle,606,Daniel_Langley,2021,2021_606_Newcastle
+Faustino,Anjorin,MID,Chelsea,605,Faustino_Anjorin,2021,2021_605_Chelsea
+Jake,Cain,MID,Liverpool,607,Jake_Cain,2021,2021_607_Liverpool
+Theo,Corbeanu,MID,Wolves,610,Theo_Corbeanu,2021,2021_610_Wolves
+Felix,Nmecha,MID,Man City,609,Felix_Nmecha,2021,2021_609_Man City
+Scott,Carson,GKP,Man City,608,Scott_Carson,2021,2021_608_Man City
+Taylor,Perry,MID,Wolves,611,Taylor_Perry,2021,2021_611_Wolves
+Luke,Cundle,MID,Wolves,614,Luke_Cundle,2021,2021_614_Wolves
+Joel,Mumbongo,FWD,Burnley,613,Joel_Mumbongo,2021,2021_613_Burnley
+Anthony,Mancini,MID,Burnley,612,Anthony_Mancini,2021,2021_612_Burnley
+Christian,Marques,DEF,Wolves,616,Christian_Marques,2021,2021_616_Wolves
+Lewis,Richards,DEF,Wolves,615,Lewis_Richards,2021,2021_615_Wolves
+Niall,Huggins,FWD,Leeds,619,Niall_Huggins,2021,2021_619_Leeds
+Kgaogelo,Chauke,MID,Southampton,624,Kgaogelo_Chauke,2021,2021_624_Southampton
+Cheikh,Diaby,FWD,West Brom,621,Cheikh_Diaby,2021,2021_621_West Brom
+Harry,Lewis,GKP,Southampton,625,Harry_Lewis,2021,2021_625_Southampton
+Andreas,Söndergaard,GKP,Wolves,617,Andreas_Söndergaard,2021,2021_617_Wolves
+Antwoine,Hackford,FWD,Sheffield Utd,618,Antwoine_Hackford,2021,2021_618_Sheffield Utd
+Luke,Mbete,DEF,Man City,622,Luke_Mbete,2021,2021_622_Man City
+Charlie,Cresswell,DEF,Leeds,620,Charlie_Cresswell,2021,2021_620_Leeds
+Taylor,Harwood-Bellis,DEF,Man City,623,Taylor_Harwood-Bellis,2021,2021_623_Man City
+Teddy,Jenks,MID,Brighton,631,Teddy_Jenks,2021,2021_631_Brighton
+Jakub,Moder,MID,Brighton,628,Jakub_Moder,2021,2021_628_Brighton
+Max,Sanders,MID,Brighton,632,Max_Sanders,2021,2021_632_Brighton
+Percy,Tau,MID,Brighton,627,Percy_Tau,2021,2021_627_Brighton
+Reda,Khadra,MID,Brighton,630,Reda_Khadra,2021,2021_630_Brighton
+Jensen,Weir,MID,Brighton,633,Jensen_Weir,2021,2021_633_Brighton
+Patrick,Cutrone,FWD,Wolves,626,Patrick_Cutrone,2021,2021_626_Wolves
+Nigel,Lonwijk,DEF,Wolves,629,Nigel_Lonwijk,2021,2021_629_Wolves
+Andy,Lonergan,GKP,West Brom,639,Andy_Lonergan,2021,2021_639_West Brom
+Will,Ferry,MID,Southampton,634,Will_Ferry,2021,2021_634_Southampton
+Ademipo,Odubeko,FWD,West Ham,638,Ademipo_Odubeko,2021,2021_638_West Ham
+Allan,Tchaptchet,DEF,Southampton,635,Allan_Tchaptchet,2021,2021_635_Southampton
+Frederik,Alves,DEF,West Ham,637,Frederik_Alves,2021,2021_637_West Ham
+Caleb,Watts,MID,Southampton,636,Caleb_Watts,2021,2021_636_Southampton
+Tyler,Onyango,MID,Everton,644,Tyler_Onyango,2021,2021_644_Everton
+Jean-Philippe,Mateta,FWD,Crystal Palace,641,Jean-Philippe_Mateta,2021,2021_641_Crystal Palace
+Alexandre,Jankewitz,MID,Southampton,643,Alexandre_Jankewitz,2021,2021_643_Southampton
+Amad,Diallo,MID,Man Utd,640,Amad_Diallo,2021,2021_640_Man Utd
+Willian José,Da Silva,FWD,Wolves,642,Willian José_Da Silva,2021,2021_642_Wolves
+Kyron,Gordon,DEF,Sheffield Utd,646,Kyron_Gordon,2021,2021_646_Sheffield Utd
+Alfie,Devine,MID,Spurs,650,Alfie_Devine,2021,2021_650_Spurs
+Martin,Ødegaard,MID,Arsenal,645,Martin_Ødegaard,2021,2021_645_Arsenal
+Morgan,Sanson,MID,Aston Villa,647,Morgan_Sanson,2021,2021_647_Aston Villa
+Mbaye,Diagne,FWD,West Brom,648,Mbaye_Diagne,2021,2021_648_West Brom
+Hugo,Bueno,DEF,Wolves,649,Hugo_Bueno,2021,2021_649_Wolves
+Ben,Davies,DEF,Liverpool,653,Ben_Davies,2021,2021_653_Liverpool
+Ozan,Kabak,DEF,Liverpool,652,Ozan_Kabak,2021,2021_652_Liverpool
+Richard,Nartey,DEF,Burnley,658,Richard_Nartey,2021,2021_658_Burnley
+Michal,Karbownik,DEF,Brighton,663,Michal_Karbownik,2021,2021_663_Brighton
+Joshua,King,FWD,Everton,651,Joshua_King,2021,2021_651_Everton
+Iliman,Ndiaye,MID,Sheffield Utd,656,Iliman_Ndiaye,2021,2021_656_Sheffield Utd
+Vontae,Daley-Campbell,DEF,Leicester,660,Vontae_Daley-Campbell,2021,2021_660_Leicester
+Thomas,McGill,GKP,Brighton,662,Thomas_McGill,2021,2021_662_Brighton
+Claudio,Gomes,MID,Man City,659,Claudio_Gomes,2021,2021_659_Man City
+Zak,Brunt,MID,Sheffield Utd,657,Zak_Brunt,2021,2021_657_Sheffield Utd
+Okay,Yokuslu,MID,West Brom,654,Okay_Yokuslu,2021,2021_654_West Brom
+Ryan,Finnigan,MID,Southampton,655,Ryan_Finnigan,2021,2021_655_Southampton
+Thakgalo,Leshabela,MID,Leicester,661,Thakgalo_Leshabela,2021,2021_661_Leicester
+Moisés,Caicedo,MID,Brighton,664,Moisés_Caicedo,2021,2021_664_Brighton
+Dane,Scarlett,FWD,Spurs,666,Dane_Scarlett,2021,2021_666_Spurs
+Josh,Maja,FWD,Fulham,665,Josh_Maja,2021,2021_665_Fulham
+Joe,Gelhardt,FWD,Leeds,667,Joe_Gelhardt,2021,2021_667_Leeds
+Jamal,Baptiste,DEF,West Ham,669,Jamal_Baptiste,2021,2021_669_West Ham
+Conor,Coventry,MID,West Ham,668,Conor_Coventry,2021,2021_668_West Ham
+Frankie,Maguire,MID,Sheffield Utd,670,Frankie_Maguire,2021,2021_670_Sheffield Utd
+Shola,Shoretire,MID,Man Utd,673,Shola_Shoretire,2021,2021_673_Man Utd
+Kaine,Hayden,MID,Aston Villa,671,Kaine_Hayden,2021,2021_671_Aston Villa
+Carney,Chukwuemeka,MID,Aston Villa,672,Carney_Chukwuemeka,2021,2021_672_Aston Villa
+Ryan,Astley,DEF,Everton,681,Ryan_Astley,2021,2021_681_Everton
+Kyle,John,DEF,Everton,679,Kyle_John,2021,2021_679_Everton
+Sidnei,Tavares,MID,Leicester,676,Sidnei_Tavares,2021,2021_676_Leicester
+Nathan,Trott,GKP,West Ham,674,Nathan_Trott,2021,2021_674_West Ham
+Nathan,Broadhead,MID,Everton,680,Nathan_Broadhead,2021,2021_680_Everton
+Reece,Hannam,DEF,Crystal Palace,675,Reece_Hannam,2021,2021_675_Crystal Palace
+Jakub,Ojrzynski,GKP,Liverpool,678,Jakub_Ojrzynski,2021,2021_678_Liverpool
+Harry,Tyrer,GKP,Everton,682,Harry_Tyrer,2021,2021_682_Everton
+Liam,Hughes,GKP,Liverpool,677,Liam_Hughes,2021,2021_677_Liverpool
+Shane,Flynn,MID,Leicester,684,Shane_Flynn,2021,2021_684_Leicester
+Gaetano,Berardi,DEF,Leeds,685,Gaetano_Berardi,2021,2021_685_Leeds
+Jaden,Philogene-Bidace,MID,Aston Villa,683,Jaden_Philogene-Bidace,2021,2021_683_Aston Villa
+Nathan,Bishop,GKP,Man Utd,686,Nathan_Bishop,2021,2021_686_Man Utd
+Thanawat,Suengchitthawon,MID,Leicester,687,Thanawat_Suengchitthawon,2021,2021_687_Leicester
+Isaac,Price,MID,Everton,691,Isaac_Price,2021,2021_691_Everton
+Jesurun,Rak-Sakyi,MID,Crystal Palace,688,Jesurun_Rak-Sakyi,2021,2021_688_Crystal Palace
+Reece,Welch,DEF,Everton,690,Reece_Welch,2021,2021_690_Everton
+Miguel,Azeez,MID,Arsenal,689,Miguel_Azeez,2021,2021_689_Arsenal
+Crysencio,Summerville,MID,Leeds,693,Crysencio_Summerville,2021,2021_693_Leeds
+Sam,Greenwood,FWD,Leeds,692,Sam_Greenwood,2021,2021_692_Leeds
+Cody,Drameh,DEF,Leeds,694,Cody_Drameh,2021,2021_694_Leeds
+Fabio,Carvalho,MID,Fulham,695,Fabio_Carvalho,2021,2021_695_Fulham
+Ben,Woodburn,MID,Liverpool,696,Ben_Woodburn,2021,2021_696_Liverpool
+Valentino,Livramento,DEF,Chelsea,698,Valentino_Livramento,2021,2021_698_Chelsea
+Caleb,Taylor,DEF,West Brom,700,Caleb_Taylor,2021,2021_700_West Brom
+Billy,Koumetio,DEF,Liverpool,697,Billy_Koumetio,2021,2021_697_Liverpool
+Tawanda,Maswanhise,MID,Leicester,703,Tawanda_Maswanhise,2021,2021_703_Leicester
+Taylor,Gardner-Hickman,MID,West Brom,701,Taylor_Gardner-Hickman,2021,2021_701_West Brom
+Anthony,Elanga,MID,Man Utd,702,Anthony_Elanga,2021,2021_702_Man Utd
+Daniel,Jebbison,FWD,Sheffield Utd,699,Daniel_Jebbison,2021,2021_699_Sheffield Utd
+Femi,Seriki,MID,Sheffield Utd,705,Femi_Seriki,2021,2021_705_Sheffield Utd
+Toby,King,MID,West Brom,706,Toby_King,2021,2021_706_West Brom
+Harry,Boyes,DEF,Sheffield Utd,704,Harry_Boyes,2021,2021_704_Sheffield Utd
+Hannibal,Mejbri,MID,Man Utd,712,Hannibal_Mejbri,2021,2021_712_Man Utd
+Tyrese,Francois,MID,Fulham,708,Tyrese_Francois,2021,2021_708_Fulham
+William,Fish,DEF,Man Utd,713,William_Fish,2021,2021_713_Man Utd
+Sylvester,Jasper,MID,Fulham,707,Sylvester_Jasper,2021,2021_707_Fulham
+William,Osula,FWD,Sheffield Utd,711,William_Osula,2021,2021_711_Sheffield Utd
+Tim,Iroegbunam,MID,West Brom,709,Tim_Iroegbunam,2021,2021_709_West Brom
+Nile,John,MID,Spurs,710,Nile_John,2021,2021_710_Spurs

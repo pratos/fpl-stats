@@ -1,0 +1,667 @@
+first_name,second_name,position,team_name,element,model_predictions,actual_results
+Kevin,De Bruyne,MID,Man City,215,18.465,19
+Pierre-Emerick,Aubameyang,FWD,Arsenal,11,17.598,16
+Che,Adams,FWD,Southampton,437,15.237,13
+Mason,Mount,MID,Chelsea,463,14.373,14
+Joshua,King,FWD,Bournemouth,68,12.564,12
+Gabriel Fernando,de Jesus,FWD,Man City,211,11.828,8
+Bruno Miguel,Borges Fernandes,MID,Man Utd,618,11.625,11
+Marcos,Alonso,DEF,Chelsea,103,10.22,11
+Harry,Kane,FWD,Spurs,338,9.756,9
+Dwight,Gayle,FWD,Newcastle,554,9.696,9
+Chris,Wood,FWD,Burnley,91,9.48,9
+Kyle,Walker,DEF,Man City,203,9.216,10
+Kieran,Tierney,DEF,Arsenal,515,9.135,11
+Aaron,Connolly,FWD,Brighton,534,8.918,8
+Jack,Grealish,MID,Aston Villa,29,8.905,10
+Danny,Ings,FWD,Southampton,313,8.776,8
+Divock,Origi,FWD,Liverpool,188,8.633,8
+Danny,Welbeck,FWD,Watford,512,8.513,9
+Riyad,Mahrez,MID,Man City,217,8.498,9
+Moise,Kean,FWD,Everton,496,8.239,8
+Raheem,Sterling,MID,Man City,214,8.209,8
+William,Smallbone,MID,Southampton,584,7.519,7
+Ismaïla,Sarr,MID,Watford,525,7.401,7
+Diego,Rico,DEF,Bournemouth,65,7.381,7
+Virgil,van Dijk,DEF,Liverpool,183,7.255,9
+Olivier,Giroud,FWD,Chelsea,110,7.229,5
+Andriy,Yarmolenko,MID,West Ham,392,6.963,8
+Anthony,Martial,MID,Man Utd,239,6.732,6
+Jeffrey,Schlupp,MID,Crystal Palace,137,6.721,8
+Kyle,Walker-Peters,DEF,Southampton,337,6.673,6
+Kurt,Zouma,DEF,Chelsea,459,6.623,7
+Frédéric,Guilbert,DEF,Aston Villa,458,6.38,8
+Brandon,Williams,DEF,Man Utd,549,6.348,7
+Giovani,Lo Celso,MID,Spurs,523,6.338,6
+Dominic,Solanke,FWD,Bournemouth,69,6.313,6
+Ederson,Santana de Moraes,GKP,Man City,212,6.017,7
+Aaron,Wan-Bissaka,DEF,Man Utd,122,6.011,7
+Troy,Deeney,FWD,Watford,362,6.001,6
+Yves,Bissouma,MID,Brighton,53,5.545,7
+Willy,Caballero,GKP,Chelsea,112,5.463,6
+David,de Gea,GKP,Man Utd,235,5.433,7
+Junior,Stanislas,MID,Bournemouth,77,5.27,6
+Aymeric,Laporte,DEF,Man City,202,5.191,6
+Jesse,Lingard,MID,Man Utd,241,5.138,6
+Sadio,Mané,MID,Liverpool,192,5.023,6
+Andrew,Robertson,DEF,Liverpool,181,4.978,5
+Antonio,Rüdiger,DEF,Chelsea,104,4.925,6
+Mateo,Kovacic,MID,Chelsea,432,4.915,3
+John,Lundstram,DEF,Sheffield Utd,297,4.859,7
+Reece,James,DEF,Chelsea,506,4.786,6
+Jonjo,Shelvey,MID,Newcastle,269,4.763,5
+Declan,Rice,MID,West Ham,395,4.65,5
+David,Silva,MID,Man City,219,4.623,3
+Jordan,Ayew,FWD,Crystal Palace,468,4.543,5
+João Pedro Cavaco,Cancelo,DEF,Man City,518,4.387,5
+Billy,Sharp,FWD,Sheffield Utd,298,4.355,5
+Callum,Wilson,FWD,Bournemouth,67,4.263,5
+Victor,Lindelöf,DEF,Man Utd,225,4.211,5
+Harry,Maguire,DEF,Man Utd,160,4.18,5
+Jorge Luiz,Frello Filho,MID,Chelsea,118,4.113,3
+Alexandre,Lacazette,FWD,Arsenal,12,3.974,4
+Neal,Maupay,FWD,Brighton,502,3.946,5
+Alex,Oxlade-Chamberlain,MID,Liverpool,193,3.932,5
+César,Azpilicueta,DEF,Chelsea,105,3.887,5
+Erik,Pieters,DEF,Burnley,447,3.882,3
+Ashley,Westwood,MID,Burnley,101,3.796,3
+Nemanja,Matic,MID,Man Utd,247,3.694,3
+John,McGinn,MID,Aston Villa,31,3.657,5
+Theo,Walcott,MID,Everton,153,3.6,4
+Mason,Greenwood,FWD,Man Utd,234,3.534,2
+Conor,Hourihane,MID,Aston Villa,28,3.524,3
+Marcus,Rashford,FWD,Man Utd,233,3.429,2
+Christian,Pulisic,MID,Chelsea,431,3.339,3
+Pablo,Fornals,MID,West Ham,399,3.284,3
+Roberto,Firmino,FWD,Liverpool,187,3.097,4
+Aaron,Ramsdale,GKP,Bournemouth,494,2.717,3
+Harry,Winks,MID,Spurs,347,2.698,2
+Lukasz,Fabianski,GKP,West Ham,388,2.695,3
+Oriol,Romeu Vidal,MID,Southampton,328,2.667,2
+Moussa,Sissoko,MID,Spurs,349,2.646,2
+Joseph,Gomez,DEF,Liverpool,184,2.639,2
+Nathan,Redmond,MID,Southampton,320,2.608,2
+Mathew,Ryan,GKP,Brighton,47,2.578,2
+Tariq,Lamptey,DEF,Brighton,586,2.564,2
+Alex,McCarthy,GKP,Southampton,318,2.515,2
+Martin,Dubravka,GKP,Newcastle,262,2.477,2
+Jannik,Vestergaard,DEF,Southampton,304,2.473,2
+Willy,Boly,DEF,Wolves,405,2.399,1
+Jordan,Pickford,GKP,Everton,148,2.386,2
+James,Ward-Prowse,MID,Southampton,321,2.364,2
+Naby,Keita,MID,Liverpool,196,2.349,2
+Wes,Morgan,DEF,Leicester,165,2.331,1
+Paul,Pogba,MID,Man Utd,238,2.329,2
+James,Milner,MID,Liverpool,200,2.311,2
+Sander,Berge,MID,Sheffield Utd,621,2.283,2
+Mbwana,Samatta,FWD,Aston Villa,613,2.276,1
+Angelo,Ogbonna,DEF,West Ham,377,2.256,2
+Vicente,Guaita,GKP,Crystal Palace,131,2.251,2
+Jefferson,Lerma,MID,Bournemouth,82,2.245,2
+Wilfred,Ndidi,MID,Leicester,176,2.242,2
+Neco,Williams,DEF,Liverpool,575,2.221,2
+Jarrad,Branthwaite,DEF,Everton,637,2.209,1
+Adam,Smith,DEF,Bournemouth,63,2.198,2
+Alisson,Ramses Becker,GKP,Liverpool,189,2.198,2
+Georginio,Wijnaldum,MID,Liverpool,199,2.185,2
+Romain,Saïss,DEF,Wolves,407,2.183,1
+Scott,Dann,DEF,Crystal Palace,127,2.16,2
+Christian,Kabasele,DEF,Watford,354,2.143,1
+Serge,Aurier,DEF,Spurs,336,2.121,2
+Ben,Johnson,DEF,West Ham,384,2.113,2
+Dan,Gosling,MID,Bournemouth,81,2.105,2
+Rui Pedro,dos Santos Patrício,GKP,Wolves,411,2.104,1
+Dale,Stephens,MID,Brighton,57,2.083,2
+Nick,Pope,GKP,Burnley,93,2.08,1
+Dwight,McNeil,MID,Burnley,97,2.03,2
+Marc,Albrighton,MID,Leicester,174,2.025,2
+Hugo,Lloris,GKP,Spurs,340,2.024,2
+Ryan,Bertrand,DEF,Southampton,305,2.011,2
+Douglas Luiz,Soares de Paulo,MID,Aston Villa,470,1.993,2
+Andros,Townsend,MID,Crystal Palace,135,1.987,2
+Adam,Webster,DEF,Brighton,493,1.973,2
+Joel,Ward,DEF,Crystal Palace,126,1.966,2
+Issa,Diop,DEF,West Ham,381,1.96,2
+Abdoulaye,Doucouré,MID,Watford,368,1.959,2
+Tyrone,Mings,DEF,Aston Villa,445,1.944,2
+Lloyd,Kelly,DEF,Bournemouth,64,1.939,2
+Jack,Stephens,DEF,Southampton,308,1.887,2
+Lewis,Dunk,DEF,Brighton,42,1.88,2
+Mark,Noble,MID,West Ham,396,1.872,2
+Dean,Henderson,GKP,Sheffield Utd,471,1.866,1
+Conor,Coady,DEF,Wolves,403,1.862,1
+Miguel,Almirón,MID,Newcastle,266,1.86,2
+Ben,Foster,GKP,Watford,366,1.848,1
+Ainsley,Maitland-Niles,DEF,Arsenal,4,1.84,1
+Lucas,Digne,DEF,Everton,141,1.834,1
+Dan,Burn,DEF,Brighton,475,1.832,2
+Tom,Davies,MID,Everton,154,1.83,2
+José,Reina,GKP,Aston Villa,603,1.817,2
+Gylfi,Sigurdsson,MID,Everton,151,1.808,2
+Kasper,Schmeichel,GKP,Leicester,168,1.8,1
+John,Fleck,MID,Sheffield Utd,301,1.795,2
+Ezri,Konsa Ngoyo,DEF,Aston Villa,452,1.794,2
+Tim,Krul,GKP,Norwich,280,1.792,1
+Luke,Thomas,DEF,Leicester,660,1.768,2
+Phil,Foden,MID,Man City,220,1.75,1
+Steve,Cook,DEF,Bournemouth,58,1.743,2
+Fernando,Luiz Rosa,MID,Man City,221,1.72,1
+Richarlison,de Andrade,MID,Everton,150,1.701,2
+Youri,Tielemans,MID,Leicester,448,1.69,2
+Lucas,Rodrigues Moura da Silva,MID,Spurs,345,1.656,2
+Rúben Diogo,da Silva Neves,MID,Wolves,414,1.634,1
+Valentino,Lazaro,MID,Newcastle,614,1.624,2
+Emiliano,Martínez,GKP,Arsenal,427,1.623,1
+Mahmoud Ahmed,Ibrahim Hassan,MID,Aston Villa,465,1.61,2
+Daniel,Ceballos Fernández,MID,Arsenal,469,1.583,2
+Tomas,Soucek,MID,West Ham,616,1.578,2
+James,Justin,DEF,Leicester,433,1.549,1
+Solomon,March,MID,Brighton,55,1.543,2
+Danny,Rose,DEF,Newcastle,332,1.53,1
+Heung-Min,Son,MID,Spurs,342,1.504,2
+Matt,Targett,DEF,Aston Villa,309,1.498,2
+Ben,Davies,DEF,Spurs,329,1.497,2
+Hamza,Choudhury,MID,Leicester,180,1.48,2
+Jack,Robinson,DEF,Sheffield Utd,611,1.472,1
+James,McArthur,MID,Crystal Palace,138,1.464,2
+Eric,Garcia,DEF,Man City,544,1.458,1
+Wilfried,Zaha,MID,Crystal Palace,133,1.456,2
+Matt,Ritchie,DEF,Newcastle,251,1.448,1
+James,Tarkowski,DEF,Burnley,84,1.439,1
+Josh,Brownhill,MID,Burnley,620,1.437,1
+Seamus,Coleman,DEF,Everton,144,1.428,0
+Jay,Rodriguez,FWD,Burnley,451,1.415,2
+John,Egan,DEF,Sheffield Utd,295,1.414,1
+André Filipe,Tavares Gomes,MID,Everton,422,1.398,2
+Jarrod,Bowen,MID,West Ham,626,1.373,1
+Kevin,Long,DEF,Burnley,88,1.368,1
+David,Brooks,MID,Bournemouth,76,1.332,2
+David,Luiz Moreira Marinho,DEF,Arsenal,106,1.316,1
+Johann Berg,Gudmundsson,MID,Burnley,96,1.301,2
+Rodrigo,Hernandez,MID,Man City,443,1.296,1
+Joseph,Willock,MID,Arsenal,490,1.236,1
+Granit,Xhaka,MID,Arsenal,18,1.231,1
+Kelechi,Iheanacho,FWD,Leicester,167,1.229,1
+Javier,Manquillo,DEF,Newcastle,256,1.224,1
+Nicolas,Pépé,MID,Arsenal,488,1.219,2
+George,Baldock,DEF,Sheffield Utd,294,1.218,1
+Ilkay,Gündogan,MID,Man City,222,1.196,1
+Chris,Basham,DEF,Sheffield Utd,423,1.195,1
+Takumi,Minamino,MID,Liverpool,590,1.122,2
+James,McCarthy,MID,Crystal Palace,157,1.121,1
+Raúl,Jiménez,FWD,Wolves,409,1.1,2
+Cheikhou,Kouyaté,MID,Crystal Palace,139,1.098,1
+Lukas,Rupp,MID,Norwich,602,1.073,2
+Toby,Alderweireld,DEF,Spurs,331,1.07,1
+Eric,Dier,MID,Spurs,350,1.065,1
+Matt,Doherty,DEF,Wolves,401,1.027,0
+Nabil,Bentaleb,MID,Newcastle,612,1.017,1
+Sébastien,Haller,FWD,West Ham,457,1.0,1
+Adrian,Mariappa,DEF,Watford,356,0.999,1
+Alexis,Mac Allister,MID,Brighton,627,0.991,2
+Teemu,Pukki,FWD,Norwich,278,0.982,2
+Leander,Dendoncker,MID,Wolves,420,0.973,1
+Philip,Billing,MID,Bournemouth,476,0.957,1
+Jamal,Lewis,DEF,Norwich,276,0.952,0
+Kenny,McLean,MID,Norwich,286,0.946,2
+Phil,Bardsley,DEF,Burnley,86,0.918,0
+João Filipe Iria,Santos Moutinho,MID,Wolves,415,0.893,1
+Marco,Stiepermann,MID,Norwich,285,0.887,2
+Ryan,Fredericks,DEF,West Ham,380,0.878,1
+Nathaniel,Chalobah,MID,Watford,374,0.86,1
+Onel,Hernández,MID,Norwich,284,0.859,2
+Craig,Dawson,DEF,Watford,439,0.857,0
+Steven,Bergwijn,MID,Spurs,615,0.854,1
+Adam,Masina,DEF,Watford,355,0.853,1
+Edward,Nketiah,FWD,Arsenal,13,0.852,1
+Mohamed,Salah,MID,Liverpool,191,0.847,1
+Allan,Saint-Maximin,MID,Newcastle,500,0.814,1
+Maximillian,Aarons,DEF,Norwich,274,0.788,0
+Sead,Kolasinac,DEF,Arsenal,3,0.788,1
+Djibril,Sidibé,DEF,Everton,511,0.778,1
+Rob,Holding,DEF,Arsenal,10,0.749,0
+Michael,Keane,DEF,Everton,143,0.738,0
+Aaron,Mooy,MID,Brighton,516,0.718,1
+Todd,Cantwell,MID,Norwich,287,0.715,2
+Reiss,Nelson,MID,Arsenal,489,0.713,1
+Bamidele,Alli,MID,Spurs,344,0.672,1
+Ben,Godfrey,DEF,Norwich,273,0.65,0
+Demarai,Gray,MID,Leicester,175,0.638,1
+Bernardo Mota,Veiga de Carvalho e Silva,MID,Man City,218,0.634,1
+Jamie,Vardy,FWD,Leicester,166,0.63,1
+Oliver,McBurnie,FWD,Sheffield Utd,501,0.629,1
+Jairo,Riedewald,MID,Crystal Palace,539,0.618,1
+Lucas,Torreira,MID,Arsenal,19,0.615,1
+Oliver,Skipp,MID,Spurs,352,0.599,1
+Matej,Vydra,FWD,Burnley,92,0.593,1
+Adama,Traoré,MID,Wolves,417,0.592,1
+Stuart,Armstrong,MID,Southampton,323,0.568,1
+Roberto,Pereyra,MID,Watford,369,0.546,1
+Scott,McTominay,MID,Man Utd,248,0.544,1
+Tom,Cleverley,MID,Watford,371,0.54,1
+Ross,Barkley,MID,Chelsea,117,0.539,1
+Leighton,Baines,DEF,Everton,145,0.535,1
+Davy,Pröpper,MID,Brighton,54,0.526,1
+Curtis,Jones,MID,Liverpool,569,0.517,1
+Pedro,Rodríguez Ledesma,MID,Chelsea,114,0.513,1
+Harvey,Barnes,MID,Leicester,172,0.511,1
+Bernardo,Fernandes da Silva Junior,DEF,Brighton,39,0.505,1
+Trent,Alexander-Arnold,DEF,Liverpool,182,0.491,1
+Luka,Milivojevic,MID,Crystal Palace,134,0.49,1
+Jonathan,Castro Otto,DEF,Wolves,402,0.488,0
+Glenn,Murray,FWD,Brighton,44,0.473,1
+Shane,Long,FWD,Southampton,315,0.467,1
+Michael,Obafemi,FWD,Southampton,314,0.465,1
+Will,Hughes,MID,Watford,370,0.455,1
+Felipe Anderson,Pereira Gomes,MID,West Ham,390,0.448,1
+Ruben,Loftus-Cheek,MID,Chelsea,115,0.428,1
+Keinan,Davis,MID,Aston Villa,34,0.419,1
+Diogo,Jota,FWD,Wolves,410,0.407,1
+Robbie,Brady,MID,Burnley,98,0.407,1
+Bruno André,Cavaco Jordao,MID,Wolves,609,0.406,1
+Tyrick,Mitchell,DEF,Crystal Palace,579,0.404,1
+Anwar,El Ghazi,MID,Aston Villa,30,0.403,1
+Alireza,Jahanbakhsh,MID,Brighton,50,0.397,1
+Harry,Wilson,MID,Bournemouth,505,0.393,1
+João Pedro,Junqueira de Jesus,FWD,Watford,592,0.383,1
+Timothy,Fosu-Mensah,DEF,Man Utd,658,0.378,1
+Jordan,Thomas,DEF,Norwich,650,0.375,1
+Akin,Famewo,DEF,Norwich,552,0.374,1
+Davinson,Sánchez,DEF,Spurs,333,0.367,1
+Callum,Hudson-Odoi,MID,Chelsea,116,0.367,1
+Kortney,Hause,DEF,Aston Villa,25,0.363,1
+Francisco,Femenía Far,DEF,Watford,357,0.339,0
+Manuel,Lanzini,MID,West Ham,391,0.32,1
+Kelland,Watts,DEF,Newcastle,599,0.318,1
+Richairo,Zivkovic,FWD,Sheffield Utd,622,0.302,1
+Daniel,Castelo Podence,MID,Wolves,619,0.298,1
+Dennis,Praet,MID,Leicester,517,0.294,1
+Isaac,Hayden,MID,Newcastle,271,0.279,1
+Federico,Fernández,DEF,Newcastle,254,0.268,0
+Tammy,Abraham,FWD,Chelsea,460,0.257,1
+Dominic,Calvert-Lewin,FWD,Everton,147,0.253,1
+Patrick,van Aanholt,DEF,Crystal Palace,123,0.244,0
+Marvelous,Nakamba,MID,Aston Villa,491,0.237,1
+Ayoze,Pérez,MID,Leicester,265,0.228,1
+Odion,Ighalo,FWD,Man Utd,624,0.228,1
+Willian,Borges Da Silva,MID,Chelsea,113,0.221,0
+Erik,Lamela,MID,Spurs,346,0.214,0
+Andy,Carroll,FWD,Newcastle,520,0.195,1
+Leon,Clarke,FWD,Sheffield Utd,547,0.194,1
+Anthony,Gordon,FWD,Everton,561,0.176,1
+Fabio Henrique,Tavares,MID,Liverpool,197,0.174,0
+Christian,Benteke,FWD,Crystal Palace,129,0.165,0
+Bernard,Anício Caldeira Duarte,MID,Everton,152,0.162,1
+Rúben Gonçalo,Silva Nascimento Vinagre,DEF,Wolves,406,0.16,1
+Kepa,Arrizabalaga,GKP,Chelsea,111,0.156,0
+Nathan,Aké,DEF,Bournemouth,59,0.154,0
+Fabian,Schär,DEF,Newcastle,252,0.151,0
+Bukayo,Saka,MID,Arsenal,541,0.151,0
+Etienne,Capoue,MID,Watford,373,0.149,0
+Josh,Martin,MID,Norwich,632,0.143,1
+Josip,Drmic,FWD,Norwich,434,0.142,0
+Jan,Bednarek,DEF,Southampton,307,0.141,0
+Pierre-Emile,Højbjerg,MID,Southampton,325,0.14,0
+Alexander,Tettey,MID,Norwich,289,0.14,0
+Timm,Klose,DEF,Norwich,272,0.136,0
+Luke,Shaw,DEF,Man Utd,226,0.133,0
+Emil,Krafth,DEF,Newcastle,519,0.133,0
+Enda,Stevens,DEF,Sheffield Utd,291,0.132,0
+Pascal,Groß,MID,Brighton,49,0.125,0
+Mamadou,Sakho,DEF,Crystal Palace,125,0.123,0
+DeAndre,Yedlin,DEF,Newcastle,253,0.121,0
+Christian,Eriksen,MID,Spurs,343,0.12,0
+Oleksandr,Zinchenko,DEF,Man City,206,0.119,0
+Andreas,Christensen,DEF,Chelsea,108,0.119,0
+José,Holebas,DEF,Watford,353,0.119,0
+Leroy,Sané,MID,Man City,216,0.115,0
+Sergio,Agüero,FWD,Man City,210,0.115,0
+Romelu,Lukaku,FWD,Man Utd,232,0.114,0
+Ryan,Fraser,MID,Bournemouth,75,0.11,0
+Alex,Iwobi,MID,Everton,17,0.109,0
+Charlie,Taylor,DEF,Burnley,87,0.109,0
+Çaglar,Söyüncü,DEF,Leicester,164,0.108,0
+Martín,Montoya,DEF,Brighton,38,0.106,0
+Daniel,James,MID,Man Utd,243,0.106,0
+Joelinton Cássio,Apolinário de Lira,FWD,Newcastle,466,0.102,1
+Jack,Cork,MID,Burnley,102,0.101,0
+Michy,Batshuayi,FWD,Chelsea,461,0.101,0
+Nicolás,Otamendi,DEF,Man City,208,0.098,0
+Jack,Stacey,DEF,Bournemouth,446,0.097,0
+Arnaut,Danjuma Groeneveld,MID,Bournemouth,492,0.097,0
+Emiliano,Buendía,MID,Norwich,283,0.097,0
+Christian,Fuchs,DEF,Leicester,163,0.097,0
+Gary,Cahill,DEF,Crystal Palace,503,0.097,0
+Héctor,Bellerín,DEF,Arsenal,2,0.097,0
+Matthew,Longstaff,MID,Newcastle,540,0.095,0
+N'Golo,Kanté,MID,Chelsea,119,0.094,0
+Alexis,Sánchez,MID,Man Utd,240,0.093,0
+Ryan,Bennett,DEF,Leicester,404,0.092,0
+Aaron,Cresswell,DEF,West Ham,376,0.092,0
+Shane,Duffy,DEF,Brighton,37,0.092,0
+Billy,Gilmour,MID,Chelsea,533,0.092,0
+Christian,Atsu,MID,Newcastle,267,0.091,0
+Marko,Arnautovic,FWD,West Ham,385,0.09,0
+Sam,Surridge,FWD,Bournemouth,71,0.09,0
+Shkodran,Mustafi,DEF,Arsenal,1,0.09,0
+Lewis,Cook,MID,Bournemouth,79,0.09,0
+Leandro,Trossard,MID,Brighton,421,0.09,0
+Nampalys,Mendy,MID,Leicester,179,0.089,0
+Yoshinori,Muto,FWD,Newcastle,260,0.089,0
+Gerard,Deulofeu,FWD,Watford,363,0.089,0
+Emerson,Palmieri dos Santos,DEF,Chelsea,107,0.088,0
+Andre,Gray,FWD,Watford,364,0.088,0
+Henrikh,Mkhitaryan,MID,Arsenal,16,0.088,0
+Moussa,Djenepo,MID,Southampton,438,0.088,0
+John,Stones,DEF,Man City,207,0.088,0
+Ben,Osborn,MID,Sheffield Utd,472,0.087,0
+James,Maddison,MID,Leicester,171,0.086,0
+Max,Meyer,MID,Crystal Palace,136,0.085,0
+Charlie,Austin,FWD,Southampton,312,0.085,0
+Patrick,Cutrone,FWD,Wolves,487,0.084,0
+Ashley,Barnes,FWD,Burnley,90,0.083,0
+Robert Kenedy,Nunes do Nascimento,MID,Chelsea,462,0.083,0
+Frederico,Rodrigues de Paula Santos,MID,Man Utd,244,0.082,0
+Joel,Matip,DEF,Liverpool,185,0.082,0
+Ricardo Domingos,Barbosa Pereira,DEF,Leicester,159,0.082,0
+Rachid,Ghezzal,MID,Leicester,173,0.082,0
+Juan,Mata,MID,Man Utd,242,0.082,0
+Xherdan,Shaqiri,MID,Liverpool,194,0.081,0
+Cédric,Soares,DEF,Arsenal,486,0.081,0
+Jose Luis,Mato Sanmartín,FWD,Newcastle,261,0.08,0
+Dennis,Srbeny,FWD,Norwich,279,0.08,0
+Rolando,Aarons,MID,Newcastle,499,0.078,0
+Jake,Vokins,DEF,Southampton,645,0.078,0
+Yan,Valery,DEF,Southampton,306,0.078,0
+Patrick,Roberts,MID,Norwich,435,0.078,0
+Javier,Hernández Balcázar,FWD,West Ham,386,0.078,0
+Benjamin,Mendy,DEF,Man City,204,0.077,0
+Jacob,Murphy,MID,Newcastle,483,0.077,0
+José Ignacio,Peleteiro Romallo,MID,Aston Villa,36,0.077,0
+Sung-yueng,Ki,MID,Newcastle,268,0.077,0
+Ivan,Cavaleiro,MID,Wolves,419,0.076,0
+Kieran,Trippier,DEF,Spurs,334,0.076,0
+Ignacio,Pussetto,MID,Watford,604,0.076,0
+Ashley,Young,DEF,Man Utd,224,0.075,0
+Sofiane,Boufal,MID,Southampton,508,0.075,0
+Tom,Trybull,MID,Norwich,290,0.075,0
+Isaac,Success Ajayi,FWD,Watford,365,0.075,0
+Hélder,Costa,MID,Wolves,418,0.075,0
+Mohamed,Elyounoussi,MID,Southampton,322,0.075,0
+José Heriberto,Izquierdo Mena,MID,Brighton,51,0.075,0
+Ryan,Sessegnon,MID,Spurs,524,0.075,0
+Armando,Broja,FWD,Chelsea,631,0.074,0
+Jack,Young,MID,Newcastle,656,0.074,0
+Morgan,Gibbs-White,MID,Wolves,416,0.074,0
+Ken,Sema,MID,Watford,372,0.074,0
+David,Button,GKP,Brighton,48,0.074,0
+Andrew,Surman,MID,Bournemouth,80,0.074,0
+Thomas,Allan,MID,Newcastle,598,0.074,0
+Jan,Vertonghen,DEF,Spurs,330,0.074,0
+Lewis,Bate,MID,Chelsea,657,0.074,0
+Faustino,Anjorin,MID,Chelsea,630,0.073,0
+Anthony,Knockaert,MID,Brighton,52,0.073,0
+Yerry,Mina,DEF,Everton,142,0.073,0
+Cenk,Tosun,FWD,Everton,146,0.073,0
+Jordon,Ibe,MID,Bournemouth,78,0.073,0
+Jesús,Vallejo Lázaro,DEF,Wolves,473,0.073,0
+Tanguy,Ndombele,MID,Spurs,442,0.073,0
+Chris,Smalling,DEF,Man Utd,223,0.072,0
+Matty,James,MID,Leicester,177,0.072,0
+Jetro,Willems,DEF,Newcastle,498,0.072,0
+Albian,Ajeti,FWD,West Ham,514,0.072,0
+Jack,Colback,MID,Newcastle,482,0.072,0
+Karl,Darlow,GKP,Newcastle,263,0.072,0
+Ethan,Ampadu,MID,Chelsea,121,0.072,0
+Jürgen,Locadia,FWD,Brighton,45,0.072,0
+Paul,Dummett,DEF,Newcastle,255,0.072,0
+Taylor,Perry,MID,Wolves,560,0.071,0
+Steven,Defour,MID,Burnley,99,0.071,0
+Adalberto,Peñaranda,FWD,Watford,648,0.071,0
+Christian,Saydee,MID,Bournemouth,564,0.071,0
+Leonardo,Campana,FWD,Wolves,652,0.071,0
+Gavin,Kilkenny,MID,Bournemouth,565,0.071,0
+Luke,Cundle,MID,Wolves,567,0.071,0
+Owen,Otasowie,MID,Wolves,566,0.071,0
+Gedson,Carvalho Fernandes,MID,Spurs,605,0.071,0
+Bernard,Ashley-Seal,FWD,Wolves,559,0.071,0
+Daniel,Adshead,MID,Norwich,669,0.071,0
+Florian,Lejeune,DEF,Newcastle,257,0.071,0
+Ralf,Fahrmann,GKP,Norwich,449,0.071,0
+Ciaran,Clark,DEF,Newcastle,259,0.071,0
+James,Tomkins,DEF,Crystal Palace,124,0.071,0
+Danny,Ward,GKP,Leicester,170,0.071,0
+Davide,Zappacosta,DEF,Chelsea,109,0.071,0
+Mesut,Özil,MID,Arsenal,15,0.071,0
+Ibrahim,Amadou,MID,Norwich,507,0.071,0
+Adam,Lallana,MID,Liverpool,195,0.071,0
+Luke,Freeman,MID,Sheffield Utd,441,0.07,0
+Daniel,Amartey,MID,Leicester,178,0.07,0
+Ayotomiwa,Dele-Bashiru,MID,Watford,563,0.07,0
+Eldin,Jakupovic,GKP,Leicester,169,0.07,0
+Chris,Mepham,DEF,Bournemouth,61,0.07,0
+Georges-Kévin,Nkoudou,MID,Spurs,527,0.07,0
+Mihai-Alexandru,Dobre,MID,Bournemouth,574,0.07,0
+Sam,Byram,DEF,Norwich,454,0.069,0
+Matteo,Darmian,DEF,Man Utd,230,0.069,0
+José Diogo,Dalot Teixeira,DEF,Man Utd,229,0.069,0
+Simon,Francis,DEF,Bournemouth,62,0.069,0
+Fabian,Delph,DEF,Everton,205,0.069,0
+Michael,McGovern,GKP,Norwich,281,0.069,0
+Domingos,Quina,MID,Watford,375,0.069,0
+Heurelho da Silva,Gomes,GKP,Watford,513,0.069,0
+Jamaal,Lascelles,DEF,Newcastle,258,0.069,0
+Asmir,Begovic,GKP,Bournemouth,72,0.069,0
+Moritz,Leitner,MID,Norwich,288,0.069,0
+Andy,King,MID,Leicester,480,0.069,0
+Liam,Gibson,DEF,Newcastle,610,0.068,0
+Neil,Taylor,DEF,Aston Villa,24,0.068,0
+Wesley,Moraes,FWD,Aston Villa,428,0.068,0
+Jeff,Hendrick,MID,Burnley,100,0.068,0
+John,Ruddy,GKP,Wolves,412,0.068,0
+Pontus,Dahlberg,GKP,Watford,367,0.068,0
+Frederick,Woodman,GKP,Newcastle,264,0.068,0
+Darnell,Johnson,DEF,Leicester,662,0.068,0
+Charlie,Daniels,DEF,Bournemouth,60,0.068,0
+Dejan,Lovren,DEF,Liverpool,186,0.068,0
+Robert,Elliot,GKP,Newcastle,573,0.068,0
+Mario,Lemina,MID,Southampton,324,0.068,0
+Connor,Wickham,FWD,Crystal Palace,130,0.068,0
+Artur,Boruc,GKP,Bournemouth,73,0.068,0
+Mark,Travers,GKP,Bournemouth,74,0.068,0
+Jonathan,Kodjia,FWD,Aston Villa,26,0.067,0
+Addji Keaninkin Marc-Israel,Guehi,DEF,Chelsea,545,0.067,0
+Juan,Foyth,DEF,Spurs,335,0.067,0
+Florin,Andone,FWD,Brighton,46,0.067,0
+Fikayo,Tomori,DEF,Chelsea,529,0.067,0
+Marcos,Rojo,DEF,Man Utd,227,0.067,0
+Giovanni,McGregor,MID,Crystal Palace,608,0.066,0
+Lee,Grant,GKP,Man Utd,237,0.066,0
+Filip,Benkovic,DEF,Leicester,597,0.066,0
+Phil,Jones,DEF,Man Utd,231,0.066,0
+Sam,Gallagher,FWD,Southampton,316,0.066,0
+Victor,Wanyama,MID,Spurs,348,0.066,0
+John-Kymani,Gordon,MID,Crystal Palace,668,0.066,0
+Víctor,Camarasa,MID,Crystal Palace,510,0.066,0
+Jacob,Maddox,MID,Southampton,663,0.066,0
+Will,Ferry,MID,Southampton,654,0.066,0
+Brandon,Pierrick,MID,Crystal Palace,580,0.066,0
+Alexandre,Jankewitz,MID,Southampton,649,0.066,0
+Nya,Kirby,MID,Crystal Palace,588,0.066,0
+Nathan,Tella,MID,Southampton,633,0.066,0
+James,Daly,FWD,Crystal Palace,581,0.066,0
+Angel,Gomes,MID,Man Utd,245,0.066,0
+Laurent,Koscielny,DEF,Arsenal,7,0.065,0
+Callum,Slattery,MID,Southampton,327,0.065,0
+Idrissa,Gueye,MID,Everton,156,0.065,0
+Nacho,Monreal,DEF,Arsenal,6,0.065,0
+Borja,González Tomás,FWD,Aston Villa,623,0.065,0
+Oskar,Buur,DEF,Wolves,587,0.065,0
+Ademola,Lookman,MID,Everton,155,0.065,0
+Tyreke,Johnson,MID,Southampton,326,0.065,0
+Daniel,N'Lundulu,FWD,Southampton,535,0.065,0
+Philip,Heise,DEF,Norwich,484,0.065,0
+Sebastian,Prödl,DEF,Watford,361,0.065,0
+Danilo Luiz,da Silva,DEF,Man City,209,0.065,0
+Archie,Mair,GKP,Norwich,551,0.065,0
+Sergio,Romero,GKP,Man Utd,236,0.065,0
+Angus,Gunn,GKP,Southampton,319,0.064,0
+Dimitri,Foulquier,DEF,Watford,542,0.064,0
+Eric,Bailly,DEF,Man Utd,228,0.064,0
+Jack,Simpson,DEF,Bournemouth,66,0.064,0
+Will,Norris,GKP,Wolves,413,0.064,0
+Marc,Navarro,DEF,Watford,360,0.064,0
+Luke,Dreher,MID,Crystal Palace,140,0.064,0
+Mark,Duffy,MID,Sheffield Utd,300,0.064,0
+Maarten,Stekelenburg,GKP,Everton,149,0.064,0
+Vincent,Janssen,FWD,Spurs,339,0.064,0
+Andreas,Pereira,MID,Man Utd,246,0.063,0
+Ryan,Giles,DEF,Wolves,607,0.063,0
+Harvey,White,MID,Spurs,634,0.063,0
+Fraser,Forster,GKP,Southampton,317,0.063,0
+Wesley,Hoedt,DEF,Southampton,485,0.063,0
+Ondrej,Duda,MID,Norwich,601,0.062,0
+Luke,Amos,MID,Spurs,351,0.062,0
+Daryl,Janmaat,DEF,Watford,359,0.062,0
+Axel,Tuanzebe,DEF,Man Utd,481,0.062,0
+Troy,Parrott,FWD,Spurs,509,0.062,0
+Jean-Philippe,Gbamin,MID,Everton,497,0.062,0
+Kevin,Danso,DEF,Southampton,532,0.062,0
+Maya,Yoshida,DEF,Southampton,310,0.062,0
+Steven,Alzate,MID,Brighton,537,0.062,0
+Callum,Robinson,MID,Sheffield Utd,453,0.061,0
+James,Garner,MID,Man Utd,250,0.061,0
+Matthew,Lowton,DEF,Burnley,85,0.061,0
+Matthew,Clarke,DEF,Brighton,43,0.061,0
+Jack,Wilshere,MID,West Ham,394,0.061,0
+Claudio,Bravo,GKP,Man City,213,0.061,0
+Leon,Balogun,DEF,Brighton,40,0.061,0
+Max,Kilman,DEF,Wolves,408,0.061,0
+Harry,Lewis,GKP,Southampton,548,0.06,0
+Michel,Vorm,GKP,Spurs,555,0.06,0
+Kayne,Ramsay,DEF,Southampton,311,0.06,0
+Stephen,Henderson,GKP,Crystal Palace,556,0.06,0
+José Ángel,Esmorís Tasende,DEF,Man City,440,0.06,0
+Gaëtan,Bong,DEF,Brighton,41,0.06,0
+Nikola,Tavares,DEF,Crystal Palace,635,0.06,0
+Tommy,Doyle,MID,Man City,644,0.06,0
+Beram,Kayal,MID,Brighton,56,0.06,0
+Aaron,Lennon,MID,Burnley,430,0.06,0
+Indiana,Vassilev,MID,Aston Villa,600,0.06,0
+Tahith,Chong,MID,Man Utd,249,0.06,0
+Andre,Green,MID,Aston Villa,32,0.059,0
+Sokratis,Papastathopoulos,DEF,Arsenal,5,0.059,0
+Sam,Woods,DEF,Crystal Palace,578,0.059,0
+Wayne,Hennessey,GKP,Crystal Palace,132,0.059,0
+Mason,Holgate,DEF,Everton,478,0.059,0
+Oumar,Niasse,FWD,Everton,570,0.058,0
+Mace,Goodridge,MID,Burnley,571,0.058,0
+Carl,Jenkinson,DEF,Arsenal,9,0.058,0
+Morgan,Schneiderlin,MID,Everton,158,0.058,0
+Bernardo,Costa Da Rosa,MID,West Ham,595,0.058,0
+Fabián,Balbuena,DEF,West Ham,382,0.058,0
+Joel,Mumbongo,FWD,Burnley,665,0.058,0
+Ellis,Simms,FWD,Everton,667,0.058,0
+Max,Thompson,FWD,Burnley,640,0.058,0
+Pedro,Obiang,MID,West Ham,400,0.058,0
+Cole,Palmer,MID,Man City,643,0.058,0
+Alfie,Whiteman,GKP,Spurs,543,0.058,0
+Conor,Coventry,MID,West Ham,664,0.058,0
+Alfie,Lewis,MID,West Ham,651,0.058,0
+Josh,Benson,MID,Burnley,653,0.058,0
+Alexandre Nascimento,Costa Silva,FWD,West Ham,387,0.057,0
+Alex,Cochrane,DEF,Brighton,666,0.057,0
+Tyreece,John-Jules,FWD,Arsenal,585,0.057,0
+Henri,Lansbury,MID,Aston Villa,35,0.057,0
+Roberto,Jimenez Gago,GKP,West Ham,450,0.057,0
+Dennis,Cirkin,DEF,Spurs,655,0.057,0
+Tudor,Baluta,DEF,Brighton,536,0.057,0
+Calum,Chambers,DEF,Arsenal,467,0.057,0
+Nathan,Holland,MID,West Ham,568,0.057,0
+Beni,Baningime,MID,Everton,557,0.057,0
+Brandon,Austin,GKP,Spurs,558,0.057,0
+Birkir,Bjarnason,MID,Aston Villa,33,0.056,0
+Carlos,Sánchez,MID,West Ham,397,0.056,0
+Craig,Cathcart,DEF,Watford,358,0.056,0
+Kaine,Hayden,MID,Aston Villa,659,0.056,0
+Rafael,Camacho,MID,Liverpool,201,0.056,0
+Bailey,Peacock-Farrell,GKP,Burnley,495,0.056,0
+Ravel,Morrison,MID,Sheffield Utd,456,0.056,0
+Grady,Diangana,MID,West Ham,398,0.056,0
+Emile,Smith Rowe,MID,Arsenal,576,0.056,0
+Konstantinos,Mavropanos,DEF,Arsenal,8,0.056,0
+Simon,Mignolet,GKP,Liverpool,190,0.056,0
+Joe,Hart,GKP,Burnley,95,0.056,0
+Pablo,Marí,DEF,Arsenal,617,0.055,0
+Ezequiel,Schelotto,DEF,Brighton,546,0.055,0
+Paulo,Gazzaniga,GKP,Spurs,341,0.055,0
+Harvey,Elliott,MID,Liverpool,550,0.055,0
+Panagiotis,Retsos,DEF,Sheffield Utd,625,0.055,0
+Daniel,Drinkwater,MID,Aston Villa,120,0.055,0
+Lewis,Gibson,DEF,Everton,477,0.055,0
+Jonas,Lössl,GKP,Everton,479,0.055,0
+Grant,Hanley,DEF,Norwich,277,0.054,0
+Mohamed,Elneny,MID,Arsenal,20,0.054,0
+Michael,Verrips,GKP,Sheffield Utd,521,0.054,0
+Pablo,Zabaleta,DEF,West Ham,379,0.054,0
+Caoimhin,Kelleher,GKP,Liverpool,531,0.054,0
+Tom,Heaton,GKP,Aston Villa,94,0.054,0
+Phil,Jagielka,DEF,Sheffield Utd,444,0.054,0
+Jack,Rodwell,MID,Sheffield Utd,591,0.054,0
+Jed,Steer,GKP,Aston Villa,429,0.053,0
+Winston,Reid,DEF,West Ham,383,0.053,0
+Ben,Gibson,DEF,Burnley,89,0.053,0
+Muhamed,Bešić,MID,Sheffield Utd,522,0.053,0
+Jake,Eastwood,GKP,Sheffield Utd,299,0.053,0
+Bjorn,Engels,DEF,Aston Villa,455,0.053,0
+Lukas,Jensen,GKP,Burnley,641,0.052,0
+Abd-Al-Ali Morakinyo Olaposi,Koiki,DEF,Burnley,596,0.052,0
+Jimmy,Dunne,DEF,Burnley,638,0.052,0
+Matthew,Smith,DEF,Arsenal,647,0.052,0
+Matt,Macey,GKP,Arsenal,646,0.052,0
+Rhian,Brewster,FWD,Liverpool,464,0.052,0
+Bobby,Thomas,DEF,Burnley,639,0.052,0
+Zech,Medley,DEF,Arsenal,636,0.052,0
+James,Chester,DEF,Aston Villa,23,0.052,0
+Andy,Lonergan,GKP,Liverpool,530,0.052,0
+João Manuel,Neves Virgínia,GKP,Everton,629,0.052,0
+Joseph,Anang,GKP,West Ham,582,0.052,0
+Taylor,Harwood-Bellis,DEF,Man City,642,0.052,0
+Scott,Carson,GKP,Man City,562,0.052,0
+Lovre,Kalinic,GKP,Aston Villa,474,0.052,0
+Darren,Randolph,GKP,West Ham,606,0.052,0
+Rhu-endly,Martina,DEF,Everton,577,0.052,0
+Gonçalo Bento,Soares Cardoso,DEF,West Ham,594,0.052,0
+Robert,Snodgrass,MID,West Ham,393,0.051,0
+Kieron,Freeman,DEF,Sheffield Utd,292,0.051,0
+Anthony,Driscoll-Glennon,DEF,Burnley,572,0.05,0
+Richard,Stearman,DEF,Sheffield Utd,296,0.05,0
+Ki-Jana,Hoever,DEF,Liverpool,628,0.048,0
+Nathaniel,Phillips,DEF,Liverpool,589,0.048,0
+Arthur,Masuaku,DEF,West Ham,378,0.047,0
+David,Martin,GKP,West Ham,553,0.046,0
+Jordan,Henderson,MID,Liverpool,198,0.044,0
+Simon,Moore,GKP,Sheffield Utd,436,0.044,0
+Jeremy,Ngakia,DEF,West Ham,593,0.041,0
+Martin,Kelly,DEF,Crystal Palace,128,0.038,0
+Adrián,San Miguel del Castillo,GKP,Liverpool,526,0.037,0
+Japhet,Tanganga,DEF,Spurs,583,0.035,0
+Gabriel Teodoro,Martinelli Silva,FWD,Arsenal,504,0.034,0
+Jack,O'Connell,DEF,Sheffield Utd,293,0.028,0
+Matteo,Guendouzi,MID,Arsenal,21,0.027,0
+David,McGoldrick,FWD,Sheffield Utd,303,0.025,0
+Ahmed,El Mohamady,DEF,Aston Villa,22,0.022,0
+Sean,Longstaff,MID,Newcastle,270,0.015,1
+Bernd,Leno,GKP,Arsenal,14,0.01,0
+Lys,Mousset,FWD,Sheffield Utd,70,0.001,0
+Ørjan,Nyland,GKP,Aston Villa,27,0.001,0
+Ben,Mee,DEF,Burnley,83,-0.005,0
+Oliver,Norwood,MID,Sheffield Utd,302,-0.019,1
+Michail,Antonio,MID,West Ham,389,-0.019,0
+Benjamin,Chilwell,DEF,Leicester,161,-0.035,0
+George,Hirst,FWD,Leicester,661,-0.039,1
+Mario,Vrancic,MID,Norwich,282,-0.092,1
+Adam,Idah,FWD,Norwich,538,-0.185,1
+Christoph,Zimmermann,DEF,Norwich,275,-0.496,-1
+Pedro,Lomba Neto,MID,Wolves,528,-0.838,0
+Jonny,Evans,DEF,Leicester,162,-1.353,-2

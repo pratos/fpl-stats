@@ -1,0 +1,761 @@
+,id,team,fixture,gw,fdr,code,pulse_id
+0,1,Arsenal,a,gw_1,2,3,1
+1,1,Arsenal,h,gw_10,3,3,1
+2,1,Arsenal,h,gw_11,4,3,1
+3,1,Arsenal,a,gw_12,3,3,1
+4,1,Arsenal,h,gw_13,3,3,1
+5,1,Arsenal,a,gw_14,2,3,1
+6,1,Arsenal,h,gw_15,2,3,1
+7,1,Arsenal,a,gw_16,2,3,1
+8,1,Arsenal,h,gw_17,4,3,1
+9,1,Arsenal,a,gw_18,4,3,1
+10,1,Arsenal,a,gw_19,2,3,1
+11,1,Arsenal,h,gw_2,3,3,1
+12,1,Arsenal,h,gw_20,4,3,1
+13,1,Arsenal,h,gw_21,4,3,1
+14,1,Arsenal,a,gw_22,3,3,1
+15,1,Arsenal,h,gw_23,3,3,1
+16,1,Arsenal,a,gw_24,4,3,1
+17,1,Arsenal,a,gw_25,3,3,1
+18,1,Arsenal,h,gw_26,2,3,1
+19,1,Arsenal,h,gw_27,2,3,1
+20,1,Arsenal,h,gw_29,2,3,1
+21,1,Arsenal,a,gw_3,5,3,1
+22,1,Arsenal,a,gw_30,4,3,1
+23,1,Arsenal,a,gw_30,2,3,1
+24,1,Arsenal,a,gw_31,2,3,1
+25,1,Arsenal,h,gw_32,2,3,1
+26,1,Arsenal,a,gw_33,3,3,1
+27,1,Arsenal,h,gw_34,3,3,1
+28,1,Arsenal,a,gw_35,4,3,1
+29,1,Arsenal,h,gw_36,4,3,1
+30,1,Arsenal,a,gw_37,2,3,1
+31,1,Arsenal,h,gw_38,2,3,1
+32,1,Arsenal,h,gw_4,3,3,1
+33,1,Arsenal,a,gw_5,3,3,1
+34,1,Arsenal,h,gw_6,2,3,1
+35,1,Arsenal,a,gw_7,4,3,1
+36,1,Arsenal,h,gw_8,2,3,1
+37,1,Arsenal,a,gw_9,3,3,1
+38,2,Aston Villa,a,gw_1,4,7,2
+39,2,Aston Villa,a,gw_10,4,7,2
+40,2,Aston Villa,h,gw_11,4,7,2
+41,2,Aston Villa,a,gw_12,3,7,2
+42,2,Aston Villa,h,gw_13,2,7,2
+43,2,Aston Villa,a,gw_14,4,7,2
+44,2,Aston Villa,a,gw_15,4,7,2
+45,2,Aston Villa,h,gw_16,3,7,2
+46,2,Aston Villa,a,gw_17,3,7,2
+47,2,Aston Villa,h,gw_18,3,7,2
+48,2,Aston Villa,h,gw_19,2,7,2
+49,2,Aston Villa,h,gw_2,2,7,2
+50,2,Aston Villa,a,gw_20,3,7,2
+51,2,Aston Villa,a,gw_21,3,7,2
+52,2,Aston Villa,h,gw_22,4,7,2
+53,2,Aston Villa,a,gw_23,2,7,2
+54,2,Aston Villa,h,gw_24,2,7,2
+55,2,Aston Villa,a,gw_25,2,7,2
+56,2,Aston Villa,h,gw_26,3,7,2
+57,2,Aston Villa,a,gw_27,2,7,2
+58,2,Aston Villa,a,gw_29,3,7,2
+59,2,Aston Villa,h,gw_3,2,7,2
+60,2,Aston Villa,h,gw_30,3,7,2
+61,2,Aston Villa,h,gw_30,4,7,2
+62,2,Aston Villa,a,gw_31,2,7,2
+63,2,Aston Villa,h,gw_32,4,7,2
+64,2,Aston Villa,a,gw_33,5,7,2
+65,2,Aston Villa,h,gw_34,4,7,2
+66,2,Aston Villa,h,gw_35,3,7,2
+67,2,Aston Villa,a,gw_36,4,7,2
+68,2,Aston Villa,h,gw_37,3,7,2
+69,2,Aston Villa,a,gw_38,2,7,2
+70,2,Aston Villa,a,gw_4,3,7,2
+71,2,Aston Villa,h,gw_5,2,7,2
+72,2,Aston Villa,a,gw_6,4,7,2
+73,2,Aston Villa,h,gw_7,3,7,2
+74,2,Aston Villa,a,gw_8,2,7,2
+75,2,Aston Villa,h,gw_9,2,7,2
+76,3,Bournemouth,h,gw_1,3,91,127
+77,3,Bournemouth,a,gw_10,3,91,127
+78,3,Bournemouth,h,gw_11,4,91,127
+79,3,Bournemouth,a,gw_12,2,91,127
+80,3,Bournemouth,h,gw_13,4,91,127
+81,3,Bournemouth,a,gw_14,4,91,127
+82,3,Bournemouth,a,gw_15,3,91,127
+83,3,Bournemouth,h,gw_16,4,91,127
+84,3,Bournemouth,a,gw_17,4,91,127
+85,3,Bournemouth,h,gw_18,3,91,127
+86,3,Bournemouth,h,gw_19,3,91,127
+87,3,Bournemouth,a,gw_2,2,91,127
+88,3,Bournemouth,a,gw_20,2,91,127
+89,3,Bournemouth,a,gw_21,2,91,127
+90,3,Bournemouth,h,gw_22,2,91,127
+91,3,Bournemouth,a,gw_23,2,91,127
+92,3,Bournemouth,h,gw_24,2,91,127
+93,3,Bournemouth,h,gw_25,2,91,127
+94,3,Bournemouth,a,gw_26,3,91,127
+95,3,Bournemouth,a,gw_27,3,91,127
+96,3,Bournemouth,h,gw_28,4,91,127
+97,3,Bournemouth,a,gw_29,5,91,127
+98,3,Bournemouth,h,gw_3,4,91,127
+99,3,Bournemouth,h,gw_30,3,91,127
+100,3,Bournemouth,a,gw_31,3,91,127
+101,3,Bournemouth,h,gw_32,2,91,127
+102,3,Bournemouth,a,gw_33,4,91,127
+103,3,Bournemouth,h,gw_34,3,91,127
+104,3,Bournemouth,h,gw_35,3,91,127
+105,3,Bournemouth,a,gw_36,4,91,127
+106,3,Bournemouth,h,gw_37,3,91,127
+107,3,Bournemouth,a,gw_38,4,91,127
+108,3,Bournemouth,a,gw_4,3,91,127
+109,3,Bournemouth,h,gw_5,2,91,127
+110,3,Bournemouth,a,gw_6,2,91,127
+111,3,Bournemouth,h,gw_7,2,91,127
+112,3,Bournemouth,a,gw_8,4,91,127
+113,3,Bournemouth,h,gw_9,2,91,127
+114,4,Brighton,a,gw_1,3,36,131
+115,4,Brighton,h,gw_10,2,36,131
+116,4,Brighton,h,gw_11,2,36,131
+117,4,Brighton,a,gw_12,4,36,131
+118,4,Brighton,h,gw_13,3,36,131
+119,4,Brighton,a,gw_14,5,36,131
+120,4,Brighton,a,gw_15,4,36,131
+121,4,Brighton,h,gw_16,4,36,131
+122,4,Brighton,a,gw_17,3,36,131
+123,4,Brighton,h,gw_18,3,36,131
+124,4,Brighton,a,gw_19,4,36,131
+125,4,Brighton,h,gw_2,2,36,131
+126,4,Brighton,h,gw_20,2,36,131
+127,4,Brighton,h,gw_21,4,36,131
+128,4,Brighton,a,gw_22,4,36,131
+129,4,Brighton,h,gw_23,2,36,131
+130,4,Brighton,a,gw_24,2,36,131
+131,4,Brighton,a,gw_25,2,36,131
+132,4,Brighton,h,gw_26,2,36,131
+133,4,Brighton,a,gw_27,3,36,131
+134,4,Brighton,h,gw_28,3,36,131
+135,4,Brighton,a,gw_29,3,36,131
+136,4,Brighton,h,gw_3,3,36,131
+137,4,Brighton,h,gw_30,3,36,131
+138,4,Brighton,a,gw_31,3,36,131
+139,4,Brighton,h,gw_32,4,36,131
+140,4,Brighton,a,gw_33,2,36,131
+141,4,Brighton,h,gw_34,4,36,131
+142,4,Brighton,h,gw_35,4,36,131
+143,4,Brighton,a,gw_36,2,36,131
+144,4,Brighton,h,gw_37,2,36,131
+145,4,Brighton,a,gw_38,3,36,131
+146,4,Brighton,a,gw_4,4,36,131
+147,4,Brighton,h,gw_5,3,36,131
+148,4,Brighton,a,gw_6,2,36,131
+149,4,Brighton,a,gw_7,4,36,131
+150,4,Brighton,h,gw_8,3,36,131
+151,4,Brighton,a,gw_9,2,36,131
+152,5,Burnley,h,gw_1,3,90,43
+153,5,Burnley,h,gw_10,4,90,43
+154,5,Burnley,a,gw_11,3,90,43
+155,5,Burnley,h,gw_12,2,90,43
+156,5,Burnley,a,gw_13,3,90,43
+157,5,Burnley,h,gw_14,3,90,43
+158,5,Burnley,h,gw_15,4,90,43
+159,5,Burnley,a,gw_16,4,90,43
+160,5,Burnley,h,gw_17,2,90,43
+161,5,Burnley,a,gw_18,2,90,43
+162,5,Burnley,a,gw_19,4,90,43
+163,5,Burnley,a,gw_2,4,90,43
+164,5,Burnley,h,gw_20,4,90,43
+165,5,Burnley,h,gw_21,2,90,43
+166,5,Burnley,a,gw_22,4,90,43
+167,5,Burnley,h,gw_23,3,90,43
+168,5,Burnley,a,gw_24,4,90,43
+169,5,Burnley,h,gw_25,3,90,43
+170,5,Burnley,a,gw_26,2,90,43
+171,5,Burnley,h,gw_27,2,90,43
+172,5,Burnley,a,gw_28,2,90,43
+173,5,Burnley,h,gw_29,3,90,43
+174,5,Burnley,a,gw_3,3,90,43
+175,5,Burnley,a,gw_30,4,90,43
+176,5,Burnley,h,gw_31,2,90,43
+177,5,Burnley,a,gw_32,3,90,43
+178,5,Burnley,h,gw_33,3,90,43
+179,5,Burnley,a,gw_34,2,90,43
+180,5,Burnley,a,gw_35,5,90,43
+181,5,Burnley,h,gw_36,4,90,43
+182,5,Burnley,a,gw_37,2,90,43
+183,5,Burnley,h,gw_38,2,90,43
+184,5,Burnley,h,gw_4,4,90,43
+185,5,Burnley,a,gw_5,2,90,43
+186,5,Burnley,h,gw_6,2,90,43
+187,5,Burnley,a,gw_7,2,90,43
+188,5,Burnley,h,gw_8,2,90,43
+189,5,Burnley,a,gw_9,3,90,43
+190,6,Chelsea,a,gw_1,4,8,4
+191,6,Chelsea,a,gw_10,3,8,4
+192,6,Chelsea,a,gw_11,3,8,4
+193,6,Chelsea,h,gw_12,3,8,4
+194,6,Chelsea,a,gw_13,4,8,4
+195,6,Chelsea,h,gw_14,2,8,4
+196,6,Chelsea,h,gw_15,2,8,4
+197,6,Chelsea,a,gw_16,4,8,4
+198,6,Chelsea,h,gw_17,2,8,4
+199,6,Chelsea,a,gw_18,4,8,4
+200,6,Chelsea,h,gw_19,3,8,4
+201,6,Chelsea,h,gw_2,3,8,4
+202,6,Chelsea,a,gw_20,4,8,4
+203,6,Chelsea,a,gw_21,2,8,4
+204,6,Chelsea,h,gw_22,3,8,4
+205,6,Chelsea,a,gw_23,2,8,4
+206,6,Chelsea,h,gw_24,3,8,4
+207,6,Chelsea,a,gw_25,3,8,4
+208,6,Chelsea,h,gw_26,4,8,4
+209,6,Chelsea,h,gw_27,3,8,4
+210,6,Chelsea,a,gw_28,2,8,4
+211,6,Chelsea,h,gw_29,2,8,4
+212,6,Chelsea,a,gw_3,2,8,4
+213,6,Chelsea,a,gw_30,2,8,4
+214,6,Chelsea,h,gw_31,4,8,4
+215,6,Chelsea,a,gw_32,2,8,4
+216,6,Chelsea,h,gw_33,2,8,4
+217,6,Chelsea,a,gw_34,3,8,4
+218,6,Chelsea,a,gw_35,3,8,4
+219,6,Chelsea,h,gw_36,2,8,4
+220,6,Chelsea,a,gw_37,5,8,4
+221,6,Chelsea,h,gw_38,4,8,4
+222,6,Chelsea,h,gw_4,3,8,4
+223,6,Chelsea,a,gw_5,3,8,4
+224,6,Chelsea,h,gw_6,4,8,4
+225,6,Chelsea,h,gw_7,2,8,4
+226,6,Chelsea,a,gw_8,2,8,4
+227,6,Chelsea,h,gw_9,2,8,4
+228,7,Crystal Palace,h,gw_1,2,31,6
+229,7,Crystal Palace,a,gw_10,4,31,6
+230,7,Crystal Palace,h,gw_11,3,31,6
+231,7,Crystal Palace,a,gw_12,4,31,6
+232,7,Crystal Palace,h,gw_13,4,31,6
+233,7,Crystal Palace,a,gw_14,3,31,6
+234,7,Crystal Palace,h,gw_15,2,31,6
+235,7,Crystal Palace,a,gw_16,3,31,6
+236,7,Crystal Palace,h,gw_17,2,31,6
+237,7,Crystal Palace,a,gw_18,2,31,6
+238,7,Crystal Palace,h,gw_19,2,31,6
+239,7,Crystal Palace,a,gw_2,3,31,6
+240,7,Crystal Palace,a,gw_20,2,31,6
+241,7,Crystal Palace,a,gw_21,2,31,6
+242,7,Crystal Palace,h,gw_22,3,31,6
+243,7,Crystal Palace,a,gw_23,4,31,6
+244,7,Crystal Palace,h,gw_24,3,31,6
+245,7,Crystal Palace,h,gw_25,3,31,6
+246,7,Crystal Palace,a,gw_26,4,31,6
+247,7,Crystal Palace,h,gw_27,2,31,6
+248,7,Crystal Palace,a,gw_28,2,31,6
+249,7,Crystal Palace,h,gw_29,2,31,6
+250,7,Crystal Palace,a,gw_3,4,31,6
+251,7,Crystal Palace,a,gw_30,2,31,6
+252,7,Crystal Palace,a,gw_31,5,31,6
+253,7,Crystal Palace,h,gw_32,3,31,6
+254,7,Crystal Palace,a,gw_33,3,31,6
+255,7,Crystal Palace,h,gw_34,4,31,6
+256,7,Crystal Palace,a,gw_35,2,31,6
+257,7,Crystal Palace,h,gw_36,4,31,6
+258,7,Crystal Palace,a,gw_37,3,31,6
+259,7,Crystal Palace,h,gw_38,3,31,6
+260,7,Crystal Palace,h,gw_4,2,31,6
+261,7,Crystal Palace,a,gw_5,4,31,6
+262,7,Crystal Palace,h,gw_6,4,31,6
+263,7,Crystal Palace,h,gw_7,2,31,6
+264,7,Crystal Palace,a,gw_8,2,31,6
+265,7,Crystal Palace,h,gw_9,4,31,6
+266,8,Everton,a,gw_1,3,11,7
+267,8,Everton,a,gw_10,2,11,7
+268,8,Everton,h,gw_11,3,11,7
+269,8,Everton,a,gw_12,2,11,7
+270,8,Everton,h,gw_13,2,11,7
+271,8,Everton,a,gw_14,3,11,7
+272,8,Everton,a,gw_15,5,11,7
+273,8,Everton,h,gw_16,4,11,7
+274,8,Everton,a,gw_17,4,11,7
+275,8,Everton,h,gw_18,3,11,7
+276,8,Everton,h,gw_19,3,11,7
+277,8,Everton,h,gw_2,2,11,7
+278,8,Everton,a,gw_20,2,11,7
+279,8,Everton,a,gw_21,4,11,7
+280,8,Everton,h,gw_22,2,11,7
+281,8,Everton,a,gw_23,2,11,7
+282,8,Everton,h,gw_24,2,11,7
+283,8,Everton,a,gw_25,3,11,7
+284,8,Everton,h,gw_26,3,11,7
+285,8,Everton,a,gw_27,4,11,7
+286,8,Everton,h,gw_28,4,11,7
+287,8,Everton,a,gw_29,4,11,7
+288,8,Everton,a,gw_3,2,11,7
+289,8,Everton,h,gw_30,4,11,7
+290,8,Everton,a,gw_31,2,11,7
+291,8,Everton,h,gw_32,3,11,7
+292,8,Everton,a,gw_33,4,11,7
+293,8,Everton,h,gw_34,3,11,7
+294,8,Everton,a,gw_35,3,11,7
+295,8,Everton,h,gw_36,2,11,7
+296,8,Everton,a,gw_37,3,11,7
+297,8,Everton,h,gw_38,2,11,7
+298,8,Everton,h,gw_4,4,11,7
+299,8,Everton,a,gw_5,2,11,7
+300,8,Everton,h,gw_6,3,11,7
+301,8,Everton,h,gw_7,4,11,7
+302,8,Everton,a,gw_8,3,11,7
+303,8,Everton,h,gw_9,2,11,7
+304,9,Leicester,h,gw_1,4,13,26
+305,9,Leicester,a,gw_10,2,13,26
+306,9,Leicester,a,gw_11,3,13,26
+307,9,Leicester,h,gw_12,3,13,26
+308,9,Leicester,a,gw_13,2,13,26
+309,9,Leicester,h,gw_14,2,13,26
+310,9,Leicester,h,gw_15,2,13,26
+311,9,Leicester,a,gw_16,2,13,26
+312,9,Leicester,h,gw_17,2,13,26
+313,9,Leicester,a,gw_18,4,13,26
+314,9,Leicester,h,gw_19,4,13,26
+315,9,Leicester,a,gw_2,4,13,26
+316,9,Leicester,a,gw_20,2,13,26
+317,9,Leicester,a,gw_21,2,13,26
+318,9,Leicester,h,gw_22,3,13,26
+319,9,Leicester,a,gw_23,3,13,26
+320,9,Leicester,h,gw_24,2,13,26
+321,9,Leicester,h,gw_25,4,13,26
+322,9,Leicester,a,gw_26,3,13,26
+323,9,Leicester,h,gw_27,4,13,26
+324,9,Leicester,a,gw_28,2,13,26
+325,9,Leicester,h,gw_29,2,13,26
+326,9,Leicester,a,gw_3,3,13,26
+327,9,Leicester,a,gw_30,3,13,26
+328,9,Leicester,h,gw_31,2,13,26
+329,9,Leicester,a,gw_32,4,13,26
+330,9,Leicester,h,gw_33,3,13,26
+331,9,Leicester,a,gw_34,4,13,26
+332,9,Leicester,a,gw_35,2,13,26
+333,9,Leicester,h,gw_36,3,13,26
+334,9,Leicester,a,gw_37,4,13,26
+335,9,Leicester,h,gw_38,4,13,26
+336,9,Leicester,h,gw_4,2,13,26
+337,9,Leicester,a,gw_5,4,13,26
+338,9,Leicester,h,gw_6,3,13,26
+339,9,Leicester,h,gw_7,2,13,26
+340,9,Leicester,a,gw_8,5,13,26
+341,9,Leicester,h,gw_9,3,13,26
+342,10,Liverpool,h,gw_1,2,14,10
+343,10,Liverpool,h,gw_10,3,14,10
+344,10,Liverpool,a,gw_11,2,14,10
+345,10,Liverpool,h,gw_12,4,14,10
+346,10,Liverpool,a,gw_13,3,14,10
+347,10,Liverpool,h,gw_14,2,14,10
+348,10,Liverpool,h,gw_15,2,14,10
+349,10,Liverpool,a,gw_16,2,14,10
+350,10,Liverpool,h,gw_17,2,14,10
+351,10,Liverpool,a,gw_19,3,14,10
+352,10,Liverpool,a,gw_2,2,14,10
+353,10,Liverpool,h,gw_20,4,14,10
+354,10,Liverpool,h,gw_21,3,14,10
+355,10,Liverpool,a,gw_22,4,14,10
+356,10,Liverpool,h,gw_23,4,14,10
+357,10,Liverpool,a,gw_24,3,14,10
+358,10,Liverpool,a,gw_24,2,14,10
+359,10,Liverpool,h,gw_25,3,14,10
+360,10,Liverpool,a,gw_26,2,14,10
+361,10,Liverpool,h,gw_27,2,14,10
+362,10,Liverpool,a,gw_28,3,14,10
+363,10,Liverpool,h,gw_29,2,14,10
+364,10,Liverpool,h,gw_3,3,14,10
+365,10,Liverpool,a,gw_30,4,14,10
+366,10,Liverpool,h,gw_31,3,14,10
+367,10,Liverpool,a,gw_32,4,14,10
+368,10,Liverpool,h,gw_33,2,14,10
+369,10,Liverpool,a,gw_34,2,14,10
+370,10,Liverpool,h,gw_35,3,14,10
+371,10,Liverpool,a,gw_36,4,14,10
+372,10,Liverpool,h,gw_37,4,14,10
+373,10,Liverpool,a,gw_38,2,14,10
+374,10,Liverpool,a,gw_4,3,14,10
+375,10,Liverpool,h,gw_5,2,14,10
+376,10,Liverpool,a,gw_6,4,14,10
+377,10,Liverpool,a,gw_7,3,14,10
+378,10,Liverpool,h,gw_8,3,14,10
+379,10,Liverpool,a,gw_9,4,14,10
+380,11,Man City,a,gw_1,2,43,11
+381,11,Man City,h,gw_10,2,43,11
+382,11,Man City,h,gw_11,3,43,11
+383,11,Man City,a,gw_12,5,43,11
+384,11,Man City,h,gw_13,4,43,11
+385,11,Man City,a,gw_14,2,43,11
+386,11,Man City,a,gw_15,3,43,11
+387,11,Man City,h,gw_16,4,43,11
+388,11,Man City,a,gw_17,4,43,11
+389,11,Man City,h,gw_18,3,43,11
+390,11,Man City,a,gw_19,3,43,11
+391,11,Man City,h,gw_2,3,43,11
+392,11,Man City,h,gw_20,3,43,11
+393,11,Man City,h,gw_21,2,43,11
+394,11,Man City,a,gw_22,2,43,11
+395,11,Man City,h,gw_23,3,43,11
+396,11,Man City,a,gw_24,3,43,11
+397,11,Man City,a,gw_25,4,43,11
+398,11,Man City,h,gw_26,2,43,11
+399,11,Man City,a,gw_27,3,43,11
+400,11,Man City,a,gw_29,4,43,11
+401,11,Man City,a,gw_3,2,43,11
+402,11,Man City,h,gw_30,3,43,11
+403,11,Man City,h,gw_30,3,43,11
+404,11,Man City,a,gw_31,4,43,11
+405,11,Man City,h,gw_32,4,43,11
+406,11,Man City,a,gw_33,2,43,11
+407,11,Man City,h,gw_34,2,43,11
+408,11,Man City,a,gw_35,2,43,11
+409,11,Man City,h,gw_36,2,43,11
+410,11,Man City,a,gw_37,3,43,11
+411,11,Man City,h,gw_38,2,43,11
+412,11,Man City,h,gw_4,2,43,11
+413,11,Man City,a,gw_5,2,43,11
+414,11,Man City,h,gw_6,2,43,11
+415,11,Man City,a,gw_7,4,43,11
+416,11,Man City,h,gw_8,4,43,11
+417,11,Man City,a,gw_9,3,43,11
+418,12,Man Utd,h,gw_1,4,1,12
+419,12,Man Utd,a,gw_10,2,1,12
+420,12,Man Utd,a,gw_11,2,1,12
+421,12,Man Utd,h,gw_12,2,1,12
+422,12,Man Utd,a,gw_13,3,1,12
+423,12,Man Utd,h,gw_14,2,1,12
+424,12,Man Utd,h,gw_15,3,1,12
+425,12,Man Utd,a,gw_16,4,1,12
+426,12,Man Utd,h,gw_17,2,1,12
+427,12,Man Utd,a,gw_18,3,1,12
+428,12,Man Utd,h,gw_19,2,1,12
+429,12,Man Utd,a,gw_2,3,1,12
+430,12,Man Utd,a,gw_20,3,1,12
+431,12,Man Utd,a,gw_21,4,1,12
+432,12,Man Utd,h,gw_22,2,1,12
+433,12,Man Utd,a,gw_23,5,1,12
+434,12,Man Utd,h,gw_24,3,1,12
+435,12,Man Utd,h,gw_25,4,1,12
+436,12,Man Utd,a,gw_26,4,1,12
+437,12,Man Utd,h,gw_27,2,1,12
+438,12,Man Utd,a,gw_28,4,1,12
+439,12,Man Utd,h,gw_29,4,1,12
+440,12,Man Utd,h,gw_3,3,1,12
+441,12,Man Utd,a,gw_30,4,1,12
+442,12,Man Utd,h,gw_31,3,1,12
+443,12,Man Utd,a,gw_32,2,1,12
+444,12,Man Utd,h,gw_33,2,1,12
+445,12,Man Utd,a,gw_34,2,1,12
+446,12,Man Utd,h,gw_35,3,1,12
+447,12,Man Utd,a,gw_36,3,1,12
+448,12,Man Utd,h,gw_37,2,1,12
+449,12,Man Utd,a,gw_38,3,1,12
+450,12,Man Utd,a,gw_4,2,1,12
+451,12,Man Utd,h,gw_5,3,1,12
+452,12,Man Utd,a,gw_6,2,1,12
+453,12,Man Utd,h,gw_7,3,1,12
+454,12,Man Utd,a,gw_8,2,1,12
+455,12,Man Utd,h,gw_9,4,1,12
+456,13,Newcastle,h,gw_1,3,4,23
+457,13,Newcastle,h,gw_10,4,4,23
+458,13,Newcastle,a,gw_11,2,4,23
+459,13,Newcastle,h,gw_12,2,4,23
+460,13,Newcastle,a,gw_13,2,4,23
+461,13,Newcastle,h,gw_14,4,4,23
+462,13,Newcastle,a,gw_15,3,4,23
+463,13,Newcastle,h,gw_16,3,4,23
+464,13,Newcastle,a,gw_17,3,4,23
+465,13,Newcastle,h,gw_18,3,4,23
+466,13,Newcastle,a,gw_19,4,4,23
+467,13,Newcastle,a,gw_2,2,4,23
+468,13,Newcastle,h,gw_20,2,4,23
+469,13,Newcastle,h,gw_21,3,4,23
+470,13,Newcastle,a,gw_22,3,4,23
+471,13,Newcastle,h,gw_23,4,4,23
+472,13,Newcastle,a,gw_24,4,4,23
+473,13,Newcastle,h,gw_25,2,4,23
+474,13,Newcastle,a,gw_26,4,4,23
+475,13,Newcastle,a,gw_27,3,4,23
+476,13,Newcastle,h,gw_28,3,4,23
+477,13,Newcastle,a,gw_29,2,4,23
+478,13,Newcastle,a,gw_3,4,4,23
+479,13,Newcastle,h,gw_30,3,4,23
+480,13,Newcastle,h,gw_31,2,4,23
+481,13,Newcastle,a,gw_32,2,4,23
+482,13,Newcastle,h,gw_33,2,4,23
+483,13,Newcastle,a,gw_34,4,4,23
+484,13,Newcastle,a,gw_35,3,4,23
+485,13,Newcastle,h,gw_36,3,4,23
+486,13,Newcastle,a,gw_37,2,4,23
+487,13,Newcastle,h,gw_38,4,4,23
+488,13,Newcastle,h,gw_4,2,4,23
+489,13,Newcastle,a,gw_5,5,4,23
+490,13,Newcastle,h,gw_6,2,4,23
+491,13,Newcastle,a,gw_7,3,4,23
+492,13,Newcastle,h,gw_8,4,4,23
+493,13,Newcastle,a,gw_9,4,4,23
+494,14,Norwich,a,gw_1,5,45,14
+495,14,Norwich,h,gw_10,4,45,14
+496,14,Norwich,a,gw_11,2,45,14
+497,14,Norwich,h,gw_12,2,45,14
+498,14,Norwich,a,gw_13,4,45,14
+499,14,Norwich,h,gw_14,3,45,14
+500,14,Norwich,a,gw_15,2,45,14
+501,14,Norwich,h,gw_16,3,45,14
+502,14,Norwich,a,gw_17,3,45,14
+503,14,Norwich,h,gw_18,4,45,14
+504,14,Norwich,a,gw_19,2,45,14
+505,14,Norwich,h,gw_2,2,45,14
+506,14,Norwich,h,gw_20,3,45,14
+507,14,Norwich,h,gw_21,3,45,14
+508,14,Norwich,a,gw_22,4,45,14
+509,14,Norwich,h,gw_23,2,45,14
+510,14,Norwich,a,gw_24,4,45,14
+511,14,Norwich,a,gw_25,2,45,14
+512,14,Norwich,h,gw_26,4,45,14
+513,14,Norwich,a,gw_27,3,45,14
+514,14,Norwich,h,gw_28,3,45,14
+515,14,Norwich,a,gw_29,3,45,14
+516,14,Norwich,h,gw_3,4,45,14
+517,14,Norwich,h,gw_30,3,45,14
+518,14,Norwich,h,gw_31,2,45,14
+519,14,Norwich,a,gw_32,4,45,14
+520,14,Norwich,h,gw_33,2,45,14
+521,14,Norwich,a,gw_34,3,45,14
+522,14,Norwich,h,gw_35,2,45,14
+523,14,Norwich,a,gw_36,4,45,14
+524,14,Norwich,h,gw_37,3,45,14
+525,14,Norwich,a,gw_38,4,45,14
+526,14,Norwich,a,gw_4,2,45,14
+527,14,Norwich,h,gw_5,4,45,14
+528,14,Norwich,a,gw_6,3,45,14
+529,14,Norwich,a,gw_7,3,45,14
+530,14,Norwich,h,gw_8,2,45,14
+531,14,Norwich,a,gw_9,2,45,14
+532,15,Sheffield Utd,a,gw_1,2,49,18
+533,15,Sheffield Utd,a,gw_10,2,49,18
+534,15,Sheffield Utd,h,gw_11,3,49,18
+535,15,Sheffield Utd,a,gw_12,4,49,18
+536,15,Sheffield Utd,h,gw_13,4,49,18
+537,15,Sheffield Utd,a,gw_14,3,49,18
+538,15,Sheffield Utd,h,gw_15,2,49,18
+539,15,Sheffield Utd,a,gw_16,2,49,18
+540,15,Sheffield Utd,h,gw_17,2,49,18
+541,15,Sheffield Utd,a,gw_18,2,49,18
+542,15,Sheffield Utd,h,gw_19,2,49,18
+543,15,Sheffield Utd,h,gw_2,3,49,18
+544,15,Sheffield Utd,a,gw_20,4,49,18
+545,15,Sheffield Utd,a,gw_21,5,49,18
+546,15,Sheffield Utd,h,gw_22,2,49,18
+547,15,Sheffield Utd,a,gw_23,4,49,18
+548,15,Sheffield Utd,h,gw_24,4,49,18
+549,15,Sheffield Utd,a,gw_25,3,49,18
+550,15,Sheffield Utd,h,gw_26,2,49,18
+551,15,Sheffield Utd,h,gw_27,2,49,18
+552,15,Sheffield Utd,h,gw_29,2,49,18
+553,15,Sheffield Utd,h,gw_3,3,49,18
+554,15,Sheffield Utd,a,gw_30,2,49,18
+555,15,Sheffield Utd,a,gw_30,2,49,18
+556,15,Sheffield Utd,a,gw_31,4,49,18
+557,15,Sheffield Utd,h,gw_32,3,49,18
+558,15,Sheffield Utd,a,gw_33,3,49,18
+559,15,Sheffield Utd,h,gw_34,4,49,18
+560,15,Sheffield Utd,h,gw_35,4,49,18
+561,15,Sheffield Utd,a,gw_36,3,49,18
+562,15,Sheffield Utd,h,gw_37,2,49,18
+563,15,Sheffield Utd,a,gw_38,2,49,18
+564,15,Sheffield Utd,a,gw_4,4,49,18
+565,15,Sheffield Utd,h,gw_5,3,49,18
+566,15,Sheffield Utd,a,gw_6,4,49,18
+567,15,Sheffield Utd,h,gw_7,4,49,18
+568,15,Sheffield Utd,a,gw_8,3,49,18
+569,15,Sheffield Utd,h,gw_9,3,49,18
+570,16,Southampton,a,gw_1,3,20,20
+571,16,Southampton,h,gw_10,3,20,20
+572,16,Southampton,a,gw_11,4,20,20
+573,16,Southampton,h,gw_12,2,20,20
+574,16,Southampton,a,gw_13,4,20,20
+575,16,Southampton,h,gw_14,2,20,20
+576,16,Southampton,h,gw_15,2,20,20
+577,16,Southampton,a,gw_16,2,20,20
+578,16,Southampton,h,gw_17,2,20,20
+579,16,Southampton,a,gw_18,2,20,20
+580,16,Southampton,a,gw_19,4,20,20
+581,16,Southampton,h,gw_2,4,20,20
+582,16,Southampton,h,gw_20,3,20,20
+583,16,Southampton,h,gw_21,3,20,20
+584,16,Southampton,a,gw_22,3,20,20
+585,16,Southampton,h,gw_23,4,20,20
+586,16,Southampton,a,gw_24,3,20,20
+587,16,Southampton,a,gw_25,5,20,20
+588,16,Southampton,h,gw_26,3,20,20
+589,16,Southampton,h,gw_27,2,20,20
+590,16,Southampton,a,gw_28,2,20,20
+591,16,Southampton,h,gw_29,2,20,20
+592,16,Southampton,a,gw_3,2,20,20
+593,16,Southampton,a,gw_30,2,20,20
+594,16,Southampton,h,gw_31,3,20,20
+595,16,Southampton,a,gw_32,3,20,20
+596,16,Southampton,h,gw_33,4,20,20
+597,16,Southampton,a,gw_34,4,20,20
+598,16,Southampton,a,gw_35,4,20,20
+599,16,Southampton,h,gw_36,2,20,20
+600,16,Southampton,a,gw_37,2,20,20
+601,16,Southampton,h,gw_38,3,20,20
+602,16,Southampton,h,gw_4,4,20,20
+603,16,Southampton,a,gw_5,3,20,20
+604,16,Southampton,h,gw_6,2,20,20
+605,16,Southampton,a,gw_7,4,20,20
+606,16,Southampton,h,gw_8,4,20,20
+607,16,Southampton,a,gw_9,3,20,20
+608,17,Spurs,h,gw_1,2,6,21
+609,17,Spurs,a,gw_10,5,6,21
+610,17,Spurs,a,gw_11,4,6,21
+611,17,Spurs,h,gw_12,3,6,21
+612,17,Spurs,a,gw_13,2,6,21
+613,17,Spurs,h,gw_14,2,6,21
+614,17,Spurs,a,gw_15,4,6,21
+615,17,Spurs,h,gw_16,3,6,21
+616,17,Spurs,a,gw_17,3,6,21
+617,17,Spurs,h,gw_18,4,6,21
+618,17,Spurs,h,gw_19,2,6,21
+619,17,Spurs,a,gw_2,4,6,21
+620,17,Spurs,a,gw_20,2,6,21
+621,17,Spurs,a,gw_21,2,6,21
+622,17,Spurs,h,gw_22,4,6,21
+623,17,Spurs,a,gw_23,3,6,21
+624,17,Spurs,h,gw_24,2,6,21
+625,17,Spurs,h,gw_25,4,6,21
+626,17,Spurs,a,gw_26,2,6,21
+627,17,Spurs,a,gw_27,4,6,21
+628,17,Spurs,h,gw_28,4,6,21
+629,17,Spurs,a,gw_29,3,6,21
+630,17,Spurs,h,gw_3,2,6,21
+631,17,Spurs,h,gw_30,4,6,21
+632,17,Spurs,h,gw_31,2,6,21
+633,17,Spurs,a,gw_32,3,6,21
+634,17,Spurs,h,gw_33,2,6,21
+635,17,Spurs,a,gw_34,2,6,21
+636,17,Spurs,h,gw_35,3,6,21
+637,17,Spurs,a,gw_36,2,6,21
+638,17,Spurs,h,gw_37,3,6,21
+639,17,Spurs,a,gw_38,3,6,21
+640,17,Spurs,a,gw_4,4,6,21
+641,17,Spurs,h,gw_5,3,6,21
+642,17,Spurs,a,gw_6,3,6,21
+643,17,Spurs,h,gw_7,3,6,21
+644,17,Spurs,a,gw_8,2,6,21
+645,17,Spurs,h,gw_9,2,6,21
+646,18,Watford,h,gw_1,2,57,33
+647,18,Watford,h,gw_10,2,57,33
+648,18,Watford,h,gw_11,4,57,33
+649,18,Watford,a,gw_12,2,57,33
+650,18,Watford,h,gw_13,3,57,33
+651,18,Watford,a,gw_14,2,57,33
+652,18,Watford,a,gw_15,3,57,33
+653,18,Watford,h,gw_16,3,57,33
+654,18,Watford,a,gw_17,5,57,33
+655,18,Watford,h,gw_18,4,57,33
+656,18,Watford,a,gw_19,3,57,33
+657,18,Watford,a,gw_2,4,57,33
+658,18,Watford,h,gw_20,2,57,33
+659,18,Watford,h,gw_21,4,57,33
+660,18,Watford,a,gw_22,2,57,33
+661,18,Watford,h,gw_23,3,57,33
+662,18,Watford,a,gw_24,2,57,33
+663,18,Watford,h,gw_25,2,57,33
+664,18,Watford,a,gw_26,2,57,33
+665,18,Watford,a,gw_27,4,57,33
+666,18,Watford,h,gw_28,4,57,33
+667,18,Watford,a,gw_29,3,57,33
+668,18,Watford,h,gw_3,2,57,33
+669,18,Watford,h,gw_30,3,57,33
+670,18,Watford,a,gw_31,3,57,33
+671,18,Watford,h,gw_32,3,57,33
+672,18,Watford,a,gw_33,4,57,33
+673,18,Watford,h,gw_34,2,57,33
+674,18,Watford,h,gw_35,2,57,33
+675,18,Watford,a,gw_36,2,57,33
+676,18,Watford,h,gw_37,4,57,33
+677,18,Watford,a,gw_38,4,57,33
+678,18,Watford,a,gw_4,2,57,33
+679,18,Watford,h,gw_5,3,57,33
+680,18,Watford,a,gw_6,4,57,33
+681,18,Watford,a,gw_7,3,57,33
+682,18,Watford,h,gw_8,3,57,33
+683,18,Watford,a,gw_9,4,57,33
+684,19,West Ham,h,gw_1,4,21,25
+685,19,West Ham,h,gw_10,3,21,25
+686,19,West Ham,h,gw_11,2,21,25
+687,19,West Ham,a,gw_12,3,21,25
+688,19,West Ham,h,gw_13,3,21,25
+689,19,West Ham,a,gw_14,4,21,25
+690,19,West Ham,a,gw_15,3,21,25
+691,19,West Ham,h,gw_16,3,21,25
+692,19,West Ham,a,gw_17,2,21,25
+693,19,West Ham,a,gw_19,3,21,25
+694,19,West Ham,a,gw_2,2,21,25
+695,19,West Ham,h,gw_20,3,21,25
+696,19,West Ham,h,gw_21,2,21,25
+697,19,West Ham,a,gw_22,3,21,25
+698,19,West Ham,h,gw_23,2,21,25
+699,19,West Ham,a,gw_24,3,21,25
+700,19,West Ham,h,gw_24,4,21,25
+701,19,West Ham,h,gw_25,2,21,25
+702,19,West Ham,a,gw_26,4,21,25
+703,19,West Ham,a,gw_27,5,21,25
+704,19,West Ham,h,gw_28,3,21,25
+705,19,West Ham,a,gw_29,4,21,25
+706,19,West Ham,a,gw_3,3,21,25
+707,19,West Ham,h,gw_30,4,21,25
+708,19,West Ham,a,gw_31,4,21,25
+709,19,West Ham,h,gw_32,4,21,25
+710,19,West Ham,a,gw_33,2,21,25
+711,19,West Ham,h,gw_34,3,21,25
+712,19,West Ham,a,gw_35,2,21,25
+713,19,West Ham,h,gw_36,2,21,25
+714,19,West Ham,a,gw_37,4,21,25
+715,19,West Ham,h,gw_38,2,21,25
+716,19,West Ham,h,gw_4,2,21,25
+717,19,West Ham,a,gw_5,2,21,25
+718,19,West Ham,h,gw_6,4,21,25
+719,19,West Ham,a,gw_7,2,21,25
+720,19,West Ham,h,gw_8,3,21,25
+721,19,West Ham,a,gw_9,4,21,25
+722,20,Wolves,a,gw_1,3,39,38
+723,20,Wolves,a,gw_10,2,39,38
+724,20,Wolves,a,gw_11,4,39,38
+725,20,Wolves,h,gw_12,2,39,38
+726,20,Wolves,a,gw_13,2,39,38
+727,20,Wolves,h,gw_14,3,39,38
+728,20,Wolves,h,gw_15,2,39,38
+729,20,Wolves,a,gw_16,2,39,38
+730,20,Wolves,h,gw_17,3,39,38
+731,20,Wolves,a,gw_18,2,39,38
+732,20,Wolves,h,gw_19,4,39,38
+733,20,Wolves,h,gw_2,4,39,38
+734,20,Wolves,a,gw_20,5,39,38
+735,20,Wolves,a,gw_21,3,39,38
+736,20,Wolves,h,gw_22,2,39,38
+737,20,Wolves,a,gw_23,2,39,38
+738,20,Wolves,h,gw_24,4,39,38
+739,20,Wolves,a,gw_25,4,39,38
+740,20,Wolves,h,gw_26,3,39,38
+741,20,Wolves,h,gw_27,2,39,38
+742,20,Wolves,a,gw_28,4,39,38
+743,20,Wolves,h,gw_29,2,39,38
+744,20,Wolves,h,gw_3,3,39,38
+745,20,Wolves,a,gw_30,2,39,38
+746,20,Wolves,h,gw_31,2,39,38
+747,20,Wolves,a,gw_32,2,39,38
+748,20,Wolves,h,gw_33,3,39,38
+749,20,Wolves,a,gw_34,3,39,38
+750,20,Wolves,h,gw_35,2,39,38
+751,20,Wolves,a,gw_36,3,39,38
+752,20,Wolves,h,gw_37,3,39,38
+753,20,Wolves,a,gw_38,4,39,38
+754,20,Wolves,a,gw_4,4,39,38
+755,20,Wolves,h,gw_5,4,39,38
+756,20,Wolves,a,gw_6,3,39,38
+757,20,Wolves,h,gw_7,2,39,38
+758,20,Wolves,a,gw_8,4,39,38
+759,20,Wolves,h,gw_9,3,39,38
